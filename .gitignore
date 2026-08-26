@@ -1,0 +1,45 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+ENV/
+
+# Bytecode / cache de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribución / empaquetado
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Entornos y configuración local
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datos crudos descargados (no versionar)
+data/
+raw/
+*.csv
+*.xlsx
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Editores / SO
+.vscode/
+.idea/
+.DS_Store
+
+# Testing / cobertura
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+htmlcov/
+.coverage
