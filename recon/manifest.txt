@@ -1,0 +1,39 @@
+# Reconocimiento CKAN — datos.hcdn.gob.ar
+# Generado: 2026-08-27 | umbral de fecha: 2025-12-10
+
+## 1. Datasets disponibles (package_list)
+>> consultando package_list...
+Total datasets: 31
+  - bloques-interbloques-e-integracion
+  - comisiones
+  - diarios-de-sesiones
+  - dictamenes
+  - dietas-y-gastos-de-representacion-legisladores-as
+  - ejecucion-presupuestaria-de-la-camara-de-diputados-de-la-nacion
+  - escala-salarial
+  - estructura-organica-de-la_camara-de-diputados-de-la-nacion
+  - estructura-organica-de-la-camara-de-diputados-de-la-nacion
+  - expedientes
+  - giro-a-comisiones
+  - grupos-parlamentarios-de-amistad
+  - legisladores
+  - leyes-promulgadas
+  - leyes-sancionadas
+  - leyes-sumario
+  - licitaciones-y-contrataciones
+  - misiones-oficiales
+  - movimientos-de-proyectos
+  - nomina-de-personal
+  - periodos_p
+  - proyectos-parlamentarios
+  - publicaciones
+  - resultado-de-proyectos
+  - resultado-proyectos
+  - sesiones
+  - solicitudes-de-acceso-a-la-informacion
+  - subsidios
+  - viajes-nacionales
+  - votacionesnominales
+  - votaciones_nominales
+
+>> SMOKE TEST: package_list respondió OK, frenando acá (--smoke-test).
