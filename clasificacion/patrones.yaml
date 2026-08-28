@@ -1,0 +1,77 @@
+# Patrones de clasificación de títulos de votación.
+#
+# Cada patrón es una expresión regular de Python, evaluada con re.search()
+# sobre el título ya pasado por normalizar() (mayúsculas, sin acentos,
+# espacios colapsados, puntos convertidos en espacio).
+#
+# Orden de prioridad al clasificar (ver clasificador.py):
+#   PROCEDIMIENTO > FONDO_GENERAL > FONDO_PARTICULAR > REVISAR (fallback)
+#
+# Dentro de cada categoría, el orden importa para la auditoría: se reporta
+# el PRIMER patrón que matchea, así que los patrones más específicos van
+# antes que sus variantes más genéricas (ej. "EN GRAL Y PART" antes que
+# "EN GRAL" a secas).
+#
+# IMPORTANTE: "insistencia" NO está (a propósito) entre los patrones de
+# PROCEDIMIENTO. La insistencia es una votación de fondo -reafirma una
+# postura de la Cámara sobre el contenido de un proyecto- aunque requiera
+# mayoría agravada (dos tercios) para insistir frente al Senado/Ejecutivo.
+# No confundir "requiere mayoría especial" con "es un trámite de
+# procedimiento".
+#
+# TODO: validar estos patrones (sobre todo los de PROCEDIMIENTO y
+# FONDO_PARTICULAR) contra un corpus real de títulos de actas antes de
+# usarlos para clasificar en producción. Son provisorios.
+
+# Los patrones de PROCEDIMIENTO pueden ser un string simple (sin
+# subcategoría) o un dict {patron, etiqueta} cuando el trámite amerita una
+# etiqueta propia dentro de PROCEDIMIENTO -por ahora, APARTAMIENTO-.
+#
+# APARTAMIENTO (apartamiento del reglamento) se etiqueta aparte porque es
+# señal política distinta del resto de los trámites de procedimiento:
+# revela quién acompaña habilitar el tratamiento de un tema sensible,
+# incluso si después no acompaña el fondo. Sigue siendo PROCEDIMIENTO (no
+# es un tema de fondo), pero la etiqueta permite aislarla en el análisis.
+PROCEDIMIENTO:
+  # "APARTAMIENTO" seguido de "REGLAMENTO" con cualquier cosa entre medio
+  # (de, del, o nada) — ej. "APARTAMIENTO DE REGLAMENTO", "APARTAMIENTO
+  # DEL REGLAMENTO", "APARTAMIENTO REGLAMENTO". Va primero por ser el más
+  # específico (mejor para auditoría: reporta el conector real).
+  - patron: "\\bAPARTAMIENTO(\\s+DEL?)?\\s+REGLAMENTO\\b"
+    etiqueta: APARTAMIENTO
+  - patron: "APARTARSE DEL REGLAMENTO"
+    etiqueta: APARTAMIENTO
+  # fallback: "apartamiento" mencionado sin "reglamento" cerca
+  - patron: "\\bAPARTAMIENTO\\b"
+    etiqueta: APARTAMIENTO
+  - "SOBRE TABLAS"
+  - "MOCION DE PREFERENCIA"
+  - "\\bPREFERENCIA\\b"
+  - "CUARTO INTERMEDIO"
+  - "CIERRE DEL DEBATE"
+  - "PRORROGA"
+  - "APLAZAMIENTO"
+  - "ALTERACION DEL PLAN DE LABOR"
+  - "RECONSIDERACION"
+  - "AUTORIZACION PARA ABSTENERSE"
+  - "CUESTION DE PRIVILEGIO"
+  - "CONSTITUCION EN COMISION"
+  - "IMPUGNACION"
+  - "JURAMENTO"
+  - "INCORPORACION"
+
+FONDO_GENERAL:
+  - "\\bEN GRAL Y PART\\b"
+  - "\\bEN GRAL\\b"
+  - "\\bEN G Y P\\b"
+  - "\\bEN G\\b"
+
+FONDO_PARTICULAR:
+  - "\\bEN PART\\b"
+  - "\\bEN P\\b"
+  - "\\bARTICULO\\b"
+  - "\\bART\\s*\\d+"
+  - "\\bCAPITULO\\b"
+
+# REVISAR no tiene patrones propios: es lo que queda cuando ninguna de las
+# categorías de arriba matchea.
