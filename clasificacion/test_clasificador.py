@@ -184,6 +184,76 @@ def test_fondo_particular_provisorio_palabra_articulo_sin_general():
 
 
 # ---------------------------------------------------------------------------
+# "TÍTULO" + número romano — títulos REALES (Ley de Modernización Laboral,
+# acta 5857 y acta 5853 de la ventana 2025-2026). Blindan que agregar el
+# patrón TITULO no rompe la prioridad FONDO_GENERAL > FONDO_PARTICULAR.
+# ---------------------------------------------------------------------------
+
+
+def test_fondo_particular_titulo_real_ley_modernizacion_laboral():
+    titulo = "O.D. 6 - LEY DE MODERNIZACIÓN LABORAL. DICT. DE MAY. TÍTULO III."
+    resultado = clasificar_votacion(titulo)
+    assert resultado.categoria == "FONDO_PARTICULAR"
+    assert "TITULO" in resultado.patron_matcheado
+
+
+def test_fondo_general_titulo_real_ley_modernizacion_laboral_no_se_rompe():
+    # Misma ley, pero "VOT. EN GRAL." debe seguir ganando FONDO_GENERAL
+    # aunque el título también diga "TÍTULO" en otro sentido (dictamen).
+    titulo = "O.D. 6 - LEY DE MODERNIZACIÓN LABORAL. DICT. DE MAY. VOT. EN GRAL."
+    resultado = clasificar_votacion(titulo)
+    assert resultado.categoria == "FONDO_GENERAL"
+
+
+# ---------------------------------------------------------------------------
+# "EN" opcional antes de GRAL/PART — título real (acta 5955) que dice
+# "VOT GRAL Y PART" sin el "EN".
+# ---------------------------------------------------------------------------
+
+
+def test_fondo_general_titulo_real_sin_en_antes_de_gral():
+    titulo = (
+        "O.D. 148 - AC. DE CONCILIACIÓN E/ LA REP. ARG. Y BAINBRIDGE LTD. Y E/ "
+        "LA REP. ARG. Y EL GRUPO DE ACREED. ENCABEZADO POR ATTESTOR VMF. "
+        "VOT GRAL Y PART."
+    )
+    resultado = clasificar_votacion(titulo)
+    assert resultado.categoria == "FONDO_GENERAL"
+
+
+# ---------------------------------------------------------------------------
+# "MOCION DE ORDEN" — título real (acta 5918)
+# ---------------------------------------------------------------------------
+
+
+def test_procedimiento_titulo_real_mocion_de_orden():
+    titulo = "MOCIÓN DE ORDEN SOLICITADA POR EL DIP. MARTÍNEZ, GERMÁN."
+    resultado = clasificar_votacion(titulo)
+    assert resultado.categoria == "PROCEDIMIENTO"
+
+
+# ---------------------------------------------------------------------------
+# "APROBACION"/"APROB" de tratados — títulos reales (actas 5923, 5927,
+# 5928, 5929), verificados como una sola acta por O.D. antes de agregar
+# el patrón.
+# ---------------------------------------------------------------------------
+
+
+@pytest.mark.parametrize(
+    "titulo",
+    [
+        "O.D. 18 - TRATADO SOBRE TRASLADO DE PERSONAS CONDENADAS O SUJETAS A "
+        "MEDIDAS DE SEGURIDAD ENTRE LA REP. ARGENTINA Y LA REP. ITALIANA. APROBACIÓN.",
+        "O.D. 22 - CONVENIO INTERNACIONAL DE NAIROBI SOBRE LA REMOCIÓN DE RESTOS "
+        "DE NAUFRAGIO, 2007, CELEBRADO EN LA CIUDAD DE NAIROBI -REP. DE KENIA-. APROB.",
+    ],
+)
+def test_fondo_general_titulos_reales_aprobacion_tratados(titulo):
+    resultado = clasificar_votacion(titulo)
+    assert resultado.categoria == "FONDO_GENERAL"
+
+
+# ---------------------------------------------------------------------------
 # REVISAR — casos PROVISORIOS
 # ---------------------------------------------------------------------------
 

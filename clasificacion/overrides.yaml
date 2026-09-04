@@ -1,0 +1,26 @@
+# Correcciones manuales de clasificación, por acta_id.
+#
+# Separado a propósito del clasificador automático (clasificador.py +
+# patrones.yaml): esto NO es un patrón de texto, es una corrección puntual
+# para actas concretas donde el título no tiene ningún marcador textual
+# que el clasificador pueda reconocer, pero hay contexto externo (misma
+# sesión, mismo tipo de trámite que otra acta ya clasificada) que permite
+# resolverlo a mano.
+#
+# Un override acá tiene prioridad ABSOLUTA sobre el resultado del
+# clasificador automático para esa acta_id. El campo "motivo" es
+# obligatorio — esto tiene que quedar auditable, no ser un parche mudo.
+#
+# Formato:
+#   "<acta_id>":
+#     categoria: PROCEDIMIENTO | FONDO_GENERAL | FONDO_PARTICULAR | REVISAR
+#     etiqueta: <opcional, ej. APARTAMIENTO — solo si aplica dentro de PROCEDIMIENTO>
+#     motivo: "<por qué se corrige a mano>"
+
+"5928":
+  categoria: FONDO_GENERAL
+  motivo: "tratado internacional, mismo día y patrón que O.D. 18/22 ya clasificados; sin marcador textual en el título"
+
+"5929":
+  categoria: FONDO_GENERAL
+  motivo: "tratado internacional, mismo día y patrón que O.D. 18/22 ya clasificados; sin marcador textual en el título"

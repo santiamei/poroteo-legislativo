@@ -59,19 +59,38 @@ PROCEDIMIENTO:
   - "IMPUGNACION"
   - "JURAMENTO"
   - "INCORPORACION"
+  - "MOCION DE ORDEN"
 
+# El "EN" antes de GRAL/PART/G/P es opcional: hay títulos reales que dicen
+# "VOT GRAL Y PART" en vez de "VOT EN GRAL Y PART" (acta 5955). Los
+# patrones de una sola letra (G, P) quedan más permisivos al sacarles el
+# "EN" -si en algún momento generan un falso positivo, achicar el alcance
+# acá primero antes que en el resto.
 FONDO_GENERAL:
-  - "\\bEN GRAL Y PART\\b"
-  - "\\bEN GRAL\\b"
-  - "\\bEN G Y P\\b"
-  - "\\bEN G\\b"
+  - "\\b(EN\\s+)?GRAL Y PART\\b"
+  - "\\b(EN\\s+)?GRAL\\b"
+  - "\\b(EN\\s+)?G Y P\\b"
+  - "\\b(EN\\s+)?G\\b"
+  # Aprobación de tratados internacionales sin marcador EN GRAL/PART
+  # explícito. Verificado contra la ventana real: O.D. 18, 22, 23 y 24
+  # (tratados/convenios) se votan en una sola acta cada uno, sin etapa
+  # de particular separada -por eso es seguro tratarlos como FONDO_GENERAL.
+  - "\\bAPROBACION\\b"
+  - "\\bAPROB\\b"
 
 FONDO_PARTICULAR:
-  - "\\bEN PART\\b"
-  - "\\bEN P\\b"
+  - "\\b(EN\\s+)?PART\\b"
+  - "\\b(EN\\s+)?P\\b"
   - "\\bARTICULO\\b"
   - "\\bART\\s*\\d+"
   - "\\bCAPITULO\\b"
+  # "TÍTULO" + número romano (ej. "TÍTULO I", "TÍTULO XXVI") — visto en
+  # votaciones por título de leyes grandes tratadas por partes (Ley de
+  # Modernización Laboral, Carta Orgánica del BCRA, etc.). Como
+  # FONDO_GENERAL se evalúa antes que FONDO_PARTICULAR, un título con
+  # "VOT. EN GRAL." y también "TÍTULO N" sigue clasificando FONDO_GENERAL
+  # -este patrón solo entra en juego cuando no hay marcador de general.
+  - "\\bTITULO\\s+[IVXLCDM]+\\b"
 
 # REVISAR no tiene patrones propios: es lo que queda cuando ninguna de las
 # categorías de arriba matchea.
