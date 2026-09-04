@@ -1,0 +1,25 @@
+# Eje temático por acta, asignado A MANO sobre las 13 actas FONDO_GENERAL
+# disputadas (división > 0.15). No es un clasificador — es una etiqueta
+# manual, igual de espíritu que overrides.yaml pero para eje en vez de
+# categoría. Reutilizado por modelo/datos_evidencia.py para condicionar
+# las tasas históricas por eje.
+#
+# Solo cubre estas 13 actas — las otras 29 FONDO_GENERAL "de consenso" no
+# tienen eje asignado (no hacía falta para el análisis de despegues, y
+# asignárselo a mano no está hecho todavía). El modelo trata "sin eje
+# asignado" como evidencia que solo cuenta para la tasa general, no para
+# ninguna tasa por-eje específica.
+
+"5822": "Económico/fiscal"
+"5838": "Económico/fiscal"
+"5956": "Económico/fiscal"
+"5974": "Económico/fiscal"
+"5971": "Económico/fiscal"
+"5955": "Económico/fiscal"
+"5853": "Laboral"
+"5902": "Ambiental/regulatorio"
+"5919": "Ambiental/regulatorio"
+"5847": "Social/derechos"
+"5931": "Federal/servicios"
+"5849": "Comercio exterior"
+"5981": "Comercio exterior"
