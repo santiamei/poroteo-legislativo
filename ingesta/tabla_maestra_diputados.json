@@ -1,0 +1,4424 @@
+[
+  {
+    "id": "aguero-guillermo-cesar",
+    "slug_real_datacp": "aguero-guillermo-cesar",
+    "nombre_canonico": "AGUERO, GUILLERMO CESAR",
+    "nombres_variantes": [
+      "AGUERO, GUILLERMO CESAR"
+    ],
+    "provincia": [
+      "Chaco"
+    ],
+    "bloques": [
+      "Ucr - Union Civica Radical"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "aguirre-hilda-clelia",
+    "slug_real_datacp": "aguirre-hilda-clelia",
+    "nombre_canonico": "AGUIRRE, HILDA",
+    "nombres_variantes": [
+      "AGUIRRE, HILDA"
+    ],
+    "provincia": [
+      "La Rioja"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "ajmechet-sabrina",
+    "slug_real_datacp": "ajmechet-sabrina",
+    "nombre_canonico": "AJMECHET, SABRINA",
+    "nombres_variantes": [
+      "AJMECHET, SABRINA"
+    ],
+    "provincia": [
+      "C.A.B.A."
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "ali-ernesto",
+    "slug_real_datacp": "ali-ernesto",
+    "nombre_canonico": "ALI, ERNESTO \"PIPI\"",
+    "nombres_variantes": [
+      "ALI, ERNESTO \"PIPI\""
+    ],
+    "provincia": [
+      "San Luis"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "almena-carlos-alberto",
+    "slug_real_datacp": "almena-carlos-alberto",
+    "nombre_canonico": "ALMENA, CARLOS ALBERTO",
+    "nombres_variantes": [
+      "ALMENA, CARLOS ALBERTO"
+    ],
+    "provincia": [
+      "San Luis"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "almiron-lisandro",
+    "slug_real_datacp": "almiron-lisandro",
+    "nombre_canonico": "ALMIRON, LISANDRO",
+    "nombres_variantes": [
+      "ALMIRON, LISANDRO"
+    ],
+    "provincia": [
+      "Corrientes"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "alvarez-claudio",
+    "slug_real_datacp": "alvarez-claudio",
+    "nombre_canonico": "ALVAREZ, CLAUDIO",
+    "nombres_variantes": [
+      "ALVAREZ, CLAUDIO"
+    ],
+    "provincia": [
+      "San Luis"
+    ],
+    "bloques": [
+      "Argentina Federal",
+      "Innovacion Federal",
+      "Pais Federal"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "andino-cristian",
+    "slug_real_datacp": "andino-cristian",
+    "nombre_canonico": "ANDINO, CRISTIAN",
+    "nombres_variantes": [
+      "ANDINO, CRISTIAN"
+    ],
+    "provincia": [
+      "San Juan"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "andrade-javier",
+    "slug_real_datacp": "andrade-javier",
+    "nombre_canonico": "ANDRADE, JAVIER",
+    "nombres_variantes": [
+      "ANDRADE, JAVIER"
+    ],
+    "provincia": [
+      "C.A.B.A."
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "andreussi-barbara",
+    "slug_real_datacp": "andreussi-barbara",
+    "nombre_canonico": "ANDREUSSI, BARBARA",
+    "nombres_variantes": [
+      "ANDREUSSI, BARBARA"
+    ],
+    "provincia": [
+      "Jujuy"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "ansaloni-pablo",
+    "slug_real_datacp": "ansaloni-pablo",
+    "nombre_canonico": "ANSALONI, PABLO",
+    "nombres_variantes": [
+      "ANSALONI, PABLO"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "arabia-damian",
+    "slug_real_datacp": "arabia-damian",
+    "nombre_canonico": "ARABIA, DAMIAN",
+    "nombres_variantes": [
+      "ARABIA, DAMIAN"
+    ],
+    "provincia": [
+      "C.A.B.A."
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "araujo-hernandez-jorge-neri",
+    "slug_real_datacp": "araujo-hernandez-jorge-neri",
+    "nombre_canonico": "ARAUJO HERNANDEZ, JORGE NERI",
+    "nombres_variantes": [
+      "ARAUJO HERNANDEZ, JORGE NERI"
+    ],
+    "provincia": [
+      "Tierra del Fuego"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "ardohain-martin",
+    "slug_real_datacp": "ardohain-martin",
+    "nombre_canonico": "ARDOHAIN, MARTIN",
+    "nombres_variantes": [
+      "ARDOHAIN, MARTIN"
+    ],
+    "provincia": [
+      "La Pampa"
+    ],
+    "bloques": [
+      "Pro"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "arrieta-lourdes-micaela",
+    "slug_real_datacp": "arrieta-lourdes-micaela",
+    "nombre_canonico": "ARRIETA, LOURDES MICAELA",
+    "nombres_variantes": [
+      "ARRIETA, LOURDES MICAELA"
+    ],
+    "provincia": [
+      "Mendoza"
+    ],
+    "bloques": [
+      "Provincias Unidas"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "arrua-alberto",
+    "slug_real_datacp": "arrua-alberto",
+    "nombre_canonico": "ARRUA, ALBERTO",
+    "nombres_variantes": [
+      "ARRUA, ALBERTO"
+    ],
+    "provincia": [
+      "Misiones"
+    ],
+    "bloques": [
+      "Argentina Federal",
+      "Innovacion Federal"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "aveiro-martin",
+    "slug_real_datacp": "aveiro-martin",
+    "nombre_canonico": "AVEIRO, MARTIN",
+    "nombres_variantes": [
+      "AVEIRO, MARTIN"
+    ],
+    "provincia": [
+      "Mendoza"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "avico-belen",
+    "slug_real_datacp": "avico-belen",
+    "nombre_canonico": "AVICO, BELEN",
+    "nombres_variantes": [
+      "AVICO, BELEN"
+    ],
+    "provincia": [
+      "Córdoba"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "avila-fernanda",
+    "slug_real_datacp": "avila-fernanda",
+    "nombre_canonico": "AVILA, FERNANDA",
+    "nombres_variantes": [
+      "AVILA, FERNANDA"
+    ],
+    "provincia": [
+      "Catamarca"
+    ],
+    "bloques": [
+      "Elijo Catamarca"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "avila-jorge-antonio",
+    "slug_real_datacp": "avila-jorge-antonio",
+    "nombre_canonico": "AVILA, JORGE ANTONIO",
+    "nombres_variantes": [
+      "AVILA, JORGE ANTONIO"
+    ],
+    "provincia": [
+      "Chubut"
+    ],
+    "bloques": [
+      "Provincias Unidas"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "banfi-karina",
+    "slug_real_datacp": "banfi-karina",
+    "nombre_canonico": "BANFI, KARINA",
+    "nombres_variantes": [
+      "BANFI, KARINA"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "Adelante Buenos Aires"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "barbur-marcelo",
+    "slug_real_datacp": "barbur-marcelo",
+    "nombre_canonico": "BARBUR, MARCELO",
+    "nombres_variantes": [
+      "BARBUR, MARCELO"
+    ],
+    "provincia": [
+      "Santiago del Estero"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "basterra-luis-eugenio",
+    "slug_real_datacp": "basterra-luis-eugenio",
+    "nombre_canonico": "BASTERRA, LUIS EUGENIO",
+    "nombres_variantes": [
+      "BASTERRA, LUIS EUGENIO"
+    ],
+    "provincia": [
+      "Formosa"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "basualdo-atilio",
+    "slug_real_datacp": "basualdo-atilio",
+    "nombre_canonico": "BASUALDO, ATILIO",
+    "nombres_variantes": [
+      "BASUALDO, ATILIO"
+    ],
+    "provincia": [
+      "Formosa"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "basualdo-carolina",
+    "slug_real_datacp": "basualdo-carolina",
+    "nombre_canonico": "BASUALDO, CAROLINA",
+    "nombres_variantes": [
+      "BASUALDO, CAROLINA"
+    ],
+    "provincia": [
+      "Córdoba"
+    ],
+    "bloques": [
+      "Provincias Unidas"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "becerra-monica",
+    "slug_real_datacp": "becerra-monica",
+    "nombre_canonico": "BECERRA, MONICA",
+    "nombres_variantes": [
+      "BECERRA, MONICA"
+    ],
+    "provincia": [
+      "San Luis"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "benedit-beltran",
+    "slug_real_datacp": "benedit-beltran",
+    "nombre_canonico": "BENEDIT, BELTRAN",
+    "nombres_variantes": [
+      "BENEDIT, BELTRAN"
+    ],
+    "provincia": [
+      "Entre Ríos"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "benegas-lynch-bertie",
+    "slug_real_datacp": "benegas-lynch-bertie",
+    "nombre_canonico": "BENEGAS LYNCH, BERTIE",
+    "nombres_variantes": [
+      "BENEGAS LYNCH, BERTIE"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "bianchetti-emmanuel",
+    "slug_real_datacp": "bianchetti-emmanuel",
+    "nombre_canonico": "BIANCHETTI, EMMANUEL",
+    "nombres_variantes": [
+      "BIANCHETTI, EMMANUEL"
+    ],
+    "provincia": [
+      "Misiones"
+    ],
+    "bloques": [
+      "Pro"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "biella-bernardo",
+    "slug_real_datacp": "biella-bernardo",
+    "nombre_canonico": "BIELLA, BERNARDO",
+    "nombres_variantes": [
+      "BIELLA, BERNARDO"
+    ],
+    "provincia": [
+      "Salta"
+    ],
+    "bloques": [
+      "Argentina Federal",
+      "Innovacion Federal"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "bonacci-rocio",
+    "slug_real_datacp": "bonacci-rocio",
+    "nombre_canonico": "BONACCI, ROCIO",
+    "nombres_variantes": [
+      "BONACCI, ROCIO"
+    ],
+    "provincia": [
+      "Santa Fe"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "bongiovanni-alejandro",
+    "slug_real_datacp": "bongiovanni-alejandro",
+    "nombre_canonico": "BONGIOVANNI, ALEJANDRO",
+    "nombres_variantes": [
+      "BONGIOVANNI, ALEJANDRO"
+    ],
+    "provincia": [
+      "Santa Fe"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "bordet-gustavo",
+    "slug_real_datacp": "bordet-gustavo",
+    "nombre_canonico": "BORDET, GUSTAVO",
+    "nombres_variantes": [
+      "BORDET, GUSTAVO"
+    ],
+    "provincia": [
+      "Entre Ríos"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "borgatta-alejandrina",
+    "slug_real_datacp": "borgatta-alejandrina",
+    "nombre_canonico": "BORGATTA, ALEJANDRINA",
+    "nombres_variantes": [
+      "BORGATTA, ALEJANDRINA"
+    ],
+    "provincia": [
+      "Santa Fe"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "bornoroni-gabriel",
+    "slug_real_datacp": "bornoroni-gabriel",
+    "nombre_canonico": "BORNORONI, GABRIEL",
+    "nombres_variantes": [
+      "BORNORONI, GABRIEL"
+    ],
+    "provincia": [
+      "Córdoba"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "bregman-myriam",
+    "slug_real_datacp": "bregman-myriam",
+    "nombre_canonico": "BREGMAN, MYRIAM",
+    "nombres_variantes": [
+      "BREGMAN, MYRIAM"
+    ],
+    "provincia": [
+      "C.A.B.A."
+    ],
+    "bloques": [
+      "Frente De Izquierda Y De Trabajadores Unidad",
+      "Pts-frente De Izquierda Y De Trabajadores Unidad"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "brizuela-adrian",
+    "slug_real_datacp": "brizuela-adrian",
+    "nombre_canonico": "BRIZUELA, ADRIAN",
+    "nombres_variantes": [
+      "BRIZUELA, ADRIAN"
+    ],
+    "provincia": [
+      "Catamarca"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "brugge-juan-fernando",
+    "slug_real_datacp": "brugge-juan-fernando",
+    "nombre_canonico": "BRUGGE, JUAN FERNANDO",
+    "nombres_variantes": [
+      "BRUGGE, JUAN FERNANDO"
+    ],
+    "provincia": [
+      "Córdoba"
+    ],
+    "bloques": [
+      "Provincias Unidas"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "bruno-eliana",
+    "slug_real_datacp": "bruno-eliana",
+    "nombre_canonico": "BRUNO, ELIANA",
+    "nombres_variantes": [
+      "BRUNO, ELIANA"
+    ],
+    "provincia": [
+      "Salta"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "cafiero-santiago",
+    "slug_real_datacp": "cafiero-santiago",
+    "nombre_canonico": "CAFIERO, SANTIAGO",
+    "nombres_variantes": [
+      "CAFIERO, SANTIAGO"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "campero-mariano",
+    "slug_real_datacp": "campero-mariano",
+    "nombre_canonico": "CAMPERO, MARIANO",
+    "nombres_variantes": [
+      "CAMPERO, MARIANO"
+    ],
+    "provincia": [
+      "Tucumán"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "campitelli-celia",
+    "slug_real_datacp": "campitelli-celia",
+    "nombre_canonico": "CAMPITELLI, CELIA",
+    "nombres_variantes": [
+      "CAMPITELLI, CELIA"
+    ],
+    "provincia": [
+      "Santiago del Estero"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "campo-julieta-marisol",
+    "slug_real_datacp": "campo-julieta-marisol",
+    "nombre_canonico": "CAMPO, JULIETA MARISOL",
+    "nombres_variantes": [
+      "CAMPO, JULIETA MARISOL"
+    ],
+    "provincia": [
+      "Chaco"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "campora-lucia",
+    "slug_real_datacp": "campora-lucia",
+    "nombre_canonico": "CAMPORA, LUCIA",
+    "nombres_variantes": [
+      "CAMPORA, LUCIA"
+    ],
+    "provincia": [
+      "C.A.B.A."
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "capozzi-sergio-eduardo",
+    "slug_real_datacp": "capozzi-sergio-eduardo",
+    "nombre_canonico": "CAPOZZI, SERGIO EDUARDO",
+    "nombres_variantes": [
+      "CAPOZZI, SERGIO EDUARDO"
+    ],
+    "provincia": [
+      "Rio Negro"
+    ],
+    "bloques": [
+      "Provincias Unidas"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "carignano-florencia",
+    "slug_real_datacp": "carignano-florencia",
+    "nombre_canonico": "CARIGNANO, FLORENCIA",
+    "nombres_variantes": [
+      "CARIGNANO, FLORENCIA"
+    ],
+    "provincia": [
+      "Santa Fe"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "carrancio-alejandro",
+    "slug_real_datacp": "carrancio-alejandro",
+    "nombre_canonico": "CARRANCIO, ALEJANDRO",
+    "nombres_variantes": [
+      "CARRANCIO, ALEJANDRO"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "casas-sergio-guillermo",
+    "slug_real_datacp": "casas-sergio-guillermo",
+    "nombre_canonico": "CASAS, SERGIO GUILLERMO",
+    "nombres_variantes": [
+      "CASAS, SERGIO GUILLERMO"
+    ],
+    "provincia": [
+      "La Rioja"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "castagneto-carlos-daniel",
+    "slug_real_datacp": "castagneto-carlos-daniel",
+    "nombre_canonico": "CASTAGNETO, CARLOS DANIEL",
+    "nombres_variantes": [
+      "CASTAGNETO, CARLOS DANIEL"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "castelnuovo-giselle",
+    "slug_real_datacp": "castelnuovo-giselle",
+    "nombre_canonico": "CASTELNUOVO, GISELLE",
+    "nombres_variantes": [
+      "CASTELNUOVO, GISELLE"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "chica-jorge",
+    "slug_real_datacp": "chica-jorge",
+    "nombre_canonico": "CHICA, JORGE",
+    "nombres_variantes": [
+      "CHICA, JORGE"
+    ],
+    "provincia": [
+      "San Juan"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "chiconi-abel",
+    "slug_real_datacp": "chiconi-abel",
+    "nombre_canonico": "CHICONI, ABEL",
+    "nombres_variantes": [
+      "CHICONI, ABEL"
+    ],
+    "provincia": [
+      "San Juan"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "cipolini-gerardo",
+    "slug_real_datacp": "cipolini-gerardo",
+    "nombre_canonico": "CIPOLINI, GERARDO",
+    "nombres_variantes": [
+      "CIPOLINI, GERARDO"
+    ],
+    "provincia": [
+      "Chaco"
+    ],
+    "bloques": [
+      "Ucr - Union Civica Radical"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "cisneros-carlos",
+    "slug_real_datacp": "cisneros-carlos",
+    "nombre_canonico": "CISNEROS, CARLOS",
+    "nombres_variantes": [
+      "CISNEROS, CARLOS"
+    ],
+    "provincia": [
+      "Tucumán"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "coletta-mariela",
+    "slug_real_datacp": "coletta-mariela",
+    "nombre_canonico": "COLETTA, MARIELA",
+    "nombres_variantes": [
+      "COLETTA, MARIELA"
+    ],
+    "provincia": [
+      "C.A.B.A."
+    ],
+    "bloques": [
+      "Provincias Unidas"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "correa-llano-facundo",
+    "slug_real_datacp": "correa-llano-facundo",
+    "nombre_canonico": "CORREA LLANO, FACUNDO",
+    "nombres_variantes": [
+      "CORREA LLANO, FACUNDO"
+    ],
+    "provincia": [
+      "Mendoza"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "daives-ricardo",
+    "slug_real_datacp": "daives-ricardo",
+    "nombre_canonico": "DAIVES, RICARDO",
+    "nombres_variantes": [
+      "DAIVES, RICARDO"
+    ],
+    "provincia": [
+      "Santiago del Estero"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "de-andreis-fernando",
+    "slug_real_datacp": "de-andreis-fernando",
+    "nombre_canonico": "DE ANDREIS, FERNANDO",
+    "nombres_variantes": [
+      "DE ANDREIS, FERNANDO"
+    ],
+    "provincia": [
+      "C.A.B.A."
+    ],
+    "bloques": [
+      "Pro"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "de-la-rosa-maria-graciela",
+    "slug_real_datacp": "de-la-rosa-maria-graciela",
+    "nombre_canonico": "DE LA ROSA, MARIA GRACIELA",
+    "nombres_variantes": [
+      "DE LA ROSA, MARIA GRACIELA"
+    ],
+    "provincia": [
+      "Formosa"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "de-la-sota-natalia",
+    "slug_real_datacp": "de-la-sota-natalia",
+    "nombre_canonico": "DE LA SOTA, NATALIA",
+    "nombres_variantes": [
+      "DE LA SOTA, NATALIA"
+    ],
+    "provincia": [
+      "Córdoba"
+    ],
+    "bloques": [
+      "Defendamos Cordoba"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "de-sensi-maria-florencia",
+    "slug_real_datacp": "de-sensi-maria-florencia",
+    "nombre_canonico": "DE SENSI, MARIA FLORENCIA",
+    "nombres_variantes": [
+      "DE SENSI, MARIA FLORENCIA"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "Pro"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "del-cano-nicolas",
+    "slug_real_datacp": "del-cano-nicolas",
+    "nombre_canonico": "DEL CAÑO, NICOLAS",
+    "nombres_variantes": [
+      "DEL CAÑO, NICOLAS"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "Frente De Izquierda Y De Trabajadores Unidad",
+      "Pts-frente De Izquierda Y De Trabajadores Unidad"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "del-pla-romina",
+    "slug_real_datacp": "del-pla-romina",
+    "nombre_canonico": "DEL PLA, ROMINA",
+    "nombres_variantes": [
+      "DEL PLA, ROMINA"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "Frente De Izquierda Y De Trabajadores Unidad",
+      "Partido Obrero En El Frente De Izquierda Y De Trabajadores-unidad",
+      "Partido Obrero En El Fte De Izquierda Y De Trabajadores-unidad"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "diaz-fernanda",
+    "slug_real_datacp": "diaz-fernanda",
+    "nombre_canonico": "DIAZ, FERNANDA",
+    "nombres_variantes": [
+      "DIAZ, FERNANDA"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "diez-romina",
+    "slug_real_datacp": "diez-romina",
+    "nombre_canonico": "DIEZ, ROMINA",
+    "nombres_variantes": [
+      "DIEZ, ROMINA"
+    ],
+    "provincia": [
+      "Santa Fe"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "dolce-sergio",
+    "slug_real_datacp": "dolce-sergio",
+    "nombre_canonico": "DOLCE, SERGIO",
+    "nombres_variantes": [
+      "DOLCE, SERGIO"
+    ],
+    "provincia": [
+      "Chaco"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "emma-nicolas",
+    "slug_real_datacp": "emma-nicolas",
+    "nombre_canonico": "EMMA, NICOLAS",
+    "nombres_variantes": [
+      "EMMA, NICOLAS"
+    ],
+    "provincia": [
+      "C.A.B.A."
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "estevez-gabriela-beatriz",
+    "slug_real_datacp": "estevez-gabriela-beatriz",
+    "nombre_canonico": "ESTEVEZ, GABRIELA BEATRIZ",
+    "nombres_variantes": [
+      "ESTEVEZ, GABRIELA BEATRIZ"
+    ],
+    "provincia": [
+      "Córdoba"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "falcone-eduardo",
+    "slug_real_datacp": "falcone-eduardo",
+    "nombre_canonico": "FALCONE, EDUARDO",
+    "nombres_variantes": [
+      "FALCONE, EDUARDO"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "Mid - Movimiento De Integracion Y Desarrollo"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "fargosi-alejandro",
+    "slug_real_datacp": "fargosi-alejandro",
+    "nombre_canonico": "FARGOSI, ALEJANDRO",
+    "nombres_variantes": [
+      "FARGOSI, ALEJANDRO"
+    ],
+    "provincia": [
+      "C.A.B.A."
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "farias-pablo",
+    "slug_real_datacp": "farias-pablo",
+    "nombre_canonico": "FARIAS, PABLO",
+    "nombres_variantes": [
+      "FARIAS, PABLO"
+    ],
+    "provincia": [
+      "Santa Fe"
+    ],
+    "bloques": [
+      "Provincias Unidas"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "felix-emir",
+    "slug_real_datacp": "felix-emir",
+    "nombre_canonico": "FELIX, EMIR",
+    "nombres_variantes": [
+      "FELIX, EMIR"
+    ],
+    "provincia": [
+      "Mendoza"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "fernandez-molero-daiana",
+    "slug_real_datacp": "fernandez-molero-daiana",
+    "nombre_canonico": "FERNANDEZ MOLERO, DAIANA",
+    "nombres_variantes": [
+      "FERNANDEZ MOLERO, DAIANA"
+    ],
+    "provincia": [
+      "C.A.B.A."
+    ],
+    "bloques": [
+      "Pro"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "fernandez-elia-marina",
+    "slug_real_datacp": "fernandez-elia-marina",
+    "nombre_canonico": "FERNANDEZ, ELIA MARINA",
+    "nombres_variantes": [
+      "FERNANDEZ, ELIA MARINA"
+    ],
+    "provincia": [
+      "Tucumán"
+    ],
+    "bloques": [
+      "Independencia"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "fernandez-jorge",
+    "slug_real_datacp": "fernandez-jorge",
+    "nombre_canonico": "FERNANDEZ, JORGE",
+    "nombres_variantes": [
+      "FERNANDEZ, JORGE"
+    ],
+    "provincia": [
+      "San Luis"
+    ],
+    "bloques": [
+      "Primero San Luis"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "ferran-abelardo",
+    "slug_real_datacp": "ferran-abelardo",
+    "nombre_canonico": "FERRAN, ABELARDO",
+    "nombres_variantes": [
+      "FERRAN, ABELARDO"
+    ],
+    "provincia": [
+      "La Pampa"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "ferraro-maximiliano",
+    "slug_real_datacp": "ferraro-maximiliano",
+    "nombre_canonico": "FERRARO, MAXIMILIANO",
+    "nombres_variantes": [
+      "FERRARO, MAXIMILIANO"
+    ],
+    "provincia": [
+      "C.A.B.A."
+    ],
+    "bloques": [
+      "Coalicion Civica"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "ferreyra-alida",
+    "slug_real_datacp": "ferreyra-alida",
+    "nombre_canonico": "FERREYRA, ALIDA",
+    "nombres_variantes": [
+      "FERREYRA, ALIDA"
+    ],
+    "provincia": [
+      "C.A.B.A."
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "figliuolo-sergio",
+    "slug_real_datacp": "figliuolo-sergio",
+    "nombre_canonico": "FIGLIUOLO, SERGIO",
+    "nombres_variantes": [
+      "FIGLIUOLO, SERGIO"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "finocchiaro-alejandro",
+    "slug_real_datacp": "finocchiaro-alejandro",
+    "nombre_canonico": "FINOCCHIARO, ALEJANDRO",
+    "nombres_variantes": [
+      "FINOCCHIARO, ALEJANDRO"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "Pro"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "flores-maria-gabriela",
+    "slug_real_datacp": "flores-maria-gabriela",
+    "nombre_canonico": "FLORES, MARIA GABRIELA",
+    "nombres_variantes": [
+      "FLORES, MARIA GABRIELA"
+    ],
+    "provincia": [
+      "Salta"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "frade-monica",
+    "slug_real_datacp": "frade-monica",
+    "nombre_canonico": "FRADE, MONICA",
+    "nombres_variantes": [
+      "FRADE, MONICA"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "Coalicion Civica"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "fregonese-alicia",
+    "slug_real_datacp": "fregonese-alicia",
+    "nombre_canonico": "FREGONESE, ALICIA",
+    "nombres_variantes": [
+      "FREGONESE, ALICIA"
+    ],
+    "provincia": [
+      "Entre Ríos"
+    ],
+    "bloques": [
+      "Pro"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "freites-andrea",
+    "slug_real_datacp": "freites-andrea",
+    "nombre_canonico": "FREITES, ANDREA",
+    "nombres_variantes": [
+      "FREITES, ANDREA"
+    ],
+    "provincia": [
+      "Tierra del Fuego"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "frias-maira",
+    "slug_real_datacp": "frias-maira",
+    "nombre_canonico": "FRIAS, MAIRA",
+    "nombres_variantes": [
+      "FRIAS, MAIRA"
+    ],
+    "provincia": [
+      "Chubut"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "gallardo-maria-virginia",
+    "slug_real_datacp": "gallardo-maria-virginia",
+    "nombre_canonico": "GALLARDO, MARIA VIRGINIA",
+    "nombres_variantes": [
+      "GALLARDO, MARIA VIRGINIA"
+    ],
+    "provincia": [
+      "Corrientes"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "galmarini-sebastian",
+    "slug_real_datacp": "galmarini-sebastian",
+    "nombre_canonico": "GALMARINI, SEBASTIAN",
+    "nombres_variantes": [
+      "GALMARINI, SEBASTIAN"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "garcia-aresca-ignacio",
+    "slug_real_datacp": "garcia-aresca-ignacio",
+    "nombre_canonico": "GARCIA ARESCA, IGNACIO",
+    "nombres_variantes": [
+      "GARCIA ARESCA, IGNACIO"
+    ],
+    "provincia": [
+      "Córdoba"
+    ],
+    "bloques": [
+      "Provincias Unidas"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "garcia-alvaro",
+    "slug_real_datacp": "garcia-alvaro",
+    "nombre_canonico": "GARCIA, ALVARO",
+    "nombres_variantes": [
+      "GARCIA, ALVARO"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "garcia-carlos",
+    "slug_real_datacp": "garcia-carlos",
+    "nombre_canonico": "GARCIA, CARLOS",
+    "nombres_variantes": [
+      "GARCIA, CARLOS"
+    ],
+    "provincia": [
+      "Chaco"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "garcia-maria-teresa",
+    "slug_real_datacp": "garcia-maria-teresa",
+    "nombre_canonico": "GARCIA, MARIA TERESA",
+    "nombres_variantes": [
+      "GARCIA, MARIA TERESA"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "garrido-jose-luis",
+    "slug_real_datacp": "garrido-jose-luis",
+    "nombre_canonico": "GARRIDO, JOSE LUIS",
+    "nombres_variantes": [
+      "GARRIDO, JOSE LUIS"
+    ],
+    "provincia": [
+      "Santa Cruz"
+    ],
+    "bloques": [
+      "Por Santa Cruz"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "giampieri-antonela",
+    "slug_real_datacp": "giampieri-antonela",
+    "nombre_canonico": "GIAMPIERI, ANTONELA",
+    "nombres_variantes": [
+      "GIAMPIERI, ANTONELA"
+    ],
+    "provincia": [
+      "C.A.B.A."
+    ],
+    "bloques": [
+      "Pro"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "giordano-juan-carlos",
+    "slug_real_datacp": "giordano-juan-carlos",
+    "nombre_canonico": "GIORDANO, JUAN CARLOS",
+    "nombres_variantes": [
+      "GIORDANO, JUAN CARLOS"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "Izquierda Socialista - Frente De Izquierda"
+    ],
+    "apariciones": 29,
+    "primera_fecha": "26/08/2026",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "giudici-silvana",
+    "slug_real_datacp": "giudici-silvana",
+    "nombre_canonico": "GIUDICI, SILVANA",
+    "nombres_variantes": [
+      "GIUDICI, SILVANA"
+    ],
+    "provincia": [
+      "C.A.B.A."
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "giuliano-diego-a",
+    "slug_real_datacp": "giuliano-diego-a",
+    "nombre_canonico": "GIULIANO, DIEGO A.",
+    "nombres_variantes": [
+      "GIULIANO, DIEGO A."
+    ],
+    "provincia": [
+      "Santa Fe"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "glinski-jose",
+    "slug_real_datacp": "glinski-jose",
+    "nombre_canonico": "GLINSKI, JOSE",
+    "nombres_variantes": [
+      "GLINSKI, JOSE"
+    ],
+    "provincia": [
+      "Chubut"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "goitia-rosario",
+    "slug_real_datacp": "goitia-rosario",
+    "nombre_canonico": "GOITIA, ROSARIO",
+    "nombres_variantes": [
+      "GOITIA, ROSARIO"
+    ],
+    "provincia": [
+      "Chaco"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "gomez-jose",
+    "slug_real_datacp": "gomez-jose",
+    "nombre_canonico": "GOMEZ, JOSE",
+    "nombres_variantes": [
+      "GOMEZ, JOSE"
+    ],
+    "provincia": [
+      "Santiago del Estero"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "gonzales-alfredo",
+    "slug_real_datacp": "gonzales-alfredo",
+    "nombre_canonico": "GONZALES, ALFREDO",
+    "nombres_variantes": [
+      "GONZALES, ALFREDO"
+    ],
+    "provincia": [
+      "Jujuy"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "gonzalez-estevarena-maria-luisa",
+    "slug_real_datacp": "gonzalez-estevarena-maria-luisa",
+    "nombre_canonico": "GONZALEZ ESTEVARENA, MARIA LUISA",
+    "nombres_variantes": [
+      "GONZALEZ ESTEVARENA, MARIA LUISA"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "gonzalez-alvaro",
+    "slug_real_datacp": "gonzalez-alvaro",
+    "nombre_canonico": "GONZALEZ, ALVARO",
+    "nombres_variantes": [
+      "GONZALEZ, ALVARO"
+    ],
+    "provincia": [
+      "C.A.B.A."
+    ],
+    "bloques": [
+      "Pro"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "gonzalez-diogenes-ignacio",
+    "slug_real_datacp": "gonzalez-diogenes-ignacio",
+    "nombre_canonico": "GONZALEZ, DIOGENES IGNACIO",
+    "nombres_variantes": [
+      "GONZALEZ, DIOGENES IGNACIO"
+    ],
+    "provincia": [
+      "Corrientes"
+    ],
+    "bloques": [
+      "Ucr - Union Civica Radical"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "gonzalez-gerardo-gustavo",
+    "slug_real_datacp": "gonzalez-gerardo-gustavo",
+    "nombre_canonico": "GONZALEZ, GERARDO GUSTAVO",
+    "nombres_variantes": [
+      "GONZALEZ, GERARDO GUSTAVO"
+    ],
+    "provincia": [
+      "Formosa"
+    ],
+    "bloques": [
+      "Argentina Federal",
+      "Innovacion Federal",
+      "Pais Federal"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "grabois-juan",
+    "slug_real_datacp": "grabois-juan",
+    "nombre_canonico": "GRABOIS, JUAN",
+    "nombres_variantes": [
+      "GRABOIS, JUAN"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "gruber-maura",
+    "slug_real_datacp": "gruber-maura",
+    "nombre_canonico": "GRUBER, MAURA",
+    "nombres_variantes": [
+      "GRUBER, MAURA"
+    ],
+    "provincia": [
+      "Misiones"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "gutierrez-carlos",
+    "slug_real_datacp": "gutierrez-carlos",
+    "nombre_canonico": "GUTIERREZ, CARLOS",
+    "nombres_variantes": [
+      "GUTIERREZ, CARLOS"
+    ],
+    "provincia": [
+      "Córdoba"
+    ],
+    "bloques": [
+      "Provincias Unidas"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "gutierrez-ramiro",
+    "slug_real_datacp": "gutierrez-ramiro",
+    "nombre_canonico": "GUTIERREZ, RAMIRO",
+    "nombres_variantes": [
+      "GUTIERREZ, RAMIRO"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "guzman-jairo",
+    "slug_real_datacp": "guzman-jairo",
+    "nombre_canonico": "GUZMAN, JAIRO",
+    "nombres_variantes": [
+      "GUZMAN, JAIRO"
+    ],
+    "provincia": [
+      "Santa Cruz"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "hadad-raul",
+    "slug_real_datacp": "hadad-raul",
+    "nombre_canonico": "HADAD, RAUL",
+    "nombres_variantes": [
+      "HADAD, RAUL"
+    ],
+    "provincia": [
+      "Corrientes"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "hagman-itai",
+    "slug_real_datacp": "hagman-itai",
+    "nombre_canonico": "HAGMAN, ITAI",
+    "nombres_variantes": [
+      "HAGMAN, ITAI"
+    ],
+    "provincia": [
+      "C.A.B.A."
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "hartfield-diego",
+    "slug_real_datacp": "hartfield-diego",
+    "nombre_canonico": "HARTFIELD, DIEGO",
+    "nombres_variantes": [
+      "HARTFIELD, DIEGO"
+    ],
+    "provincia": [
+      "Misiones"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "herrera-ahuad-oscar-a",
+    "slug_real_datacp": "herrera-ahuad-oscar-a",
+    "nombre_canonico": "HERRERA AHUAD, OSCAR A.",
+    "nombres_variantes": [
+      "HERRERA AHUAD, OSCAR A.",
+      "HERRERA, OSCAR"
+    ],
+    "provincia": [
+      "Misiones"
+    ],
+    "bloques": [
+      "Argentina Federal",
+      "Innovacion Federal"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "holzman-patricia",
+    "slug_real_datacp": "holzman-patricia",
+    "nombre_canonico": "HOLZMAN, PATRICIA",
+    "nombres_variantes": [
+      "HOLZMAN, PATRICIA"
+    ],
+    "provincia": [
+      "C.A.B.A."
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "huesen-gerardo",
+    "slug_real_datacp": "huesen-gerardo",
+    "nombre_canonico": "HUESEN, GERARDO",
+    "nombres_variantes": [
+      "HUESEN, GERARDO"
+    ],
+    "provincia": [
+      "Tucumán"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "humenuk-gladys",
+    "slug_real_datacp": "humenuk-gladys",
+    "nombre_canonico": "HUMENUK, GLADYS",
+    "nombres_variantes": [
+      "HUMENUK, GLADYS"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "ianni-ana-maria",
+    "slug_real_datacp": "ianni-ana-maria",
+    "nombre_canonico": "IANNI, ANA MARIA",
+    "nombres_variantes": [
+      "IANNI, ANA MARIA"
+    ],
+    "provincia": [
+      "Santa Cruz"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "ibanez-maria-cecilia",
+    "slug_real_datacp": "ibanez-maria-cecilia",
+    "nombre_canonico": "IBAÑEZ, MARIA CECILIA",
+    "nombres_variantes": [
+      "IBAÑEZ, MARIA CECILIA"
+    ],
+    "provincia": [
+      "Córdoba"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "jaime-quiroga-carlos-gustavo",
+    "slug_real_datacp": "jaime-quiroga-carlos-gustavo",
+    "nombre_canonico": "JAIME QUIROGA, CARLOS GUSTAVO",
+    "nombres_variantes": [
+      "JAIME QUIROGA, CARLOS GUSTAVO"
+    ],
+    "provincia": [
+      "San Juan"
+    ],
+    "bloques": [
+      "Produccion Y Trabajo"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "juliano-pablo",
+    "slug_real_datacp": "juliano-pablo",
+    "nombre_canonico": "JULIANO, PABLO",
+    "nombres_variantes": [
+      "JULIANO, PABLO"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "Provincias Unidas"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "kirchner-maximo-carlos",
+    "slug_real_datacp": "kirchner-maximo-carlos",
+    "nombre_canonico": "KIRCHNER, MAXIMO CARLOS",
+    "nombres_variantes": [
+      "KIRCHNER, MAXIMO CARLOS"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "lanesan-sancho-moira",
+    "slug_real_datacp": "lanesan-sancho-moira",
+    "nombre_canonico": "LANESAN SANCHO, MOIRA",
+    "nombres_variantes": [
+      "LANESAN SANCHO, MOIRA"
+    ],
+    "provincia": [
+      "Santa Cruz"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "laumann-andres-ariel",
+    "slug_real_datacp": "laumann-andres-ariel",
+    "nombre_canonico": "LAUMANN, ANDRES ARIEL",
+    "nombres_variantes": [
+      "LAUMANN, ANDRES ARIEL"
+    ],
+    "provincia": [
+      "Entre Ríos"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "leiva-aldo",
+    "slug_real_datacp": "leiva-aldo",
+    "nombre_canonico": "LEIVA, ALDO",
+    "nombres_variantes": [
+      "LEIVA, ALDO"
+    ],
+    "provincia": [
+      "Chaco"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "lemoine-lilia",
+    "slug_real_datacp": "lemoine-lilia",
+    "nombre_canonico": "LEMOINE, LILIA",
+    "nombres_variantes": [
+      "LEMOINE, LILIA"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "leone-andres",
+    "slug_real_datacp": "leone-andres",
+    "nombre_canonico": "LEONE, ANDRES",
+    "nombres_variantes": [
+      "LEONE, ANDRES"
+    ],
+    "provincia": [
+      "C.A.B.A."
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "llano-mercedes",
+    "slug_real_datacp": "llano-mercedes",
+    "nombre_canonico": "LLANO, MERCEDES",
+    "nombres_variantes": [
+      "LLANO, MERCEDES"
+    ],
+    "provincia": [
+      "Mendoza"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "lluch-enrique",
+    "slug_real_datacp": "lluch-enrique",
+    "nombre_canonico": "LLUCH, ENRIQUE",
+    "nombres_variantes": [
+      "LLUCH, ENRIQUE"
+    ],
+    "provincia": [
+      "Córdoba"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "longo-johanna-sabrina",
+    "slug_real_datacp": "longo-johanna-sabrina",
+    "nombre_canonico": "LONGO, JOHANNA SABRINA",
+    "nombres_variantes": [
+      "LONGO, JOHANNA SABRINA"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "lopez-pasquali-cecilia",
+    "slug_real_datacp": "lopez-pasquali-cecilia",
+    "nombre_canonico": "LOPEZ PASQUALI, CECILIA",
+    "nombres_variantes": [
+      "LOPEZ PASQUALI, CECILIA"
+    ],
+    "provincia": [
+      "Santiago del Estero"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "lopez-jimena",
+    "slug_real_datacp": "lopez-jimena",
+    "nombre_canonico": "LOPEZ, JIMENA",
+    "nombres_variantes": [
+      "LOPEZ, JIMENA"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "lousteau-martin",
+    "slug_real_datacp": "lousteau-martin",
+    "nombre_canonico": "LOUSTEAU, MARTIN",
+    "nombres_variantes": [
+      "LOUSTEAU, MARTIN"
+    ],
+    "provincia": [
+      "C.A.B.A."
+    ],
+    "bloques": [
+      "Provincias Unidas"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "luque-juan-pablo",
+    "slug_real_datacp": "luque-juan-pablo",
+    "nombre_canonico": "LUQUE, JUAN PABLO",
+    "nombres_variantes": [
+      "LUQUE, JUAN PABLO"
+    ],
+    "provincia": [
+      "Chubut"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "macyszyn-lorena",
+    "slug_real_datacp": "macyszyn-lorena",
+    "nombre_canonico": "MACYSZYN, LORENA",
+    "nombres_variantes": [
+      "MACYSZYN, LORENA"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "mango-marcelo",
+    "slug_real_datacp": "mango-marcelo",
+    "nombre_canonico": "MANGO, MARCELO",
+    "nombres_variantes": [
+      "MANGO, MARCELO"
+    ],
+    "provincia": [
+      "Rio Negro"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "manrique-mario",
+    "slug_real_datacp": "manrique-mario",
+    "nombre_canonico": "MANRIQUE, MARIO",
+    "nombres_variantes": [
+      "MANRIQUE, MARIO"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "marclay-marianela",
+    "slug_real_datacp": "marclay-marianela",
+    "nombre_canonico": "MARCLAY, MARIANELA",
+    "nombres_variantes": [
+      "MARCLAY, MARIANELA"
+    ],
+    "provincia": [
+      "Entre Ríos"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "marin-varinia-lis",
+    "slug_real_datacp": "marin-varinia-lis",
+    "nombre_canonico": "MARIN, VARINIA LIS",
+    "nombres_variantes": [
+      "MARIN, VARINIA LIS"
+    ],
+    "provincia": [
+      "La Pampa"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "marino-juan",
+    "slug_real_datacp": "marino-juan",
+    "nombre_canonico": "MARINO, JUAN",
+    "nombres_variantes": [
+      "MARINO, JUAN"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "martinez-alvaro",
+    "slug_real_datacp": "martinez-alvaro",
+    "nombre_canonico": "MARTINEZ, ALVARO",
+    "nombres_variantes": [
+      "MARTINEZ, ALVARO"
+    ],
+    "provincia": [
+      "Mendoza"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "martinez-german-pedro",
+    "slug_real_datacp": "martinez-german-pedro",
+    "nombre_canonico": "MARTINEZ, GERMAN PEDRO",
+    "nombres_variantes": [
+      "MARTINEZ, GERMAN PEDRO"
+    ],
+    "provincia": [
+      "Santa Fe"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "massot-nicolas",
+    "slug_real_datacp": "massot-nicolas",
+    "nombre_canonico": "MASSOT, NICOLAS",
+    "nombres_variantes": [
+      "MASSOT, NICOLAS"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "Encuentro Federal"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "matzkin-martin",
+    "slug_real_datacp": "matzkin-martin",
+    "nombre_canonico": "MATZKIN, MARTIN",
+    "nombres_variantes": [
+      "MATZKIN, MARTIN"
+    ],
+    "provincia": [
+      "La Pampa"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 42,
+    "primera_fecha": "24/06/2026",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "maureira-karina",
+    "slug_real_datacp": "maureira-karina",
+    "nombre_canonico": "MAUREIRA, KARINA",
+    "nombres_variantes": [
+      "MAUREIRA, KARINA"
+    ],
+    "provincia": [
+      "Neuquén"
+    ],
+    "bloques": [
+      "La Neuquinidad"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "mayoraz-nicolas",
+    "slug_real_datacp": "mayoraz-nicolas",
+    "nombre_canonico": "MAYORAZ, NICOLAS",
+    "nombres_variantes": [
+      "MAYORAZ, NICOLAS"
+    ],
+    "provincia": [
+      "Santa Fe"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "medina-gladys",
+    "slug_real_datacp": "medina-gladys",
+    "nombre_canonico": "MEDINA, GLADYS",
+    "nombres_variantes": [
+      "MEDINA, GLADYS"
+    ],
+    "provincia": [
+      "Tucumán"
+    ],
+    "bloques": [
+      "Independencia"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "menem-martin",
+    "slug_real_datacp": "menem-martin",
+    "nombre_canonico": "MENEM, MARTIN",
+    "nombres_variantes": [
+      "MENEM, MARTIN"
+    ],
+    "provincia": [
+      "La Rioja"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "metral-asensio-julieta",
+    "slug_real_datacp": "metral-asensio-julieta",
+    "nombre_canonico": "METRAL ASENSIO, JULIETA",
+    "nombres_variantes": [
+      "METRAL ASENSIO, JULIETA"
+    ],
+    "provincia": [
+      "Mendoza"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "michel-guillermo",
+    "slug_real_datacp": "michel-guillermo",
+    "nombre_canonico": "MICHEL, GUILLERMO",
+    "nombres_variantes": [
+      "MICHEL, GUILLERMO"
+    ],
+    "provincia": [
+      "Entre Ríos"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "mino-fernanda",
+    "slug_real_datacp": "mino-fernanda",
+    "nombre_canonico": "MIÑO, FERNANDA",
+    "nombres_variantes": [
+      "MIÑO, FERNANDA"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "molina-juan-carlos",
+    "slug_real_datacp": "molina-juan-carlos",
+    "nombre_canonico": "MOLINA, JUAN CARLOS",
+    "nombres_variantes": [
+      "MOLINA, JUAN CARLOS"
+    ],
+    "provincia": [
+      "Santa Cruz"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "molinuevo-soledad",
+    "slug_real_datacp": "molinuevo-soledad",
+    "nombre_canonico": "MOLINUEVO, SOLEDAD",
+    "nombres_variantes": [
+      "MOLINUEVO, SOLEDAD"
+    ],
+    "provincia": [
+      "Tucumán"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "molle-matias",
+    "slug_real_datacp": "molle-matias",
+    "nombre_canonico": "MOLLE, MATIAS",
+    "nombres_variantes": [
+      "MOLLE, MATIAS"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "mondaca-soledad",
+    "slug_real_datacp": "mondaca-soledad",
+    "nombre_canonico": "MONDACA, SOLEDAD",
+    "nombres_variantes": [
+      "MONDACA, SOLEDAD"
+    ],
+    "provincia": [
+      "Neuquén"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "monguillot-fernando",
+    "slug_real_datacp": "monguillot-fernando",
+    "nombre_canonico": "MONGUILLOT, FERNANDO",
+    "nombres_variantes": [
+      "MONGUILLOT, FERNANDO"
+    ],
+    "provincia": [
+      "Catamarca"
+    ],
+    "bloques": [
+      "Elijo Catamarca"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "montenegro-guillermo-tristan",
+    "slug_real_datacp": "montenegro-guillermo-tristan",
+    "nombre_canonico": "MONTENEGRO, GUILLERMO",
+    "nombres_variantes": [
+      "MONTENEGRO, GUILLERMO"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "montenegro-juan-pablo",
+    "slug_real_datacp": "montenegro-juan-pablo",
+    "nombre_canonico": "MONTENEGRO, JUAN PABLO",
+    "nombres_variantes": [
+      "MONTENEGRO, JUAN PABLO"
+    ],
+    "provincia": [
+      "Santa Fe"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "monzon-roxana",
+    "slug_real_datacp": "monzon-roxana",
+    "nombre_canonico": "MONZON, ROXANA",
+    "nombres_variantes": [
+      "MONZON, ROXANA"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "morchio-francisco",
+    "slug_real_datacp": "morchio-francisco",
+    "nombre_canonico": "MORCHIO, FRANCISCO",
+    "nombres_variantes": [
+      "MORCHIO, FRANCISCO"
+    ],
+    "provincia": [
+      "Entre Ríos"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "moreau-cecilia",
+    "slug_real_datacp": "moreau-cecilia",
+    "nombre_canonico": "MOREAU, CECILIA",
+    "nombres_variantes": [
+      "MOREAU, CECILIA"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "moreno-ovalle-julio",
+    "slug_real_datacp": "moreno-ovalle-julio",
+    "nombre_canonico": "MORENO OVALLE, JULIO",
+    "nombres_variantes": [
+      "MORENO OVALLE, JULIO"
+    ],
+    "provincia": [
+      "Salta"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "moyano-hugo-antonio",
+    "slug_real_datacp": "moyano-hugo-antonio",
+    "nombre_canonico": "MOYANO, HUGO ANTONIO",
+    "nombres_variantes": [
+      "MOYANO, HUGO ANTONIO"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "mukdise-jorge",
+    "slug_real_datacp": "mukdise-jorge",
+    "nombre_canonico": "MUKDISE, JORGE",
+    "nombres_variantes": [
+      "MUKDISE, JORGE"
+    ],
+    "provincia": [
+      "Santiago del Estero"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "munoz-gabriela-luciana",
+    "slug_real_datacp": "munoz-gabriela-luciana",
+    "nombre_canonico": "MUÑOZ, GABRIELA LUCIANA",
+    "nombres_variantes": [
+      "MUÑOZ, GABRIELA LUCIANA"
+    ],
+    "provincia": [
+      "Neuquén"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "neder-estela-mary",
+    "slug_real_datacp": "neder-estela-mary",
+    "nombre_canonico": "NEDER, ESTELA MARY",
+    "nombres_variantes": [
+      "NEDER, ESTELA MARY"
+    ],
+    "provincia": [
+      "Santiago del Estero"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "nieri-lisandro",
+    "slug_real_datacp": "nieri-lisandro",
+    "nombre_canonico": "NIERI, LISANDRO",
+    "nombres_variantes": [
+      "NIERI, LISANDRO"
+    ],
+    "provincia": [
+      "Mendoza"
+    ],
+    "bloques": [
+      "Ucr - Union Civica Radical"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "niveyro-miriam",
+    "slug_real_datacp": "niveyro-miriam",
+    "nombre_canonico": "NIVEYRO, MIRIAM",
+    "nombres_variantes": [
+      "NIVEYRO, MIRIAM"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "noblega-sebastian",
+    "slug_real_datacp": "noblega-sebastian",
+    "nombre_canonico": "NOBLEGA, SEBASTIAN",
+    "nombres_variantes": [
+      "NOBLEGA, SEBASTIAN"
+    ],
+    "provincia": [
+      "Catamarca"
+    ],
+    "bloques": [
+      "Elijo Catamarca"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "noguera-javier",
+    "slug_real_datacp": "noguera-javier",
+    "nombre_canonico": "NOGUERA, JAVIER",
+    "nombres_variantes": [
+      "NOGUERA, JAVIER"
+    ],
+    "provincia": [
+      "Tucumán"
+    ],
+    "bloques": [
+      "Independencia"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "nunez-jose",
+    "slug_real_datacp": "nunez-jose",
+    "nombre_canonico": "NUÑEZ, JOSE",
+    "nombres_variantes": [
+      "NUÑEZ, JOSE"
+    ],
+    "provincia": [
+      "Santa Fe"
+    ],
+    "bloques": [
+      "Provincias Unidas"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "ojeda-joaquin",
+    "slug_real_datacp": "ojeda-joaquin",
+    "nombre_canonico": "OJEDA, JOAQUIN",
+    "nombres_variantes": [
+      "OJEDA, JOAQUIN"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "olmos-kelly",
+    "slug_real_datacp": "olmos-kelly",
+    "nombre_canonico": "OLMOS, KELLY",
+    "nombres_variantes": [
+      "OLMOS, KELLY"
+    ],
+    "provincia": [
+      "C.A.B.A."
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "osuna-blanca-ines",
+    "slug_real_datacp": "osuna-blanca-ines",
+    "nombre_canonico": "OSUNA, BLANCA INES",
+    "nombres_variantes": [
+      "OSUNA, BLANCA INES"
+    ],
+    "provincia": [
+      "Entre Ríos"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "outes-pablo",
+    "slug_real_datacp": "outes-pablo",
+    "nombre_canonico": "OUTES, PABLO",
+    "nombres_variantes": [
+      "OUTES, PABLO"
+    ],
+    "provincia": [
+      "Salta"
+    ],
+    "bloques": [
+      "Argentina Federal",
+      "Innovacion Federal"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "pagano-marcela-marina",
+    "slug_real_datacp": "pagano-marcela-marina",
+    "nombre_canonico": "PAGANO, MARCELA MARINA",
+    "nombres_variantes": [
+      "PAGANO, MARCELA MARINA"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "Coherencia",
+      "Pais Federal"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "palazzo-sergio-omar",
+    "slug_real_datacp": "palazzo-sergio-omar",
+    "nombre_canonico": "PALAZZO, SERGIO OMAR",
+    "nombres_variantes": [
+      "PALAZZO, SERGIO OMAR"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "palladino-claudia-maria",
+    "slug_real_datacp": "palladino-claudia-maria",
+    "nombre_canonico": "PALLADINO, CLAUDIA MARIA",
+    "nombres_variantes": [
+      "PALLADINO, CLAUDIA MARIA"
+    ],
+    "provincia": [
+      "Catamarca"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "pareja-sebastian",
+    "slug_real_datacp": "pareja-sebastian",
+    "nombre_canonico": "PAREJA, SEBASTIAN",
+    "nombres_variantes": [
+      "PAREJA, SEBASTIAN"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "parola-maria-graciela",
+    "slug_real_datacp": "parola-maria-graciela",
+    "nombre_canonico": "PAROLA, MARIA GRACIELA",
+    "nombres_variantes": [
+      "PAROLA, MARIA GRACIELA"
+    ],
+    "provincia": [
+      "Formosa"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "patino-brizuela-marcos",
+    "slug_real_datacp": "patino-brizuela-marcos",
+    "nombre_canonico": "PATIÑO BRIZUELA, MARCOS",
+    "nombres_variantes": [
+      "PATIÑO BRIZUELA, MARCOS"
+    ],
+    "provincia": [
+      "Córdoba"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "pauli-santiago",
+    "slug_real_datacp": "pauli-santiago",
+    "nombre_canonico": "PAULI, SANTIAGO",
+    "nombres_variantes": [
+      "PAULI, SANTIAGO"
+    ],
+    "provincia": [
+      "Tierra del Fuego"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "paulon-esteban",
+    "slug_real_datacp": "paulon-esteban",
+    "nombre_canonico": "PAULON, ESTEBAN",
+    "nombres_variantes": [
+      "PAULON, ESTEBAN"
+    ],
+    "provincia": [
+      "Santa Fe"
+    ],
+    "bloques": [
+      "Provincias Unidas"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "pedrali-gabriela",
+    "slug_real_datacp": "pedrali-gabriela",
+    "nombre_canonico": "PEDRALI, GABRIELA",
+    "nombres_variantes": [
+      "PEDRALI, GABRIELA"
+    ],
+    "provincia": [
+      "La Rioja"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "pellegrini-agustin",
+    "slug_real_datacp": "pellegrini-agustin",
+    "nombre_canonico": "PELLEGRINI, AGUSTIN",
+    "nombres_variantes": [
+      "PELLEGRINI, AGUSTIN"
+    ],
+    "provincia": [
+      "Santa Fe"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "pelli-federico-agustin",
+    "slug_real_datacp": "pelli-federico-agustin",
+    "nombre_canonico": "PELLI, FEDERICO AGUSTIN",
+    "nombres_variantes": [
+      "PELLI, FEDERICO AGUSTIN"
+    ],
+    "provincia": [
+      "Tucumán"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "peluc-jose",
+    "slug_real_datacp": "peluc-jose",
+    "nombre_canonico": "PELUC, JOSE",
+    "nombres_variantes": [
+      "PELUC, JOSE"
+    ],
+    "provincia": [
+      "San Juan"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "penacca-paula-andrea",
+    "slug_real_datacp": "penacca-paula-andrea",
+    "nombre_canonico": "PENACCA, PAULA ANDREA",
+    "nombres_variantes": [
+      "PENACCA, PAULA ANDREA"
+    ],
+    "provincia": [
+      "C.A.B.A."
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "petri-luis",
+    "slug_real_datacp": "petri-luis",
+    "nombre_canonico": "PETRI, LUIS",
+    "nombres_variantes": [
+      "PETRI, LUIS"
+    ],
+    "provincia": [
+      "Mendoza"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "petrovich-maria-lorena",
+    "slug_real_datacp": "petrovich-maria-lorena",
+    "nombre_canonico": "PETROVICH, MARIA LORENA",
+    "nombres_variantes": [
+      "PETROVICH, MARIA LORENA"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "picat-luis-albino",
+    "slug_real_datacp": "picat-luis-albino",
+    "nombre_canonico": "PICAT, LUIS ALBINO",
+    "nombres_variantes": [
+      "PICAT, LUIS ALBINO"
+    ],
+    "provincia": [
+      "Córdoba"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "pichetto-miguel-angel",
+    "slug_real_datacp": "pichetto-miguel-angel",
+    "nombre_canonico": "PICHETTO, MIGUEL ANGEL",
+    "nombres_variantes": [
+      "PICHETTO, MIGUEL ANGEL"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "Encuentro Federal"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "picon-martinez-nancy-viviana",
+    "slug_real_datacp": "picon-martinez-nancy-viviana",
+    "nombre_canonico": "PICON MARTINEZ, NANCY VIVIANA",
+    "nombres_variantes": [
+      "PICON MARTINEZ, NANCY VIVIANA"
+    ],
+    "provincia": [
+      "San Juan"
+    ],
+    "bloques": [
+      "Produccion Y Trabajo"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "pietragalla-corti-horacio",
+    "slug_real_datacp": "pietragalla-corti-horacio",
+    "nombre_canonico": "PIETRAGALLA CORTI, HORACIO",
+    "nombres_variantes": [
+      "PIETRAGALLA CORTI, HORACIO"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "pitrola-nestor",
+    "slug_real_datacp": null,
+    "nombre_canonico": "PITROLA, NESTOR",
+    "nombres_variantes": [
+      "PITROLA, NESTOR"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "Frente De Izquierda Y De Trabajadores Unidad",
+      "Partido Obrero En El Frente De Izquierda Y De Trabajadores-unidad",
+      "Partido Obrero En El Fte De Izquierda Y De Trabajadores-unidad"
+    ],
+    "apariciones": 95,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "24/06/2026"
+  },
+  {
+    "id": "pokoik-lorena",
+    "slug_real_datacp": "pokoik-lorena",
+    "nombre_canonico": "POKOIK, LORENA",
+    "nombres_variantes": [
+      "POKOIK, LORENA"
+    ],
+    "provincia": [
+      "C.A.B.A."
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "ponce-maria-celeste",
+    "slug_real_datacp": "ponce-maria-celeste",
+    "nombre_canonico": "PONCE, MARIA CELESTE",
+    "nombres_variantes": [
+      "PONCE, MARIA CELESTE"
+    ],
+    "provincia": [
+      "Córdoba"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "potenza-luciana",
+    "slug_real_datacp": "potenza-luciana",
+    "nombre_canonico": "POTENZA, LUCIANA",
+    "nombres_variantes": [
+      "POTENZA, LUCIANA"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "propato-agustina-lucrecia",
+    "slug_real_datacp": "propato-agustina-lucrecia",
+    "nombre_canonico": "PROPATO, AGUSTINA LUCRECIA",
+    "nombres_variantes": [
+      "PROPATO, AGUSTINA LUCRECIA"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "quintar-manuel",
+    "slug_real_datacp": "quintar-manuel",
+    "nombre_canonico": "QUINTAR, MANUEL",
+    "nombres_variantes": [
+      "QUINTAR, MANUEL"
+    ],
+    "provincia": [
+      "Jujuy"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "rauschenberger-ariel",
+    "slug_real_datacp": "rauschenberger-ariel",
+    "nombre_canonico": "RAUSCHENBERGER, ARIEL",
+    "nombres_variantes": [
+      "RAUSCHENBERGER, ARIEL"
+    ],
+    "provincia": [
+      "La Pampa"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "ravera-valentina",
+    "slug_real_datacp": "ravera-valentina",
+    "nombre_canonico": "RAVERA, VALENTINA",
+    "nombres_variantes": [
+      "RAVERA, VALENTINA"
+    ],
+    "provincia": [
+      "Santa Fe"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "ravier-adrian",
+    "slug_real_datacp": null,
+    "nombre_canonico": "RAVIER, ADRIAN",
+    "nombres_variantes": [
+      "RAVIER, ADRIAN"
+    ],
+    "provincia": [
+      "La Pampa"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 82,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "20/05/2026"
+  },
+  {
+    "id": "razzini-veronica",
+    "slug_real_datacp": "razzini-veronica",
+    "nombre_canonico": "RAZZINI, VERONICA",
+    "nombres_variantes": [
+      "RAZZINI, VERONICA"
+    ],
+    "provincia": [
+      "Santa Fe"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "reichardt-karen",
+    "slug_real_datacp": "reichardt-karen",
+    "nombre_canonico": "REICHARDT, KAREN",
+    "nombres_variantes": [
+      "REICHARDT, KAREN"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "riesco-gaston",
+    "slug_real_datacp": "riesco-gaston",
+    "nombre_canonico": "RIESCO, GASTON",
+    "nombres_variantes": [
+      "RIESCO, GASTON"
+    ],
+    "provincia": [
+      "Neuquén"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "ritondo-cristian",
+    "slug_real_datacp": "ritondo-cristian",
+    "nombre_canonico": "RITONDO, CRISTIAN A.",
+    "nombres_variantes": [
+      "RITONDO, CRISTIAN A."
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "Pro"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "rizzotti-jorge",
+    "slug_real_datacp": "rizzotti-jorge",
+    "nombre_canonico": "RIZZOTTI, JORGE",
+    "nombres_variantes": [
+      "RIZZOTTI, JORGE"
+    ],
+    "provincia": [
+      "Jujuy"
+    ],
+    "bloques": [
+      "Provincias Unidas"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "roberto-santiago-luis",
+    "slug_real_datacp": "roberto-santiago-luis",
+    "nombre_canonico": "ROBERTO, SANTIAGO LUIS",
+    "nombres_variantes": [
+      "ROBERTO, SANTIAGO LUIS"
+    ],
+    "provincia": [
+      "C.A.B.A."
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "roca-gonzalo",
+    "slug_real_datacp": "roca-gonzalo",
+    "nombre_canonico": "ROCA, GONZALO",
+    "nombres_variantes": [
+      "ROCA, GONZALO"
+    ],
+    "provincia": [
+      "Córdoba"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "rodriguez-machado-laura-elena",
+    "slug_real_datacp": "rodriguez-machado-laura-elena",
+    "nombre_canonico": "RODRIGUEZ MACHADO, LAURA ELENA",
+    "nombres_variantes": [
+      "RODRIGUEZ MACHADO, LAURA ELENA"
+    ],
+    "provincia": [
+      "Córdoba"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "rodriguez-miguel",
+    "slug_real_datacp": "rodriguez-miguel",
+    "nombre_canonico": "RODRIGUEZ, MIGUEL",
+    "nombres_variantes": [
+      "RODRIGUEZ, MIGUEL"
+    ],
+    "provincia": [
+      "Tierra del Fuego"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "rossi-agustin-oscar",
+    "slug_real_datacp": "rossi-agustin-oscar",
+    "nombre_canonico": "ROSSI, AGUSTIN OSCAR",
+    "nombres_variantes": [
+      "ROSSI, AGUSTIN OSCAR"
+    ],
+    "provincia": [
+      "Santa Fe"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "ruiz-yamila",
+    "slug_real_datacp": "ruiz-yamila",
+    "nombre_canonico": "RUIZ, YAMILA",
+    "nombres_variantes": [
+      "RUIZ, YAMILA"
+    ],
+    "provincia": [
+      "Misiones"
+    ],
+    "bloques": [
+      "Argentina Federal",
+      "Innovacion Federal"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "salzmann-marina-dorotea",
+    "slug_real_datacp": "salzmann-marina-dorotea",
+    "nombre_canonico": "SALZMANN, MARINA DOROTEA",
+    "nombres_variantes": [
+      "SALZMANN, MARINA DOROTEA"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "sanchez-wrba-javier",
+    "slug_real_datacp": "sanchez-wrba-javier",
+    "nombre_canonico": "SANCHEZ WRBA, JAVIER",
+    "nombres_variantes": [
+      "SANCHEZ WRBA, JAVIER"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "Pro"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "sand-nancy",
+    "slug_real_datacp": "sand-nancy",
+    "nombre_canonico": "SAND, NANCY",
+    "nombres_variantes": [
+      "SAND, NANCY"
+    ],
+    "provincia": [
+      "Corrientes"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "santillan-juarez-brahim-juliana",
+    "slug_real_datacp": "santillan-juarez-brahim-juliana",
+    "nombre_canonico": "SANTILLAN JUAREZ BRAHIM, JULIANA",
+    "nombres_variantes": [
+      "SANTILLAN JUAREZ BRAHIM, JULIANA"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "santurio-santiago",
+    "slug_real_datacp": "santurio-santiago",
+    "nombre_canonico": "SANTURIO, SANTIAGO",
+    "nombres_variantes": [
+      "SANTURIO, SANTIAGO"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "scaglia-gisela",
+    "slug_real_datacp": "scaglia-gisela",
+    "nombre_canonico": "SCAGLIA, GISELA",
+    "nombres_variantes": [
+      "SCAGLIA, GISELA"
+    ],
+    "provincia": [
+      "Santa Fe"
+    ],
+    "bloques": [
+      "Provincias Unidas"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "schiaretti-juan",
+    "slug_real_datacp": "schiaretti-juan",
+    "nombre_canonico": "SCHIARETTI, JUAN",
+    "nombres_variantes": [
+      "SCHIARETTI, JUAN"
+    ],
+    "provincia": [
+      "Córdoba"
+    ],
+    "bloques": [
+      "Provincias Unidas"
+    ],
+    "apariciones": 105,
+    "primera_fecha": "12/02/2026",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "schneider-dario",
+    "slug_real_datacp": "schneider-dario",
+    "nombre_canonico": "SCHNEIDER, DARIO",
+    "nombres_variantes": [
+      "SCHNEIDER, DARIO"
+    ],
+    "provincia": [
+      "Entre Ríos"
+    ],
+    "bloques": [
+      "Ucr - Union Civica Radical"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "selva-sabrina",
+    "slug_real_datacp": "selva-sabrina",
+    "nombre_canonico": "SELVA, SABRINA",
+    "nombres_variantes": [
+      "SELVA, SABRINA"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "serquis-adriana-cristina",
+    "slug_real_datacp": "serquis-adriana-cristina",
+    "nombre_canonico": "SERQUIS, ADRIANA CRISTINA",
+    "nombres_variantes": [
+      "SERQUIS, ADRIANA CRISTINA"
+    ],
+    "provincia": [
+      "Rio Negro"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "siley-vanesa-raquel",
+    "slug_real_datacp": "siley-vanesa-raquel",
+    "nombre_canonico": "SILEY, VANESA RAQUEL",
+    "nombres_variantes": [
+      "SILEY, VANESA RAQUEL"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "snopek-guillermo-eugenio-mario",
+    "slug_real_datacp": "snopek-guillermo-eugenio-mario",
+    "nombre_canonico": "SNOPEK, GUILLERMO",
+    "nombres_variantes": [
+      "SNOPEK, GUILLERMO"
+    ],
+    "provincia": [
+      "Jujuy"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "soldano-laura",
+    "slug_real_datacp": "soldano-laura",
+    "nombre_canonico": "SOLDANO, LAURA",
+    "nombres_variantes": [
+      "SOLDANO, LAURA"
+    ],
+    "provincia": [
+      "Córdoba"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "strada-julia",
+    "slug_real_datacp": "strada-julia",
+    "nombre_canonico": "STRADA, JULIA",
+    "nombres_variantes": [
+      "STRADA, JULIA"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "taiana-jorge-enrique",
+    "slug_real_datacp": "taiana-jorge-enrique",
+    "nombre_canonico": "TAIANA, JORGE",
+    "nombres_variantes": [
+      "TAIANA, JORGE"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "tailhade-rodolfo",
+    "slug_real_datacp": "tailhade-rodolfo",
+    "nombre_canonico": "TAILHADE, RODOLFO",
+    "nombres_variantes": [
+      "TAILHADE, RODOLFO"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "tepp-caren",
+    "slug_real_datacp": "tepp-caren",
+    "nombre_canonico": "TEPP, CAREN",
+    "nombres_variantes": [
+      "TEPP, CAREN"
+    ],
+    "provincia": [
+      "Santa Fe"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "tita-paulo-agustin",
+    "slug_real_datacp": "tita-paulo-agustin",
+    "nombre_canonico": "TITA, PAULO AGUSTIN",
+    "nombres_variantes": [
+      "TITA, PAULO AGUSTIN"
+    ],
+    "provincia": [
+      "Tierra del Fuego"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "todero-pablo",
+    "slug_real_datacp": "todero-pablo",
+    "nombre_canonico": "TODERO, PABLO",
+    "nombres_variantes": [
+      "TODERO, PABLO"
+    ],
+    "provincia": [
+      "Neuquén"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "tolosa-paz-victoria",
+    "slug_real_datacp": "tolosa-paz-victoria",
+    "nombre_canonico": "TOLOSA PAZ, VICTORIA",
+    "nombres_variantes": [
+      "TOLOSA PAZ, VICTORIA"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "tomassoni-yamile",
+    "slug_real_datacp": "tomassoni-yamile",
+    "nombre_canonico": "TOMASSONI, YAMILE",
+    "nombres_variantes": [
+      "TOMASSONI, YAMILE"
+    ],
+    "provincia": [
+      "Santa Fe"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "torres-alejandra",
+    "slug_real_datacp": "torres-alejandra",
+    "nombre_canonico": "TORRES, ALEJANDRA",
+    "nombres_variantes": [
+      "TORRES, ALEJANDRA"
+    ],
+    "provincia": [
+      "Córdoba"
+    ],
+    "bloques": [
+      "Provincias Unidas"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "torres-ruben-dario",
+    "slug_real_datacp": "torres-ruben-dario",
+    "nombre_canonico": "TORRES, RUBEN DARIO",
+    "nombres_variantes": [
+      "TORRES, RUBEN DARIO"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "tortoriello-anibal",
+    "slug_real_datacp": "tortoriello-anibal",
+    "nombre_canonico": "TORTORIELLO, ANIBAL",
+    "nombres_variantes": [
+      "TORTORIELLO, ANIBAL"
+    ],
+    "provincia": [
+      "Rio Negro"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "tournier-jose-federico",
+    "slug_real_datacp": "tournier-jose-federico",
+    "nombre_canonico": "TOURNIER, JOSE FEDERICO",
+    "nombres_variantes": [
+      "TOURNIER, JOSE FEDERICO"
+    ],
+    "provincia": [
+      "Corrientes"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "treffinger-cesar",
+    "slug_real_datacp": "treffinger-cesar",
+    "nombre_canonico": "TREFFINGER, CESAR",
+    "nombres_variantes": [
+      "TREFFINGER, CESAR"
+    ],
+    "provincia": [
+      "Chubut"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "trotta-nicolas-alfredo",
+    "slug_real_datacp": "trotta-nicolas-alfredo",
+    "nombre_canonico": "TROTTA, NICOLAS ALFREDO",
+    "nombres_variantes": [
+      "TROTTA, NICOLAS ALFREDO"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "urien-hernan",
+    "slug_real_datacp": "urien-hernan",
+    "nombre_canonico": "URIEN, HERNAN",
+    "nombres_variantes": [
+      "URIEN, HERNAN"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "valdes-eduardo-felix",
+    "slug_real_datacp": "valdes-eduardo-felix",
+    "nombre_canonico": "VALDES, EDUARDO FELIX",
+    "nombres_variantes": [
+      "VALDES, EDUARDO FELIX"
+    ],
+    "provincia": [
+      "C.A.B.A."
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "vancsik-daniel",
+    "slug_real_datacp": "vancsik-daniel",
+    "nombre_canonico": "VANCSIK, DANIEL",
+    "nombres_variantes": [
+      "VANCSIK, DANIEL"
+    ],
+    "provincia": [
+      "Misiones"
+    ],
+    "bloques": [
+      "Argentina Federal",
+      "Innovacion Federal"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "vasquez-patricia",
+    "slug_real_datacp": "vasquez-patricia",
+    "nombre_canonico": "VASQUEZ, PATRICIA",
+    "nombres_variantes": [
+      "VASQUEZ, PATRICIA"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "vega-yolanda",
+    "slug_real_datacp": "vega-yolanda",
+    "nombre_canonico": "VEGA, YOLANDA",
+    "nombres_variantes": [
+      "VEGA, YOLANDA"
+    ],
+    "provincia": [
+      "Salta"
+    ],
+    "bloques": [
+      "Argentina Federal",
+      "Innovacion Federal"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "velazquez-m-elena",
+    "slug_real_datacp": "velazquez-m-elena",
+    "nombre_canonico": "VELAZQUEZ, M. ELENA",
+    "nombres_variantes": [
+      "VELAZQUEZ, M. ELENA"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "vera-andrea-fernanda",
+    "slug_real_datacp": "vera-andrea-fernanda",
+    "nombre_canonico": "VERA, ANDREA FERNANDA",
+    "nombres_variantes": [
+      "VERA, ANDREA FERNANDA"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "verasay-pamela-fernanda",
+    "slug_real_datacp": "verasay-pamela-fernanda",
+    "nombre_canonico": "VERASAY, PAMELA FERNANDA",
+    "nombres_variantes": [
+      "VERASAY, PAMELA FERNANDA"
+    ],
+    "provincia": [
+      "Mendoza"
+    ],
+    "bloques": [
+      "Ucr - Union Civica Radical"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "villaverde-lorena",
+    "slug_real_datacp": "villaverde-lorena",
+    "nombre_canonico": "VILLAVERDE, LORENA",
+    "nombres_variantes": [
+      "VILLAVERDE, LORENA"
+    ],
+    "provincia": [
+      "Rio Negro"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "visconti-gino",
+    "slug_real_datacp": "visconti-gino",
+    "nombre_canonico": "VISCONTI, GINO",
+    "nombres_variantes": [
+      "VISCONTI, GINO"
+    ],
+    "provincia": [
+      "La Rioja"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "volnovich-luana",
+    "slug_real_datacp": "volnovich-luana",
+    "nombre_canonico": "VOLNOVICH, LUANA",
+    "nombres_variantes": [
+      "VOLNOVICH, LUANA"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "yasky-hugo",
+    "slug_real_datacp": "yasky-hugo",
+    "nombre_canonico": "YASKY, HUGO",
+    "nombres_variantes": [
+      "YASKY, HUGO"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "yedlin-pablo-raul",
+    "slug_real_datacp": "yedlin-pablo-raul",
+    "nombre_canonico": "YEDLIN, PABLO RAUL",
+    "nombres_variantes": [
+      "YEDLIN, PABLO RAUL"
+    ],
+    "provincia": [
+      "Tucumán"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "yeza-martin",
+    "slug_real_datacp": "yeza-martin",
+    "nombre_canonico": "YEZA, MARTIN",
+    "nombres_variantes": [
+      "YEZA, MARTIN"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "Pro"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "zago-oscar",
+    "slug_real_datacp": "zago-oscar",
+    "nombre_canonico": "ZAGO, OSCAR",
+    "nombres_variantes": [
+      "ZAGO, OSCAR"
+    ],
+    "provincia": [
+      "C.A.B.A."
+    ],
+    "bloques": [
+      "Mid - Movimiento De Integracion Y Desarrollo"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "zapata-carlos-raul",
+    "slug_real_datacp": "zapata-carlos-raul",
+    "nombre_canonico": "ZAPATA, CARLOS RAUL",
+    "nombres_variantes": [
+      "ZAPATA, CARLOS RAUL"
+    ],
+    "provincia": [
+      "Salta"
+    ],
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "zaracho-natalia",
+    "slug_real_datacp": "zaracho-natalia",
+    "nombre_canonico": "ZARACHO, NATALIA",
+    "nombres_variantes": [
+      "ZARACHO, NATALIA"
+    ],
+    "provincia": [
+      "Buenos Aires"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "zigaran-maria-ines",
+    "slug_real_datacp": "zigaran-maria-ines",
+    "nombre_canonico": "ZIGARAN, MARIA INES",
+    "nombres_variantes": [
+      "ZIGARAN, MARIA INES"
+    ],
+    "provincia": [
+      "Jujuy"
+    ],
+    "bloques": [
+      "Provincias Unidas"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  },
+  {
+    "id": "zulli-christian-alejandro",
+    "slug_real_datacp": "zulli-christian-alejandro",
+    "nombre_canonico": "ZULLI, CHRISTIAN ALEJANDRO",
+    "nombres_variantes": [
+      "ZULLI, CHRISTIAN ALEJANDRO"
+    ],
+    "provincia": [
+      "Corrientes"
+    ],
+    "bloques": [
+      "Union Por La Patria"
+    ],
+    "apariciones": 124,
+    "primera_fecha": "17/12/2025",
+    "ultima_fecha": "27/08/2026"
+  }
+]

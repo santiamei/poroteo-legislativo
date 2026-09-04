@@ -1,0 +1,53 @@
+# Normalización de bloques políticos: string crudo de Data CP -> etiqueta canónica.
+#
+# La banca vacante (bloque "") ya se excluye en la etapa de identidad
+# (construir_tabla_maestra.py) y no debería llegar acá; si aparece, es un
+# bug en un paso anterior.
+#
+# Los bloques marcados "PENDIENTE" abajo son una PROPUESTA, no están
+# aplicados todavía — ver el reporte de construir_mapeo_bloques.py para el
+# detalle de por qué son ambiguos y las opciones.
+
+# --- Sin ambigüedad: solo formato/legibilidad ---
+"Ucr - Union Civica Radical": "Unión Cívica Radical (UCR)"
+"Mid - Movimiento De Integracion Y Desarrollo": "Movimiento de Integración y Desarrollo (MID)"
+"Pro": "Propuesta Republicana (PRO)"
+"Union Por La Patria": "Unión por la Patria"
+"Provincias Unidas": "Provincias Unidas"
+"Encuentro Federal": "Encuentro Federal"
+"La Libertad Avanza": "La Libertad Avanza"
+"Coalicion Civica": "Coalición Cívica"
+"Coherencia": "Coherencia"
+"Defendamos Cordoba": "Defendamos Córdoba"
+"Elijo Catamarca": "Elijo Catamarca"
+"Independencia": "Independencia"
+"La Neuquinidad": "La Neuquinidad"
+"Pais Federal": "Pais Federal"          # bloque de origen del realineamiento a Argentina Federal (ver reporte)
+"Innovacion Federal": "Innovación Federal"  # ídem
+"Argentina Federal": "Argentina Federal"    # bloque de destino del realineamiento
+"Por Santa Cruz": "Por Santa Cruz"
+"Primero San Luis": "Primero San Luis"
+"Produccion Y Trabajo": "Producción y Trabajo"
+"Adelante Buenos Aires": "Adelante Buenos Aires"
+
+# --- Confirmado explícitamente por el usuario: variante de escritura, misma etiqueta ---
+"Partido Obrero En El Frente De Izquierda Y De Trabajadores-unidad": "Frente de Izquierda y de los Trabajadores - Unidad (Partido Obrero)"
+"Partido Obrero En El Fte De Izquierda Y De Trabajadores-unidad": "Frente de Izquierda y de los Trabajadores - Unidad (Partido Obrero)"
+
+# --- FIT: unificado por sub-partido, sin colapsar todo el frente en una sola etiqueta ---
+"Pts-frente De Izquierda Y De Trabajadores Unidad": "Frente de Izquierda y de los Trabajadores - Unidad (PTS)"
+
+# --- Decidido: bloque genérico del FIT es dato incompleto, no un bloque real ---
+# Bregman, Del Caño, Del Pla y Pitrola tienen esta etiqueta genérica SOLO
+# en la primerísima acta de la ventana (17/12/2025) y los 4 pasan a su
+# etiqueta específica de sub-partido el mismo día (08/04/2026) — mismo
+# patrón que Herrera. Decisión: NO es un pase real. construir_mapeo_bloques.py
+# hace backfill automático (si la primera etapa de alguien es este bucket
+# genérico y hay una etiqueta específica después, la etapa genérica se
+# funde con la específica). Este mapeo queda como fallback por si en algún
+# momento aparece alguien con SOLO la etiqueta genérica y ninguna específica.
+"Frente De Izquierda Y De Trabajadores Unidad": "Frente de Izquierda y de los Trabajadores - Unidad (sin desagregar)"
+
+# Decidido: se trata como sub-partido del FIT-U, mismo formato que PTS y
+# Partido Obrero, aunque el string crudo no diga "Y De Trabajadores Unidad".
+"Izquierda Socialista - Frente De Izquierda": "Frente de Izquierda y de los Trabajadores - Unidad (Izquierda Socialista)"
