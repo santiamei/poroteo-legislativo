@@ -66,7 +66,12 @@ class RepositorioEvidencia:
     """Carga toda la evidencia una sola vez y expone consultas simples.
     No pondera nada — cada método devuelve la tasa CRUDA a ese nivel."""
 
-    def __init__(self):
+    def __init__(self, excluir_actas=frozenset()):
+        """excluir_actas: acta_ids a excluir de TODA la evidencia agregada
+        (individual/subgrupo/bloque, general y por-eje). Para validación
+        honesta contra una acta real: sacarla del entrenamiento antes de
+        predecirla, no es un ajuste del modelo — es no memorizarla."""
+        self._excluir_actas = frozenset(excluir_actas)
         self._nombres = self._cargar_nombres()
         self._bloque_actual, self._universo = self._cargar_bloque_actual_y_universo()
         self._subgrupo = self._cargar_subgrupo()
@@ -124,6 +129,8 @@ class RepositorioEvidencia:
         with open(VOTOS_PATH, encoding="utf-8") as f:
             for fila in csv.DictReader(f):
                 if fila["categoria_votacion"] != "FONDO_GENERAL":
+                    continue
+                if fila["acta_id"] in self._excluir_actas:
                     continue
                 voto = fila["voto"]
                 if voto not in POSICIONES_VALIDAS:
