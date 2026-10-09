@@ -1,0 +1,9534 @@
+{
+  "nombres": {
+    "aguero-guillermo-cesar": "AGUERO, GUILLERMO CESAR",
+    "aguirre-hilda-clelia": "AGUIRRE, HILDA",
+    "ajmechet-sabrina": "AJMECHET, SABRINA",
+    "ali-ernesto": "ALI, ERNESTO \"PIPI\"",
+    "almena-carlos-alberto": "ALMENA, CARLOS ALBERTO",
+    "almiron-lisandro": "ALMIRON, LISANDRO",
+    "alvarez-claudio": "ALVAREZ, CLAUDIO",
+    "andino-cristian": "ANDINO, CRISTIAN",
+    "andrade-javier": "ANDRADE, JAVIER",
+    "andreussi-barbara": "ANDREUSSI, BARBARA",
+    "ansaloni-pablo": "ANSALONI, PABLO",
+    "arabia-damian": "ARABIA, DAMIAN",
+    "araujo-hernandez-jorge-neri": "ARAUJO HERNANDEZ, JORGE NERI",
+    "ardohain-martin": "ARDOHAIN, MARTIN",
+    "arrieta-lourdes-micaela": "ARRIETA, LOURDES MICAELA",
+    "arrua-alberto": "ARRUA, ALBERTO",
+    "aveiro-martin": "AVEIRO, MARTIN",
+    "avico-belen": "AVICO, BELEN",
+    "avila-fernanda": "AVILA, FERNANDA",
+    "avila-jorge-antonio": "AVILA, JORGE ANTONIO",
+    "banfi-karina": "BANFI, KARINA",
+    "barbur-marcelo": "BARBUR, MARCELO",
+    "basterra-luis-eugenio": "BASTERRA, LUIS EUGENIO",
+    "basualdo-atilio": "BASUALDO, ATILIO",
+    "basualdo-carolina": "BASUALDO, CAROLINA",
+    "becerra-monica": "BECERRA, MONICA",
+    "benedit-beltran": "BENEDIT, BELTRAN",
+    "benegas-lynch-bertie": "BENEGAS LYNCH, BERTIE",
+    "bianchetti-emmanuel": "BIANCHETTI, EMMANUEL",
+    "biella-bernardo": "BIELLA, BERNARDO",
+    "bonacci-rocio": "BONACCI, ROCIO",
+    "bongiovanni-alejandro": "BONGIOVANNI, ALEJANDRO",
+    "bordet-gustavo": "BORDET, GUSTAVO",
+    "borgatta-alejandrina": "BORGATTA, ALEJANDRINA",
+    "bornoroni-gabriel": "BORNORONI, GABRIEL",
+    "bregman-myriam": "BREGMAN, MYRIAM",
+    "brizuela-adrian": "BRIZUELA, ADRIAN",
+    "brugge-juan-fernando": "BRUGGE, JUAN FERNANDO",
+    "bruno-eliana": "BRUNO, ELIANA",
+    "cafiero-santiago": "CAFIERO, SANTIAGO",
+    "campero-mariano": "CAMPERO, MARIANO",
+    "campitelli-celia": "CAMPITELLI, CELIA",
+    "campo-julieta-marisol": "CAMPO, JULIETA MARISOL",
+    "campora-lucia": "CAMPORA, LUCIA",
+    "capozzi-sergio-eduardo": "CAPOZZI, SERGIO EDUARDO",
+    "carignano-florencia": "CARIGNANO, FLORENCIA",
+    "carrancio-alejandro": "CARRANCIO, ALEJANDRO",
+    "casas-sergio-guillermo": "CASAS, SERGIO GUILLERMO",
+    "castagneto-carlos-daniel": "CASTAGNETO, CARLOS DANIEL",
+    "castelnuovo-giselle": "CASTELNUOVO, GISELLE",
+    "chica-jorge": "CHICA, JORGE",
+    "chiconi-abel": "CHICONI, ABEL",
+    "cipolini-gerardo": "CIPOLINI, GERARDO",
+    "cisneros-carlos": "CISNEROS, CARLOS",
+    "coletta-mariela": "COLETTA, MARIELA",
+    "correa-llano-facundo": "CORREA LLANO, FACUNDO",
+    "daives-ricardo": "DAIVES, RICARDO",
+    "de-andreis-fernando": "DE ANDREIS, FERNANDO",
+    "de-la-rosa-maria-graciela": "DE LA ROSA, MARIA GRACIELA",
+    "de-la-sota-natalia": "DE LA SOTA, NATALIA",
+    "de-sensi-maria-florencia": "DE SENSI, MARIA FLORENCIA",
+    "del-cano-nicolas": "DEL CAÑO, NICOLAS",
+    "del-pla-romina": "DEL PLA, ROMINA",
+    "diaz-fernanda": "DIAZ, FERNANDA",
+    "diez-romina": "DIEZ, ROMINA",
+    "dolce-sergio": "DOLCE, SERGIO",
+    "emma-nicolas": "EMMA, NICOLAS",
+    "estevez-gabriela-beatriz": "ESTEVEZ, GABRIELA BEATRIZ",
+    "falcone-eduardo": "FALCONE, EDUARDO",
+    "fargosi-alejandro": "FARGOSI, ALEJANDRO",
+    "farias-pablo": "FARIAS, PABLO",
+    "felix-emir": "FELIX, EMIR",
+    "fernandez-elia-marina": "FERNANDEZ, ELIA MARINA",
+    "fernandez-jorge": "FERNANDEZ, JORGE",
+    "fernandez-molero-daiana": "FERNANDEZ MOLERO, DAIANA",
+    "ferran-abelardo": "FERRAN, ABELARDO",
+    "ferraro-maximiliano": "FERRARO, MAXIMILIANO",
+    "ferreyra-alida": "FERREYRA, ALIDA",
+    "figliuolo-sergio": "FIGLIUOLO, SERGIO",
+    "finocchiaro-alejandro": "FINOCCHIARO, ALEJANDRO",
+    "flores-maria-gabriela": "FLORES, MARIA GABRIELA",
+    "frade-monica": "FRADE, MONICA",
+    "fregonese-alicia": "FREGONESE, ALICIA",
+    "freites-andrea": "FREITES, ANDREA",
+    "frias-maira": "FRIAS, MAIRA",
+    "gallardo-maria-virginia": "GALLARDO, MARIA VIRGINIA",
+    "galmarini-sebastian": "GALMARINI, SEBASTIAN",
+    "garcia-alvaro": "GARCIA, ALVARO",
+    "garcia-aresca-ignacio": "GARCIA ARESCA, IGNACIO",
+    "garcia-carlos": "GARCIA, CARLOS",
+    "garcia-maria-teresa": "GARCIA, MARIA TERESA",
+    "garrido-jose-luis": "GARRIDO, JOSE LUIS",
+    "giampieri-antonela": "GIAMPIERI, ANTONELA",
+    "giordano-juan-carlos": "GIORDANO, JUAN CARLOS",
+    "giudici-silvana": "GIUDICI, SILVANA",
+    "giuliano-diego-a": "GIULIANO, DIEGO A.",
+    "glinski-jose": "GLINSKI, JOSE",
+    "goitia-rosario": "GOITIA, ROSARIO",
+    "gomez-jose": "GOMEZ, JOSE",
+    "gonzales-alfredo": "GONZALES, ALFREDO",
+    "gonzalez-alvaro": "GONZALEZ, ALVARO",
+    "gonzalez-diogenes-ignacio": "GONZALEZ, DIOGENES IGNACIO",
+    "gonzalez-estevarena-maria-luisa": "GONZALEZ ESTEVARENA, MARIA LUISA",
+    "gonzalez-gerardo-gustavo": "GONZALEZ, GERARDO GUSTAVO",
+    "grabois-juan": "GRABOIS, JUAN",
+    "gruber-maura": "GRUBER, MAURA",
+    "gutierrez-carlos": "GUTIERREZ, CARLOS",
+    "gutierrez-ramiro": "GUTIERREZ, RAMIRO",
+    "guzman-jairo": "GUZMAN, JAIRO",
+    "hadad-raul": "HADAD, RAUL",
+    "hagman-itai": "HAGMAN, ITAI",
+    "hartfield-diego": "HARTFIELD, DIEGO",
+    "herrera-ahuad-oscar-a": "HERRERA AHUAD, OSCAR A.",
+    "holzman-patricia": "HOLZMAN, PATRICIA",
+    "huesen-gerardo": "HUESEN, GERARDO",
+    "humenuk-gladys": "HUMENUK, GLADYS",
+    "ianni-ana-maria": "IANNI, ANA MARIA",
+    "ibanez-maria-cecilia": "IBAÑEZ, MARIA CECILIA",
+    "jaime-quiroga-carlos-gustavo": "JAIME QUIROGA, CARLOS GUSTAVO",
+    "juliano-pablo": "JULIANO, PABLO",
+    "kirchner-maximo-carlos": "KIRCHNER, MAXIMO CARLOS",
+    "lanesan-sancho-moira": "LANESAN SANCHO, MOIRA",
+    "laumann-andres-ariel": "LAUMANN, ANDRES ARIEL",
+    "leiva-aldo": "LEIVA, ALDO",
+    "lemoine-lilia": "LEMOINE, LILIA",
+    "leone-andres": "LEONE, ANDRES",
+    "llano-mercedes": "LLANO, MERCEDES",
+    "lluch-enrique": "LLUCH, ENRIQUE",
+    "longo-johanna-sabrina": "LONGO, JOHANNA SABRINA",
+    "lopez-jimena": "LOPEZ, JIMENA",
+    "lopez-pasquali-cecilia": "LOPEZ PASQUALI, CECILIA",
+    "lousteau-martin": "LOUSTEAU, MARTIN",
+    "luque-juan-pablo": "LUQUE, JUAN PABLO",
+    "macyszyn-lorena": "MACYSZYN, LORENA",
+    "mango-marcelo": "MANGO, MARCELO",
+    "manrique-mario": "MANRIQUE, MARIO",
+    "marclay-marianela": "MARCLAY, MARIANELA",
+    "marin-varinia-lis": "MARIN, VARINIA LIS",
+    "marino-juan": "MARINO, JUAN",
+    "martinez-alvaro": "MARTINEZ, ALVARO",
+    "martinez-german-pedro": "MARTINEZ, GERMAN PEDRO",
+    "massot-nicolas": "MASSOT, NICOLAS",
+    "matzkin-martin": "MATZKIN, MARTIN",
+    "maureira-karina": "MAUREIRA, KARINA",
+    "mayoraz-nicolas": "MAYORAZ, NICOLAS",
+    "medina-gladys": "MEDINA, GLADYS",
+    "menem-martin": "MENEM, MARTIN",
+    "metral-asensio-julieta": "METRAL ASENSIO, JULIETA",
+    "michel-guillermo": "MICHEL, GUILLERMO",
+    "mino-fernanda": "MIÑO, FERNANDA",
+    "molina-juan-carlos": "MOLINA, JUAN CARLOS",
+    "molinuevo-soledad": "MOLINUEVO, SOLEDAD",
+    "molle-matias": "MOLLE, MATIAS",
+    "mondaca-soledad": "MONDACA, SOLEDAD",
+    "monguillot-fernando": "MONGUILLOT, FERNANDO",
+    "montenegro-guillermo-tristan": "MONTENEGRO, GUILLERMO",
+    "montenegro-juan-pablo": "MONTENEGRO, JUAN PABLO",
+    "monzon-roxana": "MONZON, ROXANA",
+    "morchio-francisco": "MORCHIO, FRANCISCO",
+    "moreau-cecilia": "MOREAU, CECILIA",
+    "moreno-ovalle-julio": "MORENO OVALLE, JULIO",
+    "moyano-hugo-antonio": "MOYANO, HUGO ANTONIO",
+    "mukdise-jorge": "MUKDISE, JORGE",
+    "munoz-gabriela-luciana": "MUÑOZ, GABRIELA LUCIANA",
+    "neder-estela-mary": "NEDER, ESTELA MARY",
+    "nieri-lisandro": "NIERI, LISANDRO",
+    "niveyro-miriam": "NIVEYRO, MIRIAM",
+    "noblega-sebastian": "NOBLEGA, SEBASTIAN",
+    "noguera-javier": "NOGUERA, JAVIER",
+    "nunez-jose": "NUÑEZ, JOSE",
+    "ojeda-joaquin": "OJEDA, JOAQUIN",
+    "olmos-kelly": "OLMOS, KELLY",
+    "osuna-blanca-ines": "OSUNA, BLANCA INES",
+    "outes-pablo": "OUTES, PABLO",
+    "pagano-marcela-marina": "PAGANO, MARCELA MARINA",
+    "palazzo-sergio-omar": "PALAZZO, SERGIO OMAR",
+    "palladino-claudia-maria": "PALLADINO, CLAUDIA MARIA",
+    "pareja-sebastian": "PAREJA, SEBASTIAN",
+    "parola-maria-graciela": "PAROLA, MARIA GRACIELA",
+    "patino-brizuela-marcos": "PATIÑO BRIZUELA, MARCOS",
+    "pauli-santiago": "PAULI, SANTIAGO",
+    "paulon-esteban": "PAULON, ESTEBAN",
+    "pedrali-gabriela": "PEDRALI, GABRIELA",
+    "pellegrini-agustin": "PELLEGRINI, AGUSTIN",
+    "pelli-federico-agustin": "PELLI, FEDERICO AGUSTIN",
+    "peluc-jose": "PELUC, JOSE",
+    "penacca-paula-andrea": "PENACCA, PAULA ANDREA",
+    "petri-luis": "PETRI, LUIS",
+    "petrovich-maria-lorena": "PETROVICH, MARIA LORENA",
+    "picat-luis-albino": "PICAT, LUIS ALBINO",
+    "pichetto-miguel-angel": "PICHETTO, MIGUEL ANGEL",
+    "picon-martinez-nancy-viviana": "PICON MARTINEZ, NANCY VIVIANA",
+    "pietragalla-corti-horacio": "PIETRAGALLA CORTI, HORACIO",
+    "pokoik-lorena": "POKOIK, LORENA",
+    "ponce-maria-celeste": "PONCE, MARIA CELESTE",
+    "potenza-luciana": "POTENZA, LUCIANA",
+    "propato-agustina-lucrecia": "PROPATO, AGUSTINA LUCRECIA",
+    "quintar-manuel": "QUINTAR, MANUEL",
+    "rauschenberger-ariel": "RAUSCHENBERGER, ARIEL",
+    "ravera-valentina": "RAVERA, VALENTINA",
+    "razzini-veronica": "RAZZINI, VERONICA",
+    "reichardt-karen": "REICHARDT, KAREN",
+    "riesco-gaston": "RIESCO, GASTON",
+    "ritondo-cristian": "RITONDO, CRISTIAN A.",
+    "rizzotti-jorge": "RIZZOTTI, JORGE",
+    "roberto-santiago-luis": "ROBERTO, SANTIAGO LUIS",
+    "roca-gonzalo": "ROCA, GONZALO",
+    "rodriguez-machado-laura-elena": "RODRIGUEZ MACHADO, LAURA ELENA",
+    "rodriguez-miguel": "RODRIGUEZ, MIGUEL",
+    "rossi-agustin-oscar": "ROSSI, AGUSTIN OSCAR",
+    "ruiz-yamila": "RUIZ, YAMILA",
+    "salzmann-marina-dorotea": "SALZMANN, MARINA DOROTEA",
+    "sanchez-wrba-javier": "SANCHEZ WRBA, JAVIER",
+    "sand-nancy": "SAND, NANCY",
+    "santillan-juarez-brahim-juliana": "SANTILLAN JUAREZ BRAHIM, JULIANA",
+    "santurio-santiago": "SANTURIO, SANTIAGO",
+    "scaglia-gisela": "SCAGLIA, GISELA",
+    "schiaretti-juan": "SCHIARETTI, JUAN",
+    "schneider-dario": "SCHNEIDER, DARIO",
+    "selva-sabrina": "SELVA, SABRINA",
+    "serquis-adriana-cristina": "SERQUIS, ADRIANA CRISTINA",
+    "siley-vanesa-raquel": "SILEY, VANESA RAQUEL",
+    "snopek-guillermo-eugenio-mario": "SNOPEK, GUILLERMO",
+    "soldano-laura": "SOLDANO, LAURA",
+    "strada-julia": "STRADA, JULIA",
+    "taiana-jorge-enrique": "TAIANA, JORGE",
+    "tailhade-rodolfo": "TAILHADE, RODOLFO",
+    "tepp-caren": "TEPP, CAREN",
+    "tita-paulo-agustin": "TITA, PAULO AGUSTIN",
+    "todero-pablo": "TODERO, PABLO",
+    "tolosa-paz-victoria": "TOLOSA PAZ, VICTORIA",
+    "tomassoni-yamile": "TOMASSONI, YAMILE",
+    "torres-alejandra": "TORRES, ALEJANDRA",
+    "torres-ruben-dario": "TORRES, RUBEN DARIO",
+    "tortoriello-anibal": "TORTORIELLO, ANIBAL",
+    "tournier-jose-federico": "TOURNIER, JOSE FEDERICO",
+    "treffinger-cesar": "TREFFINGER, CESAR",
+    "trotta-nicolas-alfredo": "TROTTA, NICOLAS ALFREDO",
+    "urien-hernan": "URIEN, HERNAN",
+    "valdes-eduardo-felix": "VALDES, EDUARDO FELIX",
+    "vancsik-daniel": "VANCSIK, DANIEL",
+    "vasquez-patricia": "VASQUEZ, PATRICIA",
+    "vega-yolanda": "VEGA, YOLANDA",
+    "velazquez-m-elena": "VELAZQUEZ, M. ELENA",
+    "vera-andrea-fernanda": "VERA, ANDREA FERNANDA",
+    "verasay-pamela-fernanda": "VERASAY, PAMELA FERNANDA",
+    "villaverde-lorena": "VILLAVERDE, LORENA",
+    "visconti-gino": "VISCONTI, GINO",
+    "volnovich-luana": "VOLNOVICH, LUANA",
+    "yasky-hugo": "YASKY, HUGO",
+    "yedlin-pablo-raul": "YEDLIN, PABLO RAUL",
+    "yeza-martin": "YEZA, MARTIN",
+    "zago-oscar": "ZAGO, OSCAR",
+    "zapata-carlos-raul": "ZAPATA, CARLOS RAUL",
+    "zaracho-natalia": "ZARACHO, NATALIA",
+    "zigaran-maria-ines": "ZIGARAN, MARIA INES",
+    "zulli-christian-alejandro": "ZULLI, CHRISTIAN ALEJANDRO"
+  },
+  "bloque_actual": {
+    "aguero-guillermo-cesar": "Unión Cívica Radical (UCR)",
+    "aguirre-hilda-clelia": "Unión por la Patria",
+    "ajmechet-sabrina": "La Libertad Avanza",
+    "ali-ernesto": "Unión por la Patria",
+    "almena-carlos-alberto": "La Libertad Avanza",
+    "almiron-lisandro": "La Libertad Avanza",
+    "alvarez-claudio": "Argentina Federal",
+    "andino-cristian": "Unión por la Patria",
+    "andrade-javier": "Unión por la Patria",
+    "andreussi-barbara": "La Libertad Avanza",
+    "ansaloni-pablo": "La Libertad Avanza",
+    "arabia-damian": "La Libertad Avanza",
+    "araujo-hernandez-jorge-neri": "Unión por la Patria",
+    "ardohain-martin": "Propuesta Republicana (PRO)",
+    "arrieta-lourdes-micaela": "Provincias Unidas",
+    "arrua-alberto": "Argentina Federal",
+    "aveiro-martin": "Unión por la Patria",
+    "avico-belen": "La Libertad Avanza",
+    "avila-fernanda": "Elijo Catamarca",
+    "avila-jorge-antonio": "Provincias Unidas",
+    "banfi-karina": "Adelante Buenos Aires",
+    "barbur-marcelo": "Unión por la Patria",
+    "basterra-luis-eugenio": "Unión por la Patria",
+    "basualdo-atilio": "La Libertad Avanza",
+    "basualdo-carolina": "Provincias Unidas",
+    "becerra-monica": "La Libertad Avanza",
+    "benedit-beltran": "La Libertad Avanza",
+    "benegas-lynch-bertie": "La Libertad Avanza",
+    "bianchetti-emmanuel": "Propuesta Republicana (PRO)",
+    "biella-bernardo": "Argentina Federal",
+    "bonacci-rocio": "La Libertad Avanza",
+    "bongiovanni-alejandro": "La Libertad Avanza",
+    "bordet-gustavo": "Unión por la Patria",
+    "borgatta-alejandrina": "Unión por la Patria",
+    "bornoroni-gabriel": "La Libertad Avanza",
+    "bregman-myriam": "Frente de Izquierda y de los Trabajadores - Unidad (PTS)",
+    "brizuela-adrian": "La Libertad Avanza",
+    "brugge-juan-fernando": "Provincias Unidas",
+    "bruno-eliana": "La Libertad Avanza",
+    "cafiero-santiago": "Unión por la Patria",
+    "campero-mariano": "La Libertad Avanza",
+    "campitelli-celia": "Unión por la Patria",
+    "campo-julieta-marisol": "Unión por la Patria",
+    "campora-lucia": "Unión por la Patria",
+    "capozzi-sergio-eduardo": "Provincias Unidas",
+    "carignano-florencia": "Unión por la Patria",
+    "carrancio-alejandro": "La Libertad Avanza",
+    "casas-sergio-guillermo": "Unión por la Patria",
+    "castagneto-carlos-daniel": "Unión por la Patria",
+    "castelnuovo-giselle": "La Libertad Avanza",
+    "chica-jorge": "Unión por la Patria",
+    "chiconi-abel": "La Libertad Avanza",
+    "cipolini-gerardo": "Unión Cívica Radical (UCR)",
+    "cisneros-carlos": "Unión por la Patria",
+    "coletta-mariela": "Provincias Unidas",
+    "correa-llano-facundo": "La Libertad Avanza",
+    "daives-ricardo": "Unión por la Patria",
+    "de-andreis-fernando": "Propuesta Republicana (PRO)",
+    "de-la-rosa-maria-graciela": "Unión por la Patria",
+    "de-la-sota-natalia": "Defendamos Córdoba",
+    "de-sensi-maria-florencia": "Propuesta Republicana (PRO)",
+    "del-cano-nicolas": "Frente de Izquierda y de los Trabajadores - Unidad (PTS)",
+    "del-pla-romina": "Frente de Izquierda y de los Trabajadores - Unidad (Partido Obrero)",
+    "diaz-fernanda": "Unión por la Patria",
+    "diez-romina": "La Libertad Avanza",
+    "dolce-sergio": "Unión por la Patria",
+    "emma-nicolas": "La Libertad Avanza",
+    "estevez-gabriela-beatriz": "Unión por la Patria",
+    "falcone-eduardo": "Movimiento de Integración y Desarrollo (MID)",
+    "fargosi-alejandro": "La Libertad Avanza",
+    "farias-pablo": "Provincias Unidas",
+    "felix-emir": "Unión por la Patria",
+    "fernandez-elia-marina": "Independencia",
+    "fernandez-jorge": "Primero San Luis",
+    "fernandez-molero-daiana": "Propuesta Republicana (PRO)",
+    "ferran-abelardo": "Unión por la Patria",
+    "ferraro-maximiliano": "Coalición Cívica",
+    "ferreyra-alida": "La Libertad Avanza",
+    "figliuolo-sergio": "La Libertad Avanza",
+    "finocchiaro-alejandro": "Propuesta Republicana (PRO)",
+    "flores-maria-gabriela": "La Libertad Avanza",
+    "frade-monica": "Coalición Cívica",
+    "fregonese-alicia": "Propuesta Republicana (PRO)",
+    "freites-andrea": "Unión por la Patria",
+    "frias-maira": "La Libertad Avanza",
+    "gallardo-maria-virginia": "La Libertad Avanza",
+    "galmarini-sebastian": "Unión por la Patria",
+    "garcia-alvaro": "La Libertad Avanza",
+    "garcia-aresca-ignacio": "Provincias Unidas",
+    "garcia-carlos": "La Libertad Avanza",
+    "garcia-maria-teresa": "Unión por la Patria",
+    "garrido-jose-luis": "Por Santa Cruz",
+    "giampieri-antonela": "Propuesta Republicana (PRO)",
+    "giordano-juan-carlos": "Frente de Izquierda y de los Trabajadores - Unidad (Izquierda Socialista)",
+    "giudici-silvana": "La Libertad Avanza",
+    "giuliano-diego-a": "Unión por la Patria",
+    "glinski-jose": "Unión por la Patria",
+    "goitia-rosario": "La Libertad Avanza",
+    "gomez-jose": "Unión por la Patria",
+    "gonzales-alfredo": "La Libertad Avanza",
+    "gonzalez-alvaro": "Propuesta Republicana (PRO)",
+    "gonzalez-diogenes-ignacio": "Unión Cívica Radical (UCR)",
+    "gonzalez-estevarena-maria-luisa": "La Libertad Avanza",
+    "gonzalez-gerardo-gustavo": "Argentina Federal",
+    "grabois-juan": "Unión por la Patria",
+    "gruber-maura": "La Libertad Avanza",
+    "gutierrez-carlos": "Provincias Unidas",
+    "gutierrez-ramiro": "Unión por la Patria",
+    "guzman-jairo": "La Libertad Avanza",
+    "hadad-raul": "Unión por la Patria",
+    "hagman-itai": "Unión por la Patria",
+    "hartfield-diego": "La Libertad Avanza",
+    "herrera-ahuad-oscar-a": "Argentina Federal",
+    "holzman-patricia": "La Libertad Avanza",
+    "huesen-gerardo": "La Libertad Avanza",
+    "humenuk-gladys": "La Libertad Avanza",
+    "ianni-ana-maria": "Unión por la Patria",
+    "ibanez-maria-cecilia": "La Libertad Avanza",
+    "jaime-quiroga-carlos-gustavo": "Producción y Trabajo",
+    "juliano-pablo": "Provincias Unidas",
+    "kirchner-maximo-carlos": "Unión por la Patria",
+    "lanesan-sancho-moira": "Unión por la Patria",
+    "laumann-andres-ariel": "La Libertad Avanza",
+    "leiva-aldo": "Unión por la Patria",
+    "lemoine-lilia": "La Libertad Avanza",
+    "leone-andres": "La Libertad Avanza",
+    "llano-mercedes": "La Libertad Avanza",
+    "lluch-enrique": "La Libertad Avanza",
+    "longo-johanna-sabrina": "La Libertad Avanza",
+    "lopez-jimena": "Unión por la Patria",
+    "lopez-pasquali-cecilia": "Unión por la Patria",
+    "lousteau-martin": "Provincias Unidas",
+    "luque-juan-pablo": "Unión por la Patria",
+    "macyszyn-lorena": "La Libertad Avanza",
+    "mango-marcelo": "Unión por la Patria",
+    "manrique-mario": "Unión por la Patria",
+    "marclay-marianela": "Unión por la Patria",
+    "marin-varinia-lis": "Unión por la Patria",
+    "marino-juan": "Unión por la Patria",
+    "martinez-alvaro": "La Libertad Avanza",
+    "martinez-german-pedro": "Unión por la Patria",
+    "massot-nicolas": "Encuentro Federal",
+    "matzkin-martin": "La Libertad Avanza",
+    "maureira-karina": "La Neuquinidad",
+    "mayoraz-nicolas": "La Libertad Avanza",
+    "medina-gladys": "Independencia",
+    "menem-martin": "La Libertad Avanza",
+    "metral-asensio-julieta": "La Libertad Avanza",
+    "michel-guillermo": "Unión por la Patria",
+    "mino-fernanda": "Unión por la Patria",
+    "molina-juan-carlos": "Unión por la Patria",
+    "molinuevo-soledad": "La Libertad Avanza",
+    "molle-matias": "Unión por la Patria",
+    "mondaca-soledad": "La Libertad Avanza",
+    "monguillot-fernando": "Elijo Catamarca",
+    "montenegro-guillermo-tristan": "La Libertad Avanza",
+    "montenegro-juan-pablo": "La Libertad Avanza",
+    "monzon-roxana": "Unión por la Patria",
+    "morchio-francisco": "La Libertad Avanza",
+    "moreau-cecilia": "Unión por la Patria",
+    "moreno-ovalle-julio": "La Libertad Avanza",
+    "moyano-hugo-antonio": "Unión por la Patria",
+    "mukdise-jorge": "Unión por la Patria",
+    "munoz-gabriela-luciana": "La Libertad Avanza",
+    "neder-estela-mary": "Unión por la Patria",
+    "nieri-lisandro": "Unión Cívica Radical (UCR)",
+    "niveyro-miriam": "La Libertad Avanza",
+    "noblega-sebastian": "Elijo Catamarca",
+    "noguera-javier": "Independencia",
+    "nunez-jose": "Provincias Unidas",
+    "ojeda-joaquin": "La Libertad Avanza",
+    "olmos-kelly": "Unión por la Patria",
+    "osuna-blanca-ines": "Unión por la Patria",
+    "outes-pablo": "Argentina Federal",
+    "pagano-marcela-marina": "Coherencia",
+    "palazzo-sergio-omar": "Unión por la Patria",
+    "palladino-claudia-maria": "Unión por la Patria",
+    "pareja-sebastian": "La Libertad Avanza",
+    "parola-maria-graciela": "Unión por la Patria",
+    "patino-brizuela-marcos": "La Libertad Avanza",
+    "pauli-santiago": "La Libertad Avanza",
+    "paulon-esteban": "Provincias Unidas",
+    "pedrali-gabriela": "Unión por la Patria",
+    "pellegrini-agustin": "La Libertad Avanza",
+    "pelli-federico-agustin": "La Libertad Avanza",
+    "peluc-jose": "La Libertad Avanza",
+    "penacca-paula-andrea": "Unión por la Patria",
+    "petri-luis": "La Libertad Avanza",
+    "petrovich-maria-lorena": "La Libertad Avanza",
+    "picat-luis-albino": "La Libertad Avanza",
+    "pichetto-miguel-angel": "Encuentro Federal",
+    "picon-martinez-nancy-viviana": "Producción y Trabajo",
+    "pietragalla-corti-horacio": "Unión por la Patria",
+    "pokoik-lorena": "Unión por la Patria",
+    "ponce-maria-celeste": "La Libertad Avanza",
+    "potenza-luciana": "Unión por la Patria",
+    "propato-agustina-lucrecia": "Unión por la Patria",
+    "quintar-manuel": "La Libertad Avanza",
+    "rauschenberger-ariel": "Unión por la Patria",
+    "ravera-valentina": "La Libertad Avanza",
+    "razzini-veronica": "La Libertad Avanza",
+    "reichardt-karen": "La Libertad Avanza",
+    "riesco-gaston": "La Libertad Avanza",
+    "ritondo-cristian": "Propuesta Republicana (PRO)",
+    "rizzotti-jorge": "Provincias Unidas",
+    "roberto-santiago-luis": "Unión por la Patria",
+    "roca-gonzalo": "La Libertad Avanza",
+    "rodriguez-machado-laura-elena": "La Libertad Avanza",
+    "rodriguez-miguel": "La Libertad Avanza",
+    "rossi-agustin-oscar": "Unión por la Patria",
+    "ruiz-yamila": "Argentina Federal",
+    "salzmann-marina-dorotea": "Unión por la Patria",
+    "sanchez-wrba-javier": "Propuesta Republicana (PRO)",
+    "sand-nancy": "Unión por la Patria",
+    "santillan-juarez-brahim-juliana": "La Libertad Avanza",
+    "santurio-santiago": "La Libertad Avanza",
+    "scaglia-gisela": "Provincias Unidas",
+    "schiaretti-juan": "Provincias Unidas",
+    "schneider-dario": "Unión Cívica Radical (UCR)",
+    "selva-sabrina": "Unión por la Patria",
+    "serquis-adriana-cristina": "Unión por la Patria",
+    "siley-vanesa-raquel": "Unión por la Patria",
+    "snopek-guillermo-eugenio-mario": "Unión por la Patria",
+    "soldano-laura": "La Libertad Avanza",
+    "strada-julia": "Unión por la Patria",
+    "taiana-jorge-enrique": "Unión por la Patria",
+    "tailhade-rodolfo": "Unión por la Patria",
+    "tepp-caren": "Unión por la Patria",
+    "tita-paulo-agustin": "Unión por la Patria",
+    "todero-pablo": "Unión por la Patria",
+    "tolosa-paz-victoria": "Unión por la Patria",
+    "tomassoni-yamile": "La Libertad Avanza",
+    "torres-alejandra": "Provincias Unidas",
+    "torres-ruben-dario": "La Libertad Avanza",
+    "tortoriello-anibal": "La Libertad Avanza",
+    "tournier-jose-federico": "La Libertad Avanza",
+    "treffinger-cesar": "La Libertad Avanza",
+    "trotta-nicolas-alfredo": "Unión por la Patria",
+    "urien-hernan": "La Libertad Avanza",
+    "valdes-eduardo-felix": "Unión por la Patria",
+    "vancsik-daniel": "Argentina Federal",
+    "vasquez-patricia": "La Libertad Avanza",
+    "vega-yolanda": "Argentina Federal",
+    "velazquez-m-elena": "Unión por la Patria",
+    "vera-andrea-fernanda": "La Libertad Avanza",
+    "verasay-pamela-fernanda": "Unión Cívica Radical (UCR)",
+    "villaverde-lorena": "La Libertad Avanza",
+    "visconti-gino": "La Libertad Avanza",
+    "volnovich-luana": "Unión por la Patria",
+    "yasky-hugo": "Unión por la Patria",
+    "yedlin-pablo-raul": "Unión por la Patria",
+    "yeza-martin": "Propuesta Republicana (PRO)",
+    "zago-oscar": "Movimiento de Integración y Desarrollo (MID)",
+    "zapata-carlos-raul": "La Libertad Avanza",
+    "zaracho-natalia": "Unión por la Patria",
+    "zigaran-maria-ines": "Provincias Unidas",
+    "zulli-christian-alejandro": "Unión por la Patria"
+  },
+  "universo": [
+    "aguero-guillermo-cesar",
+    "aguirre-hilda-clelia",
+    "ajmechet-sabrina",
+    "ali-ernesto",
+    "almena-carlos-alberto",
+    "almiron-lisandro",
+    "alvarez-claudio",
+    "andino-cristian",
+    "andrade-javier",
+    "andreussi-barbara",
+    "ansaloni-pablo",
+    "arabia-damian",
+    "araujo-hernandez-jorge-neri",
+    "ardohain-martin",
+    "arrieta-lourdes-micaela",
+    "arrua-alberto",
+    "aveiro-martin",
+    "avico-belen",
+    "avila-fernanda",
+    "avila-jorge-antonio",
+    "banfi-karina",
+    "barbur-marcelo",
+    "basterra-luis-eugenio",
+    "basualdo-atilio",
+    "basualdo-carolina",
+    "becerra-monica",
+    "benedit-beltran",
+    "benegas-lynch-bertie",
+    "bianchetti-emmanuel",
+    "biella-bernardo",
+    "bonacci-rocio",
+    "bongiovanni-alejandro",
+    "bordet-gustavo",
+    "borgatta-alejandrina",
+    "bornoroni-gabriel",
+    "bregman-myriam",
+    "brizuela-adrian",
+    "brugge-juan-fernando",
+    "bruno-eliana",
+    "cafiero-santiago",
+    "campero-mariano",
+    "campitelli-celia",
+    "campo-julieta-marisol",
+    "campora-lucia",
+    "capozzi-sergio-eduardo",
+    "carignano-florencia",
+    "carrancio-alejandro",
+    "casas-sergio-guillermo",
+    "castagneto-carlos-daniel",
+    "castelnuovo-giselle",
+    "chica-jorge",
+    "chiconi-abel",
+    "cipolini-gerardo",
+    "cisneros-carlos",
+    "coletta-mariela",
+    "correa-llano-facundo",
+    "daives-ricardo",
+    "de-andreis-fernando",
+    "de-la-rosa-maria-graciela",
+    "de-la-sota-natalia",
+    "de-sensi-maria-florencia",
+    "del-cano-nicolas",
+    "del-pla-romina",
+    "diaz-fernanda",
+    "diez-romina",
+    "dolce-sergio",
+    "emma-nicolas",
+    "estevez-gabriela-beatriz",
+    "falcone-eduardo",
+    "fargosi-alejandro",
+    "farias-pablo",
+    "felix-emir",
+    "fernandez-elia-marina",
+    "fernandez-jorge",
+    "fernandez-molero-daiana",
+    "ferran-abelardo",
+    "ferraro-maximiliano",
+    "ferreyra-alida",
+    "figliuolo-sergio",
+    "finocchiaro-alejandro",
+    "flores-maria-gabriela",
+    "frade-monica",
+    "fregonese-alicia",
+    "freites-andrea",
+    "frias-maira",
+    "gallardo-maria-virginia",
+    "galmarini-sebastian",
+    "garcia-alvaro",
+    "garcia-aresca-ignacio",
+    "garcia-carlos",
+    "garcia-maria-teresa",
+    "garrido-jose-luis",
+    "giampieri-antonela",
+    "giordano-juan-carlos",
+    "giudici-silvana",
+    "giuliano-diego-a",
+    "glinski-jose",
+    "goitia-rosario",
+    "gomez-jose",
+    "gonzales-alfredo",
+    "gonzalez-alvaro",
+    "gonzalez-diogenes-ignacio",
+    "gonzalez-estevarena-maria-luisa",
+    "gonzalez-gerardo-gustavo",
+    "grabois-juan",
+    "gruber-maura",
+    "gutierrez-carlos",
+    "gutierrez-ramiro",
+    "guzman-jairo",
+    "hadad-raul",
+    "hagman-itai",
+    "hartfield-diego",
+    "herrera-ahuad-oscar-a",
+    "holzman-patricia",
+    "huesen-gerardo",
+    "humenuk-gladys",
+    "ianni-ana-maria",
+    "ibanez-maria-cecilia",
+    "jaime-quiroga-carlos-gustavo",
+    "juliano-pablo",
+    "kirchner-maximo-carlos",
+    "lanesan-sancho-moira",
+    "laumann-andres-ariel",
+    "leiva-aldo",
+    "lemoine-lilia",
+    "leone-andres",
+    "llano-mercedes",
+    "lluch-enrique",
+    "longo-johanna-sabrina",
+    "lopez-jimena",
+    "lopez-pasquali-cecilia",
+    "lousteau-martin",
+    "luque-juan-pablo",
+    "macyszyn-lorena",
+    "mango-marcelo",
+    "manrique-mario",
+    "marclay-marianela",
+    "marin-varinia-lis",
+    "marino-juan",
+    "martinez-alvaro",
+    "martinez-german-pedro",
+    "massot-nicolas",
+    "matzkin-martin",
+    "maureira-karina",
+    "mayoraz-nicolas",
+    "medina-gladys",
+    "menem-martin",
+    "metral-asensio-julieta",
+    "michel-guillermo",
+    "mino-fernanda",
+    "molina-juan-carlos",
+    "molinuevo-soledad",
+    "molle-matias",
+    "mondaca-soledad",
+    "monguillot-fernando",
+    "montenegro-guillermo-tristan",
+    "montenegro-juan-pablo",
+    "monzon-roxana",
+    "morchio-francisco",
+    "moreau-cecilia",
+    "moreno-ovalle-julio",
+    "moyano-hugo-antonio",
+    "mukdise-jorge",
+    "munoz-gabriela-luciana",
+    "neder-estela-mary",
+    "nieri-lisandro",
+    "niveyro-miriam",
+    "noblega-sebastian",
+    "noguera-javier",
+    "nunez-jose",
+    "ojeda-joaquin",
+    "olmos-kelly",
+    "osuna-blanca-ines",
+    "outes-pablo",
+    "pagano-marcela-marina",
+    "palazzo-sergio-omar",
+    "palladino-claudia-maria",
+    "pareja-sebastian",
+    "parola-maria-graciela",
+    "patino-brizuela-marcos",
+    "pauli-santiago",
+    "paulon-esteban",
+    "pedrali-gabriela",
+    "pellegrini-agustin",
+    "pelli-federico-agustin",
+    "peluc-jose",
+    "penacca-paula-andrea",
+    "petri-luis",
+    "petrovich-maria-lorena",
+    "picat-luis-albino",
+    "pichetto-miguel-angel",
+    "picon-martinez-nancy-viviana",
+    "pietragalla-corti-horacio",
+    "pokoik-lorena",
+    "ponce-maria-celeste",
+    "potenza-luciana",
+    "propato-agustina-lucrecia",
+    "quintar-manuel",
+    "rauschenberger-ariel",
+    "ravera-valentina",
+    "razzini-veronica",
+    "reichardt-karen",
+    "riesco-gaston",
+    "ritondo-cristian",
+    "rizzotti-jorge",
+    "roberto-santiago-luis",
+    "roca-gonzalo",
+    "rodriguez-machado-laura-elena",
+    "rodriguez-miguel",
+    "rossi-agustin-oscar",
+    "ruiz-yamila",
+    "salzmann-marina-dorotea",
+    "sanchez-wrba-javier",
+    "sand-nancy",
+    "santillan-juarez-brahim-juliana",
+    "santurio-santiago",
+    "scaglia-gisela",
+    "schiaretti-juan",
+    "schneider-dario",
+    "selva-sabrina",
+    "serquis-adriana-cristina",
+    "siley-vanesa-raquel",
+    "snopek-guillermo-eugenio-mario",
+    "soldano-laura",
+    "strada-julia",
+    "taiana-jorge-enrique",
+    "tailhade-rodolfo",
+    "tepp-caren",
+    "tita-paulo-agustin",
+    "todero-pablo",
+    "tolosa-paz-victoria",
+    "tomassoni-yamile",
+    "torres-alejandra",
+    "torres-ruben-dario",
+    "tortoriello-anibal",
+    "tournier-jose-federico",
+    "treffinger-cesar",
+    "trotta-nicolas-alfredo",
+    "urien-hernan",
+    "valdes-eduardo-felix",
+    "vancsik-daniel",
+    "vasquez-patricia",
+    "vega-yolanda",
+    "velazquez-m-elena",
+    "vera-andrea-fernanda",
+    "verasay-pamela-fernanda",
+    "villaverde-lorena",
+    "visconti-gino",
+    "volnovich-luana",
+    "yasky-hugo",
+    "yedlin-pablo-raul",
+    "yeza-martin",
+    "zago-oscar",
+    "zapata-carlos-raul",
+    "zaracho-natalia",
+    "zigaran-maria-ines",
+    "zulli-christian-alejandro"
+  ],
+  "subgrupo": {
+    "aguero-guillermo-cesar": 3,
+    "ajmechet-sabrina": 3,
+    "almena-carlos-alberto": 3,
+    "almiron-lisandro": 3,
+    "alvarez-claudio": 3,
+    "andreussi-barbara": 3,
+    "ansaloni-pablo": 3,
+    "arabia-damian": 3,
+    "ardohain-martin": 3,
+    "arrua-alberto": 3,
+    "avico-belen": 3,
+    "banfi-karina": 3,
+    "basualdo-atilio": 3,
+    "becerra-monica": 3,
+    "benedit-beltran": 3,
+    "benegas-lynch-bertie": 3,
+    "bianchetti-emmanuel": 3,
+    "biella-bernardo": 3,
+    "bonacci-rocio": 3,
+    "bongiovanni-alejandro": 3,
+    "bornoroni-gabriel": 3,
+    "brizuela-adrian": 3,
+    "bruno-eliana": 3,
+    "campero-mariano": 3,
+    "carrancio-alejandro": 3,
+    "castelnuovo-giselle": 3,
+    "chiconi-abel": 3,
+    "cipolini-gerardo": 3,
+    "correa-llano-facundo": 3,
+    "de-andreis-fernando": 3,
+    "de-sensi-maria-florencia": 3,
+    "diez-romina": 3,
+    "emma-nicolas": 3,
+    "falcone-eduardo": 3,
+    "fargosi-alejandro": 3,
+    "fernandez-molero-daiana": 3,
+    "fernandez-elia-marina": 3,
+    "ferreyra-alida": 3,
+    "figliuolo-sergio": 3,
+    "finocchiaro-alejandro": 3,
+    "flores-maria-gabriela": 3,
+    "fregonese-alicia": 3,
+    "frias-maira": 3,
+    "gallardo-maria-virginia": 3,
+    "garcia-alvaro": 3,
+    "garcia-carlos": 3,
+    "garrido-jose-luis": 3,
+    "giampieri-antonela": 3,
+    "giudici-silvana": 3,
+    "goitia-rosario": 3,
+    "gonzales-alfredo": 3,
+    "gonzalez-estevarena-maria-luisa": 3,
+    "gonzalez-alvaro": 3,
+    "gonzalez-diogenes-ignacio": 3,
+    "gonzalez-gerardo-gustavo": 3,
+    "gruber-maura": 3,
+    "guzman-jairo": 3,
+    "hartfield-diego": 3,
+    "herrera-ahuad-oscar-a": 3,
+    "holzman-patricia": 3,
+    "huesen-gerardo": 3,
+    "humenuk-gladys": 3,
+    "ibanez-maria-cecilia": 3,
+    "jaime-quiroga-carlos-gustavo": 3,
+    "laumann-andres-ariel": 3,
+    "lemoine-lilia": 3,
+    "leone-andres": 3,
+    "llano-mercedes": 3,
+    "lluch-enrique": 3,
+    "longo-johanna-sabrina": 3,
+    "macyszyn-lorena": 3,
+    "martinez-alvaro": 3,
+    "maureira-karina": 3,
+    "mayoraz-nicolas": 3,
+    "medina-gladys": 3,
+    "metral-asensio-julieta": 3,
+    "molinuevo-soledad": 3,
+    "mondaca-soledad": 3,
+    "montenegro-guillermo-tristan": 3,
+    "montenegro-juan-pablo": 3,
+    "morchio-francisco": 3,
+    "moreno-ovalle-julio": 3,
+    "munoz-gabriela-luciana": 3,
+    "nieri-lisandro": 3,
+    "niveyro-miriam": 3,
+    "noguera-javier": 3,
+    "ojeda-joaquin": 3,
+    "outes-pablo": 3,
+    "pareja-sebastian": 3,
+    "patino-brizuela-marcos": 3,
+    "pauli-santiago": 3,
+    "pellegrini-agustin": 3,
+    "pelli-federico-agustin": 3,
+    "peluc-jose": 3,
+    "petri-luis": 3,
+    "petrovich-maria-lorena": 3,
+    "picat-luis-albino": 3,
+    "picon-martinez-nancy-viviana": 3,
+    "ponce-maria-celeste": 3,
+    "quintar-manuel": 3,
+    "ravera-valentina": 3,
+    "ravier-adrian": 3,
+    "razzini-veronica": 3,
+    "reichardt-karen": 3,
+    "riesco-gaston": 3,
+    "ritondo-cristian": 3,
+    "roca-gonzalo": 3,
+    "rodriguez-machado-laura-elena": 3,
+    "rodriguez-miguel": 3,
+    "ruiz-yamila": 3,
+    "sanchez-wrba-javier": 3,
+    "santillan-juarez-brahim-juliana": 3,
+    "santurio-santiago": 3,
+    "schneider-dario": 3,
+    "soldano-laura": 3,
+    "tomassoni-yamile": 3,
+    "torres-ruben-dario": 3,
+    "tortoriello-anibal": 3,
+    "tournier-jose-federico": 3,
+    "treffinger-cesar": 3,
+    "urien-hernan": 3,
+    "vancsik-daniel": 3,
+    "vasquez-patricia": 3,
+    "vega-yolanda": 3,
+    "vera-andrea-fernanda": 3,
+    "verasay-pamela-fernanda": 3,
+    "villaverde-lorena": 3,
+    "visconti-gino": 3,
+    "yeza-martin": 3,
+    "zago-oscar": 3,
+    "zapata-carlos-raul": 3,
+    "aguirre-hilda-clelia": 4,
+    "ali-ernesto": 4,
+    "andino-cristian": 4,
+    "andrade-javier": 4,
+    "araujo-hernandez-jorge-neri": 4,
+    "aveiro-martin": 4,
+    "barbur-marcelo": 4,
+    "basterra-luis-eugenio": 4,
+    "bordet-gustavo": 4,
+    "borgatta-alejandrina": 4,
+    "bregman-myriam": 4,
+    "cafiero-santiago": 4,
+    "campitelli-celia": 4,
+    "campo-julieta-marisol": 4,
+    "campora-lucia": 4,
+    "carignano-florencia": 4,
+    "casas-sergio-guillermo": 4,
+    "castagneto-carlos-daniel": 4,
+    "chica-jorge": 4,
+    "cisneros-carlos": 4,
+    "daives-ricardo": 4,
+    "de-la-rosa-maria-graciela": 4,
+    "de-la-sota-natalia": 4,
+    "del-cano-nicolas": 4,
+    "del-pla-romina": 4,
+    "diaz-fernanda": 4,
+    "dolce-sergio": 4,
+    "estevez-gabriela-beatriz": 4,
+    "felix-emir": 4,
+    "fernandez-jorge": 4,
+    "ferran-abelardo": 4,
+    "freites-andrea": 4,
+    "galmarini-sebastian": 4,
+    "garcia-maria-teresa": 4,
+    "giuliano-diego-a": 4,
+    "glinski-jose": 4,
+    "gomez-jose": 4,
+    "grabois-juan": 4,
+    "gutierrez-ramiro": 4,
+    "hadad-raul": 4,
+    "hagman-itai": 4,
+    "ianni-ana-maria": 4,
+    "kirchner-maximo-carlos": 4,
+    "lanesan-sancho-moira": 4,
+    "leiva-aldo": 4,
+    "lopez-pasquali-cecilia": 4,
+    "lopez-jimena": 4,
+    "luque-juan-pablo": 4,
+    "mango-marcelo": 4,
+    "manrique-mario": 4,
+    "marclay-marianela": 4,
+    "marin-varinia-lis": 4,
+    "marino-juan": 4,
+    "martinez-german-pedro": 4,
+    "michel-guillermo": 4,
+    "mino-fernanda": 4,
+    "molina-juan-carlos": 4,
+    "molle-matias": 4,
+    "monzon-roxana": 4,
+    "moreau-cecilia": 4,
+    "moyano-hugo-antonio": 4,
+    "mukdise-jorge": 4,
+    "neder-estela-mary": 4,
+    "olmos-kelly": 4,
+    "osuna-blanca-ines": 4,
+    "pagano-marcela-marina": 4,
+    "palazzo-sergio-omar": 4,
+    "palladino-claudia-maria": 4,
+    "parola-maria-graciela": 4,
+    "pedrali-gabriela": 4,
+    "penacca-paula-andrea": 4,
+    "pichetto-miguel-angel": 4,
+    "pietragalla-corti-horacio": 4,
+    "pitrola-nestor": 4,
+    "pokoik-lorena": 4,
+    "potenza-luciana": 4,
+    "propato-agustina-lucrecia": 4,
+    "rauschenberger-ariel": 4,
+    "roberto-santiago-luis": 4,
+    "rossi-agustin-oscar": 4,
+    "salzmann-marina-dorotea": 4,
+    "sand-nancy": 4,
+    "selva-sabrina": 4,
+    "serquis-adriana-cristina": 4,
+    "siley-vanesa-raquel": 4,
+    "snopek-guillermo-eugenio-mario": 4,
+    "strada-julia": 4,
+    "taiana-jorge-enrique": 4,
+    "tailhade-rodolfo": 4,
+    "tepp-caren": 4,
+    "tita-paulo-agustin": 4,
+    "todero-pablo": 4,
+    "tolosa-paz-victoria": 4,
+    "trotta-nicolas-alfredo": 4,
+    "valdes-eduardo-felix": 4,
+    "velazquez-m-elena": 4,
+    "volnovich-luana": 4,
+    "yasky-hugo": 4,
+    "yedlin-pablo-raul": 4,
+    "zaracho-natalia": 4,
+    "zulli-christian-alejandro": 4,
+    "basualdo-carolina": 5,
+    "brugge-juan-fernando": 5,
+    "coletta-mariela": 5,
+    "farias-pablo": 5,
+    "ferraro-maximiliano": 5,
+    "frade-monica": 5,
+    "garcia-aresca-ignacio": 5,
+    "gutierrez-carlos": 5,
+    "juliano-pablo": 5,
+    "lousteau-martin": 5,
+    "paulon-esteban": 5,
+    "schiaretti-juan": 5,
+    "capozzi-sergio-eduardo": 2,
+    "nunez-jose": 2,
+    "rizzotti-jorge": 2,
+    "scaglia-gisela": 2,
+    "avila-fernanda": 1,
+    "monguillot-fernando": 1,
+    "noblega-sebastian": 1,
+    "arrieta-lourdes-micaela": 6,
+    "zigaran-maria-ines": 6,
+    "avila-jorge-antonio": 7,
+    "torres-alejandra": 7,
+    "massot-nicolas": 8
+  },
+  "cohesion": {
+    "Unión Cívica Radical (UCR)": 1.0,
+    "La Libertad Avanza": 1.0,
+    "Propuesta Republicana (PRO)": 1.0,
+    "Elijo Catamarca": 1.0,
+    "Frente de Izquierda y de los Trabajadores - Unidad (PTS)": 1.0,
+    "Frente de Izquierda y de los Trabajadores - Unidad (Partido Obrero)": 1.0,
+    "Movimiento de Integración y Desarrollo (MID)": 1.0,
+    "Independencia": 1.0,
+    "Coalición Cívica": 1.0,
+    "Producción y Trabajo": 1.0,
+    "Argentina Federal": 1.0,
+    "Innovación Federal": 0.9822222222222222,
+    "Unión por la Patria": 0.971598063804987,
+    "Provincias Unidas": 0.9076113747562815,
+    "Encuentro Federal": 0.75,
+    "Pais Federal": 0.4,
+    "Adelante Buenos Aires": null,
+    "Defendamos Córdoba": null,
+    "Primero San Luis": null,
+    "Por Santa Cruz": null,
+    "La Neuquinidad": null,
+    "Coherencia": null,
+    "Frente de Izquierda y de los Trabajadores - Unidad (Izquierda Socialista)": null
+  },
+  "ejes_disponibles": [
+    "Ambiental/regulatorio",
+    "Comercio exterior",
+    "Económico/fiscal",
+    "Federal/servicios",
+    "Laboral",
+    "Social/derechos"
+  ],
+  "n_actas_por_eje": {
+    "Económico/fiscal": 6,
+    "Social/derechos": 1,
+    "Comercio exterior": 2,
+    "Laboral": 1,
+    "Ambiental/regulatorio": 2,
+    "Federal/servicios": 1
+  },
+  "agg_individual": {
+    "aguero-guillermo-cesar": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        40,
+        40
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "aguirre-hilda-clelia": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        42,
+        30
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        1
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "ajmechet-sabrina": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "ali-ernesto": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        42,
+        30
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        1
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "almena-carlos-alberto": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "almiron-lisandro": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "alvarez-claudio": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        41,
+        39
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        1,
+        1
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "andino-cristian": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        40,
+        29
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        1
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        1
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "andrade-javier": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        33,
+        20
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        0
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "andreussi-barbara": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "ansaloni-pablo": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "arabia-damian": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "araujo-hernandez-jorge-neri": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        42,
+        30
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        1
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "ardohain-martin": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        41,
+        41
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "arrieta-lourdes-micaela": {
+      "Económico/fiscal": [
+        6,
+        2
+      ],
+      "_general_": [
+        23,
+        17
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        1
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "arrua-alberto": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        37,
+        37
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "avico-belen": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "avila-fernanda": {
+      "Económico/fiscal": [
+        4,
+        3
+      ],
+      "_general_": [
+        35,
+        31
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "avila-jorge-antonio": {
+      "Económico/fiscal": [
+        3,
+        1
+      ],
+      "_general_": [
+        25,
+        22
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "banfi-karina": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        41,
+        40
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "barbur-marcelo": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        42,
+        30
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        1
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "basterra-luis-eugenio": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        34,
+        22
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        1
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "basualdo-atilio": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "basualdo-carolina": {
+      "Económico/fiscal": [
+        6,
+        2
+      ],
+      "_general_": [
+        42,
+        35
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "becerra-monica": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "benedit-beltran": {
+      "Económico/fiscal": [
+        4,
+        4
+      ],
+      "_general_": [
+        36,
+        36
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "benegas-lynch-bertie": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        40,
+        40
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "bianchetti-emmanuel": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "biella-bernardo": {
+      "Económico/fiscal": [
+        5,
+        5
+      ],
+      "_general_": [
+        39,
+        38
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        1,
+        1
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "bonacci-rocio": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        24,
+        24
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ]
+    },
+    "bongiovanni-alejandro": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "bordet-gustavo": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        29,
+        17
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        1
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "borgatta-alejandrina": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        42,
+        29
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        0
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "bornoroni-gabriel": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "bregman-myriam": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        30,
+        7
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        0
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "brizuela-adrian": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "brugge-juan-fernando": {
+      "Económico/fiscal": [
+        6,
+        1
+      ],
+      "_general_": [
+        31,
+        22
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "bruno-eliana": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "cafiero-santiago": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        33,
+        20
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        0
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "campero-mariano": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "campitelli-celia": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        42,
+        30
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        1
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "campo-julieta-marisol": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        42,
+        29
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        0
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "campora-lucia": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        41,
+        28
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        0
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "capozzi-sergio-eduardo": {
+      "Económico/fiscal": [
+        6,
+        4
+      ],
+      "_general_": [
+        40,
+        38
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        1,
+        1
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "carignano-florencia": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        34,
+        21
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        0
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "carrancio-alejandro": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "casas-sergio-guillermo": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        41,
+        30
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "castagneto-carlos-daniel": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        29,
+        16
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        0
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "castelnuovo-giselle": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "chica-jorge": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        42,
+        31
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        1
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        1
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "chiconi-abel": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "cipolini-gerardo": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        40,
+        40
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "cisneros-carlos": {
+      "Económico/fiscal": [
+        5,
+        0
+      ],
+      "_general_": [
+        19,
+        10
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "coletta-mariela": {
+      "Económico/fiscal": [
+        5,
+        0
+      ],
+      "_general_": [
+        40,
+        32
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ]
+    },
+    "correa-llano-facundo": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "de-andreis-fernando": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "de-la-rosa-maria-graciela": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        30,
+        18
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        1
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "de-la-sota-natalia": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        35,
+        23
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        1
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "de-sensi-maria-florencia": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        40,
+        40
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "del-cano-nicolas": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        30,
+        7
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        0
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "del-pla-romina": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        30,
+        7
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        0
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "diaz-fernanda": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        41,
+        28
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        0
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "diez-romina": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "dolce-sergio": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        42,
+        30
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        1
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "emma-nicolas": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        35,
+        35
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "estevez-gabriela-beatriz": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        41,
+        28
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        0
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "falcone-eduardo": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        41,
+        40
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        1
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "fargosi-alejandro": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "farias-pablo": {
+      "Económico/fiscal": [
+        4,
+        1
+      ],
+      "_general_": [
+        25,
+        18
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        1,
+        1
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "felix-emir": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        30,
+        18
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        1
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "fernandez-elia-marina": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "fernandez-jorge": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        42,
+        30
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        1
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "fernandez-molero-daiana": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        39,
+        39
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        1,
+        1
+      ]
+    },
+    "ferran-abelardo": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        42,
+        30
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        1
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "ferraro-maximiliano": {
+      "Económico/fiscal": [
+        5,
+        1
+      ],
+      "_general_": [
+        41,
+        33
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "ferreyra-alida": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "figliuolo-sergio": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "finocchiaro-alejandro": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        25,
+        25
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        1,
+        1
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        1,
+        1
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "flores-maria-gabriela": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "frade-monica": {
+      "Económico/fiscal": [
+        3,
+        0
+      ],
+      "_general_": [
+        7,
+        1
+      ],
+      "Comercio exterior": [
+        1,
+        1
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ]
+    },
+    "fregonese-alicia": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        41,
+        41
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "freites-andrea": {
+      "Económico/fiscal": [
+        5,
+        0
+      ],
+      "_general_": [
+        41,
+        29
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        0
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "frias-maira": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "gallardo-maria-virginia": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "galmarini-sebastian": {
+      "Económico/fiscal": [
+        4,
+        0
+      ],
+      "_general_": [
+        24,
+        14
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        1
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "garcia-maria-teresa": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        32,
+        18
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        0
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "garcia-alvaro": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "garcia-carlos": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        41,
+        41
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "garcia-aresca-ignacio": {
+      "Económico/fiscal": [
+        4,
+        1
+      ],
+      "_general_": [
+        34,
+        29
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Ambiental/regulatorio": [
+        1,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "garrido-jose-luis": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        38,
+        38
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "giampieri-antonela": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "giudici-silvana": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "giuliano-diego-a": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        30,
+        18
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        1
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "glinski-jose": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        41,
+        29
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        1
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "goitia-rosario": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "gonzales-alfredo": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "gonzalez-diogenes-ignacio": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        38,
+        38
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "gonzalez-alvaro": {
+      "Económico/fiscal": [
+        5,
+        5
+      ],
+      "_general_": [
+        29,
+        29
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "gonzalez-estevarena-maria-luisa": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "grabois-juan": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        41,
+        27
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        0
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "gruber-maura": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "gutierrez-carlos": {
+      "Económico/fiscal": [
+        6,
+        2
+      ],
+      "_general_": [
+        41,
+        34
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "gutierrez-ramiro": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        29,
+        19
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        1
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        1,
+        0
+      ]
+    },
+    "guzman-jairo": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        41,
+        41
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "hadad-raul": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        42,
+        29
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        0
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "hagman-itai": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        41,
+        27
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        0
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "hartfield-diego": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "herrera-ahuad-oscar-a": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        38,
+        38
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "holzman-patricia": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "huesen-gerardo": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "humenuk-gladys": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "ianni-ana-maria": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        42,
+        29
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        0
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "ibanez-maria-cecilia": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "jaime-quiroga-carlos-gustavo": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "juliano-pablo": {
+      "Económico/fiscal": [
+        5,
+        0
+      ],
+      "_general_": [
+        23,
+        15
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        1,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "kirchner-maximo-carlos": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        22,
+        11
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        0
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        1,
+        0
+      ]
+    },
+    "lanesan-sancho-moira": {
+      "Económico/fiscal": [
+        5,
+        0
+      ],
+      "_general_": [
+        26,
+        16
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        1,
+        1
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "laumann-andres-ariel": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "leiva-aldo": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        41,
+        29
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        1
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "lemoine-lilia": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "leone-andres": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "llano-mercedes": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        38,
+        38
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "lluch-enrique": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "longo-johanna-sabrina": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "lopez-jimena": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        41,
+        29
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        1
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "lopez-pasquali-cecilia": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        41,
+        29
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        1
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "lousteau-martin": {
+      "Económico/fiscal": [
+        5,
+        0
+      ],
+      "_general_": [
+        21,
+        13
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        1,
+        1
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ]
+    },
+    "luque-juan-pablo": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        30,
+        18
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        1
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "macyszyn-lorena": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "mango-marcelo": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        42,
+        29
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        0
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "manrique-mario": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        25,
+        14
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "marclay-marianela": {
+      "Económico/fiscal": [
+        5,
+        0
+      ],
+      "_general_": [
+        18,
+        7
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        1
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "marin-varinia-lis": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        42,
+        30
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        1
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "marino-juan": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        42,
+        28
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        0
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "martinez-alvaro": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "martinez-german-pedro": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        42,
+        30
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        1
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "massot-nicolas": {
+      "Económico/fiscal": [
+        4,
+        0
+      ],
+      "_general_": [
+        34,
+        28
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        1
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "maureira-karina": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        41
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        1
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "mayoraz-nicolas": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "medina-gladys": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "metral-asensio-julieta": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "michel-guillermo": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        26,
+        16
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        1,
+        1
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        1,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "mino-fernanda": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        41,
+        27
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        0
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "molina-juan-carlos": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        41,
+        28
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        0
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "molinuevo-soledad": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "molle-matias": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        29,
+        16
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        0
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "mondaca-soledad": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "monguillot-fernando": {
+      "Económico/fiscal": [
+        6,
+        3
+      ],
+      "_general_": [
+        41,
+        35
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "montenegro-guillermo-tristan": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        40,
+        40
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "montenegro-juan-pablo": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "monzon-roxana": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        40,
+        29
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        1,
+        0
+      ]
+    },
+    "morchio-francisco": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "moreau-cecilia": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        42,
+        30
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        1
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "moreno-ovalle-julio": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "moyano-hugo-antonio": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        42,
+        29
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        0
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "mukdise-jorge": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        41,
+        29
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        1
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "munoz-gabriela-luciana": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        37,
+        37
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "neder-estela-mary": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        42,
+        30
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        1
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "nieri-lisandro": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        29,
+        29
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "niveyro-miriam": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "noblega-sebastian": {
+      "Económico/fiscal": [
+        6,
+        3
+      ],
+      "_general_": [
+        42,
+        36
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "nunez-jose": {
+      "Económico/fiscal": [
+        6,
+        3
+      ],
+      "_general_": [
+        24,
+        21
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ]
+    },
+    "ojeda-joaquin": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "olmos-kelly": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        42,
+        30
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        1
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "osuna-blanca-ines": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        41,
+        27
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        0
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "outes-pablo": {
+      "Económico/fiscal": [
+        5,
+        5
+      ],
+      "_general_": [
+        40,
+        40
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "pagano-marcela-marina": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        8,
+        0
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        1,
+        0
+      ]
+    },
+    "palazzo-sergio-omar": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        42,
+        29
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        0
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "palladino-claudia-maria": {
+      "Económico/fiscal": [
+        4,
+        0
+      ],
+      "_general_": [
+        36,
+        26
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        1
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "pareja-sebastian": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "parola-maria-graciela": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        29,
+        17
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        1
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "patino-brizuela-marcos": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "pauli-santiago": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "paulon-esteban": {
+      "Económico/fiscal": [
+        4,
+        0
+      ],
+      "_general_": [
+        35,
+        27
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        1,
+        1
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "pedrali-gabriela": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        30,
+        18
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        1
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "pellegrini-agustin": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "pelli-federico-agustin": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "peluc-jose": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "penacca-paula-andrea": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        41,
+        28
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        0
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "petri-luis": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        39,
+        39
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "petrovich-maria-lorena": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "picat-luis-albino": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "pichetto-miguel-angel": {
+      "Económico/fiscal": [
+        4,
+        0
+      ],
+      "_general_": [
+        12,
+        6
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        1,
+        1
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        1,
+        0
+      ]
+    },
+    "picon-martinez-nancy-viviana": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "pietragalla-corti-horacio": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        41,
+        27
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        0
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "pitrola-nestor": {
+      "Económico/fiscal": [
+        4,
+        0
+      ],
+      "_general_": [
+        24,
+        5
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        1,
+        0
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "pokoik-lorena": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        37,
+        24
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        0
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "ponce-maria-celeste": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "potenza-luciana": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        42,
+        29
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        0
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "propato-agustina-lucrecia": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        27,
+        15
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        1,
+        0
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "quintar-manuel": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "rauschenberger-ariel": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        42,
+        30
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        1
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "ravera-valentina": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "ravier-adrian": {
+      "Económico/fiscal": [
+        2,
+        2
+      ],
+      "_general_": [
+        19,
+        19
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        1,
+        1
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "razzini-veronica": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "reichardt-karen": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "riesco-gaston": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "ritondo-cristian": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        38,
+        38
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "rizzotti-jorge": {
+      "Económico/fiscal": [
+        5,
+        2
+      ],
+      "_general_": [
+        12,
+        9
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        1,
+        1
+      ]
+    },
+    "roberto-santiago-luis": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        42,
+        29
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        0
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "roca-gonzalo": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "rodriguez-miguel": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "rodriguez-machado-laura-elena": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "rossi-agustin-oscar": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        42,
+        30
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        1
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "ruiz-yamila": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        38,
+        38
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "salzmann-marina-dorotea": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        30,
+        18
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        1
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "sanchez-wrba-javier": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "sand-nancy": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        42,
+        29
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        0
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "santillan-juarez-brahim-juliana": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "santurio-santiago": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "scaglia-gisela": {
+      "Económico/fiscal": [
+        4,
+        2
+      ],
+      "_general_": [
+        34,
+        31
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "schneider-dario": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        40,
+        40
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "selva-sabrina": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        42,
+        30
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        1
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "serquis-adriana-cristina": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        41,
+        27
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        0
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "siley-vanesa-raquel": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        40,
+        27
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        0
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "snopek-guillermo-eugenio-mario": {
+      "Económico/fiscal": [
+        5,
+        0
+      ],
+      "_general_": [
+        16,
+        7
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        1
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        1,
+        0
+      ]
+    },
+    "soldano-laura": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "strada-julia": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        42,
+        29
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        0
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "taiana-jorge-enrique": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        42,
+        28
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        0
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "tepp-caren": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        42,
+        30
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        1
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "todero-pablo": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        34,
+        22
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        1
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "tolosa-paz-victoria": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        29,
+        19
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        1
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        1,
+        0
+      ]
+    },
+    "tomassoni-yamile": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "torres-ruben-dario": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "torres-alejandra": {
+      "Económico/fiscal": [
+        4,
+        1
+      ],
+      "_general_": [
+        35,
+        31
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "tortoriello-anibal": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "tournier-jose-federico": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "treffinger-cesar": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "trotta-nicolas-alfredo": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        42,
+        29
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        0
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "urien-hernan": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "valdes-eduardo-felix": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        31,
+        18
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        0
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "vancsik-daniel": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        38,
+        38
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "vasquez-patricia": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        40,
+        40
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "vega-yolanda": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "velazquez-m-elena": {
+      "Económico/fiscal": [
+        3,
+        0
+      ],
+      "_general_": [
+        20,
+        11
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        1,
+        0
+      ]
+    },
+    "vera-andrea-fernanda": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        41,
+        41
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "verasay-pamela-fernanda": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        39,
+        39
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "villaverde-lorena": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "visconti-gino": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "volnovich-luana": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        33,
+        20
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        0
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "yasky-hugo": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        29,
+        18
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        0
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        1,
+        0
+      ]
+    },
+    "yedlin-pablo-raul": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        41,
+        30
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        1
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        1,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "yeza-martin": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "zago-oscar": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        37,
+        36
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        1
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "zapata-carlos-raul": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        42
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "zaracho-natalia": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        29,
+        15
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        0
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "zigaran-maria-ines": {
+      "Económico/fiscal": [
+        5,
+        2
+      ],
+      "_general_": [
+        28,
+        22
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "zulli-christian-alejandro": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        41,
+        28
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        0
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "tailhade-rodolfo": {
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "_general_": [
+        39,
+        29
+      ],
+      "Comercio exterior": [
+        2,
+        0
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ],
+      "Económico/fiscal": [
+        4,
+        1
+      ]
+    },
+    "daives-ricardo": {
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "_general_": [
+        27,
+        18
+      ],
+      "Comercio exterior": [
+        2,
+        1
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Económico/fiscal": [
+        4,
+        0
+      ]
+    },
+    "noguera-javier": {
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "_general_": [
+        38,
+        38
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ],
+      "Económico/fiscal": [
+        4,
+        4
+      ]
+    },
+    "schiaretti-juan": {
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "_general_": [
+        26,
+        23
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Ambiental/regulatorio": [
+        1,
+        0
+      ],
+      "Económico/fiscal": [
+        4,
+        2
+      ]
+    },
+    "tita-paulo-agustin": {
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "_general_": [
+        26,
+        17
+      ],
+      "Comercio exterior": [
+        2,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ],
+      "Económico/fiscal": [
+        4,
+        0
+      ]
+    },
+    "aveiro-martin": {
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "_general_": [
+        40,
+        30
+      ],
+      "Comercio exterior": [
+        2,
+        1
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ],
+      "Económico/fiscal": [
+        4,
+        0
+      ]
+    },
+    "gomez-jose": {
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "_general_": [
+        17,
+        11
+      ],
+      "Comercio exterior": [
+        1,
+        1
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ],
+      "Económico/fiscal": [
+        1,
+        0
+      ]
+    },
+    "gonzalez-gerardo-gustavo": {
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "_general_": [
+        27,
+        27
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        1,
+        1
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ],
+      "Económico/fiscal": [
+        4,
+        4
+      ]
+    },
+    "matzkin-martin": {
+      "_general_": [
+        23,
+        23
+      ],
+      "Económico/fiscal": [
+        4,
+        4
+      ],
+      "Comercio exterior": [
+        1,
+        1
+      ]
+    },
+    "giordano-juan-carlos": {
+      "Económico/fiscal": [
+        2,
+        0
+      ],
+      "_general_": [
+        6,
+        2
+      ],
+      "Comercio exterior": [
+        1,
+        0
+      ]
+    }
+  },
+  "agg_subgrupo": {
+    "3": {
+      "Económico/fiscal": [
+        773,
+        773
+      ],
+      "_general_": [
+        5307,
+        5300
+      ],
+      "Social/derechos": [
+        130,
+        130
+      ],
+      "Comercio exterior": [
+        257,
+        257
+      ],
+      "Laboral": [
+        130,
+        129
+      ],
+      "Ambiental/regulatorio": [
+        258,
+        255
+      ],
+      "Federal/servicios": [
+        130,
+        127
+      ]
+    },
+    "4": {
+      "Económico/fiscal": [
+        577,
+        1
+      ],
+      "_general_": [
+        3574,
+        2331
+      ],
+      "Social/derechos": [
+        98,
+        1
+      ],
+      "Comercio exterior": [
+        188,
+        50
+      ],
+      "Laboral": [
+        99,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        193,
+        2
+      ],
+      "Federal/servicios": [
+        93,
+        0
+      ]
+    },
+    "6": {
+      "Económico/fiscal": [
+        11,
+        4
+      ],
+      "_general_": [
+        51,
+        39
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        4,
+        4
+      ],
+      "Laboral": [
+        2,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        4,
+        1
+      ],
+      "Federal/servicios": [
+        2,
+        2
+      ]
+    },
+    "1": {
+      "Económico/fiscal": [
+        16,
+        9
+      ],
+      "_general_": [
+        118,
+        102
+      ],
+      "Social/derechos": [
+        3,
+        0
+      ],
+      "Comercio exterior": [
+        6,
+        6
+      ],
+      "Laboral": [
+        3,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        6,
+        6
+      ],
+      "Federal/servicios": [
+        3,
+        0
+      ]
+    },
+    "7": {
+      "Económico/fiscal": [
+        7,
+        2
+      ],
+      "_general_": [
+        60,
+        53
+      ],
+      "Social/derechos": [
+        2,
+        2
+      ],
+      "Comercio exterior": [
+        4,
+        4
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        4,
+        4
+      ],
+      "Federal/servicios": [
+        2,
+        1
+      ]
+    },
+    "5": {
+      "Económico/fiscal": [
+        57,
+        10
+      ],
+      "_general_": [
+        366,
+        282
+      ],
+      "Social/derechos": [
+        11,
+        11
+      ],
+      "Comercio exterior": [
+        20,
+        20
+      ],
+      "Laboral": [
+        10,
+        2
+      ],
+      "Ambiental/regulatorio": [
+        21,
+        0
+      ],
+      "Federal/servicios": [
+        8,
+        0
+      ]
+    },
+    "2": {
+      "Económico/fiscal": [
+        21,
+        11
+      ],
+      "_general_": [
+        110,
+        99
+      ],
+      "Social/derechos": [
+        4,
+        4
+      ],
+      "Comercio exterior": [
+        6,
+        6
+      ],
+      "Laboral": [
+        4,
+        4
+      ],
+      "Ambiental/regulatorio": [
+        6,
+        6
+      ],
+      "Federal/servicios": [
+        2,
+        1
+      ]
+    },
+    "8": {
+      "Económico/fiscal": [
+        4,
+        0
+      ],
+      "_general_": [
+        34,
+        28
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        1
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    }
+  },
+  "agg_bloque": {
+    "Unión Cívica Radical (UCR)": {
+      "Económico/fiscal": [
+        36,
+        36
+      ],
+      "_general_": [
+        226,
+        226
+      ],
+      "Social/derechos": [
+        6,
+        6
+      ],
+      "Comercio exterior": [
+        12,
+        12
+      ],
+      "Laboral": [
+        6,
+        6
+      ],
+      "Ambiental/regulatorio": [
+        12,
+        12
+      ],
+      "Federal/servicios": [
+        6,
+        6
+      ]
+    },
+    "Unión por la Patria": {
+      "Económico/fiscal": [
+        533,
+        1
+      ],
+      "_general_": [
+        3363,
+        2246
+      ],
+      "Social/derechos": [
+        91,
+        0
+      ],
+      "Comercio exterior": [
+        176,
+        47
+      ],
+      "Laboral": [
+        91,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        179,
+        2
+      ],
+      "Federal/servicios": [
+        87,
+        0
+      ]
+    },
+    "La Libertad Avanza": {
+      "Económico/fiscal": [
+        562,
+        562
+      ],
+      "_general_": [
+        3896,
+        3896
+      ],
+      "Social/derechos": [
+        94,
+        94
+      ],
+      "Comercio exterior": [
+        188,
+        188
+      ],
+      "Laboral": [
+        94,
+        94
+      ],
+      "Ambiental/regulatorio": [
+        186,
+        186
+      ],
+      "Federal/servicios": [
+        93,
+        93
+      ]
+    },
+    "Pais Federal": {
+      "Económico/fiscal": [
+        4,
+        2
+      ],
+      "_general_": [
+        10,
+        7
+      ],
+      "Social/derechos": [
+        2,
+        2
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        2,
+        1
+      ]
+    },
+    "Propuesta Republicana (PRO)": {
+      "Económico/fiscal": [
+        71,
+        71
+      ],
+      "_general_": [
+        463,
+        463
+      ],
+      "Social/derechos": [
+        11,
+        11
+      ],
+      "Comercio exterior": [
+        22,
+        22
+      ],
+      "Laboral": [
+        12,
+        12
+      ],
+      "Ambiental/regulatorio": [
+        23,
+        23
+      ],
+      "Federal/servicios": [
+        12,
+        12
+      ]
+    },
+    "Provincias Unidas": {
+      "Económico/fiscal": [
+        88,
+        26
+      ],
+      "_general_": [
+        539,
+        439
+      ],
+      "Social/derechos": [
+        17,
+        17
+      ],
+      "Comercio exterior": [
+        31,
+        31
+      ],
+      "Laboral": [
+        15,
+        6
+      ],
+      "Ambiental/regulatorio": [
+        31,
+        11
+      ],
+      "Federal/servicios": [
+        13,
+        4
+      ]
+    },
+    "Innovación Federal": {
+      "Económico/fiscal": [
+        30,
+        30
+      ],
+      "_general_": [
+        195,
+        193
+      ],
+      "Social/derechos": [
+        7,
+        7
+      ],
+      "Comercio exterior": [
+        7,
+        7
+      ],
+      "Laboral": [
+        7,
+        7
+      ],
+      "Ambiental/regulatorio": [
+        17,
+        17
+      ],
+      "Federal/servicios": [
+        9,
+        7
+      ]
+    },
+    "Elijo Catamarca": {
+      "Económico/fiscal": [
+        16,
+        9
+      ],
+      "_general_": [
+        118,
+        102
+      ],
+      "Social/derechos": [
+        3,
+        0
+      ],
+      "Comercio exterior": [
+        6,
+        6
+      ],
+      "Laboral": [
+        3,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        6,
+        6
+      ],
+      "Federal/servicios": [
+        3,
+        0
+      ]
+    },
+    "Adelante Buenos Aires": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        41,
+        40
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "Frente de Izquierda y de los Trabajadores - Unidad (PTS)": {
+      "Económico/fiscal": [
+        12,
+        0
+      ],
+      "_general_": [
+        60,
+        14
+      ],
+      "Social/derechos": [
+        2,
+        0
+      ],
+      "Comercio exterior": [
+        4,
+        0
+      ],
+      "Laboral": [
+        2,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        4,
+        0
+      ],
+      "Federal/servicios": [
+        2,
+        0
+      ]
+    },
+    "Defendamos Córdoba": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        35,
+        23
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        1
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "Frente de Izquierda y de los Trabajadores - Unidad (Partido Obrero)": {
+      "Económico/fiscal": [
+        10,
+        0
+      ],
+      "_general_": [
+        54,
+        12
+      ],
+      "Social/derechos": [
+        2,
+        0
+      ],
+      "Comercio exterior": [
+        3,
+        0
+      ],
+      "Laboral": [
+        2,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        4,
+        0
+      ],
+      "Federal/servicios": [
+        2,
+        0
+      ]
+    },
+    "Movimiento de Integración y Desarrollo (MID)": {
+      "Económico/fiscal": [
+        12,
+        12
+      ],
+      "_general_": [
+        78,
+        76
+      ],
+      "Social/derechos": [
+        2,
+        2
+      ],
+      "Comercio exterior": [
+        4,
+        4
+      ],
+      "Laboral": [
+        2,
+        2
+      ],
+      "Ambiental/regulatorio": [
+        4,
+        2
+      ],
+      "Federal/servicios": [
+        2,
+        2
+      ]
+    },
+    "Independencia": {
+      "Económico/fiscal": [
+        16,
+        16
+      ],
+      "_general_": [
+        122,
+        122
+      ],
+      "Social/derechos": [
+        3,
+        3
+      ],
+      "Comercio exterior": [
+        6,
+        6
+      ],
+      "Laboral": [
+        2,
+        2
+      ],
+      "Ambiental/regulatorio": [
+        6,
+        6
+      ],
+      "Federal/servicios": [
+        3,
+        3
+      ]
+    },
+    "Primero San Luis": {
+      "Económico/fiscal": [
+        6,
+        0
+      ],
+      "_general_": [
+        42,
+        30
+      ],
+      "Social/derechos": [
+        1,
+        0
+      ],
+      "Comercio exterior": [
+        2,
+        1
+      ],
+      "Laboral": [
+        1,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "Coalición Cívica": {
+      "Económico/fiscal": [
+        8,
+        1
+      ],
+      "_general_": [
+        48,
+        34
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        3,
+        3
+      ],
+      "Laboral": [
+        2,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        4,
+        0
+      ],
+      "Federal/servicios": [
+        1,
+        0
+      ]
+    },
+    "Por Santa Cruz": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        38,
+        38
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        2
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "Producción y Trabajo": {
+      "Económico/fiscal": [
+        12,
+        12
+      ],
+      "_general_": [
+        84,
+        84
+      ],
+      "Social/derechos": [
+        2,
+        2
+      ],
+      "Comercio exterior": [
+        4,
+        4
+      ],
+      "Laboral": [
+        2,
+        2
+      ],
+      "Ambiental/regulatorio": [
+        4,
+        4
+      ],
+      "Federal/servicios": [
+        2,
+        2
+      ]
+    },
+    "Encuentro Federal": {
+      "Económico/fiscal": [
+        8,
+        0
+      ],
+      "_general_": [
+        46,
+        34
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        3,
+        3
+      ],
+      "Laboral": [
+        2,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        3,
+        1
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "La Neuquinidad": {
+      "Económico/fiscal": [
+        6,
+        6
+      ],
+      "_general_": [
+        42,
+        41
+      ],
+      "Social/derechos": [
+        1,
+        1
+      ],
+      "Comercio exterior": [
+        2,
+        2
+      ],
+      "Laboral": [
+        1,
+        1
+      ],
+      "Ambiental/regulatorio": [
+        2,
+        1
+      ],
+      "Federal/servicios": [
+        1,
+        1
+      ]
+    },
+    "Coherencia": {
+      "Laboral": [
+        1,
+        0
+      ],
+      "_general_": [
+        6,
+        0
+      ],
+      "Ambiental/regulatorio": [
+        1,
+        0
+      ],
+      "Económico/fiscal": [
+        4,
+        0
+      ]
+    },
+    "Frente de Izquierda y de los Trabajadores - Unidad (Izquierda Socialista)": {
+      "Económico/fiscal": [
+        2,
+        0
+      ],
+      "_general_": [
+        6,
+        2
+      ],
+      "Comercio exterior": [
+        1,
+        0
+      ]
+    },
+    "Argentina Federal": {
+      "Económico/fiscal": [
+        18,
+        18
+      ],
+      "_general_": [
+        137,
+        137
+      ],
+      "Comercio exterior": [
+        7,
+        7
+      ]
+    }
+  }
+}
