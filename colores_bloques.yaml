@@ -1,0 +1,80 @@
+# Color de relleno y posición ideológica aproximada por bloque, para el
+# hemiciclo (panel derecho del HTML de resultado). Editable sin tocar
+# código ni la plantilla HTML.
+#
+# "orden": posición en el arco de izquierda (número bajo) a derecha
+# (número alto) — izquierda/Unión por la Patria a la izquierda, La
+# Libertad Avanza a la derecha, bloques de centro/provinciales en el
+# medio. Estos valores (color y orden) son los que ya se usaron para
+# aprobar visualmente la plantilla (plantilla_resultado.html) — no
+# cambiarlos sin volver a mirar cómo queda el hemiciclo.
+#
+# Cualquier bloque que no esté acá cae en "_default".
+
+"Frente de Izquierda y de los Trabajadores - Unidad (Partido Obrero)":
+  color: "#B03A2E"
+  orden: 0
+"Frente de Izquierda y de los Trabajadores - Unidad (PTS)":
+  color: "#922B21"
+  orden: 1
+"Frente de Izquierda y de los Trabajadores - Unidad (Izquierda Socialista)":
+  color: "#A93226"
+  orden: 2
+"Unión por la Patria":
+  color: "#2E86C1"
+  orden: 3
+"Por Santa Cruz":
+  color: "#45B39D"
+  orden: 4
+"Defendamos Córdoba":
+  color: "#58D68D"
+  orden: 5
+"Primero San Luis":
+  color: "#F5B041"
+  orden: 6
+"Elijo Catamarca":
+  color: "#48C9B0"
+  orden: 7
+"La Neuquinidad":
+  color: "#52BE80"
+  orden: 8
+"Provincias Unidas":
+  color: "#16A085"
+  orden: 9
+"Coherencia":
+  color: "#CD6155"
+  orden: 10
+"Encuentro Federal":
+  color: "#76D7C4"
+  orden: 11
+"Coalición Cívica":
+  color: "#7FB3D5"
+  orden: 12
+"Producción y Trabajo":
+  color: "#AF7AC5"
+  orden: 13
+"Argentina Federal":
+  color: "#5D6D7E"
+  orden: 14
+"Movimiento de Integración y Desarrollo (MID)":
+  color: "#F0B27A"
+  orden: 15
+"Adelante Buenos Aires":
+  color: "#5499C7"
+  orden: 16
+"Unión Cívica Radical (UCR)":
+  color: "#E74C3C"
+  orden: 17
+"Propuesta Republicana (PRO)":
+  color: "#F1C40F"
+  orden: 18
+"Independencia":
+  color: "#A569BD"
+  orden: 19
+"La Libertad Avanza":
+  color: "#7E3FF2"
+  orden: 20
+
+_default:
+  color: "#9E9E9E"
+  orden: 10

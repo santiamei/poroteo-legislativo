@@ -1,0 +1,28 @@
+# Escala de color para la INTENCIÓN DE VOTO (probabilidad_afirmativo del
+# modelo), en categorías discretas — no una banda estadística. Se usa en
+# el borde de cada banca del hemiciclo y en las listas de diputados.
+#
+# La incertidumbre del modelo (banda_confianza) NO se muestra como
+# número acá: un diputado con probabilidad incierta ya cae en "En duda"
+# por tener probabilidad cercana a 0.5, así que la incertidumbre se ve
+# reflejada en la categoría misma, no en un segundo dato.
+#
+# Evaluadas de mayor a menor "minimo" — la primera categoría cuyo mínimo
+# la probabilidad alcanza o supera, gana. Editable sin tocar código.
+
+categorias:
+  - nombre: "Voto firme a favor"
+    minimo: 0.80
+    color: "#1B5E20"
+  - nombre: "Probable a favor"
+    minimo: 0.60
+    color: "#81C784"
+  - nombre: "En duda"
+    minimo: 0.40
+    color: "#FDD835"
+  - nombre: "Probable en contra"
+    minimo: 0.20
+    color: "#FF8A65"
+  - nombre: "Voto firme en contra"
+    minimo: 0.0
+    color: "#B71C1C"

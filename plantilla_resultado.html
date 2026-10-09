@@ -1,0 +1,401 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Poroteo Diputados</title>
+<style>
+  /* Layout: panel de resultados scrolleable (izq, 2/3) + hemiciclo fijo (der, 1/3).
+     Identidad cívica: fondo pizarra claro, un acento índigo institucional,
+     verde/ámbar/rojo reservados estrictamente a la intención de voto. */
+  :root {
+    --bg: #eef1f6;
+    --surface: #ffffff;
+    --surface-2: #f6f8fb;
+    --fg: #1a2234;
+    --fg-muted: #5c6880;
+    --border: #dde3ec;
+    --border-strong: #c7cfdd;
+    --accent: #3a4e7a;
+    --accent-soft: #e8ecf5;
+    --shadow: 0 1px 2px rgba(20,28,45,.05), 0 8px 24px rgba(20,28,45,.06);
+    --font-display: 'Fraunces', Georgia, serif;
+    --font-body: 'Inter', system-ui, -apple-system, sans-serif;
+    color-scheme: light;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #0f131c; --surface: #171d28; --surface-2: #1e2633;
+      --fg: #e9edf4; --fg-muted: #9aa5ba; --border: #28313f; --border-strong: #38435a;
+      --accent: #93a6db; --accent-soft: #212a3b;
+      --shadow: 0 1px 2px rgba(0,0,0,.3), 0 10px 30px rgba(0,0,0,.3);
+      color-scheme: dark;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #0f131c; --surface: #171d28; --surface-2: #1e2633;
+    --fg: #e9edf4; --fg-muted: #9aa5ba; --border: #28313f; --border-strong: #38435a;
+    --accent: #93a6db; --accent-soft: #212a3b;
+    --shadow: 0 1px 2px rgba(0,0,0,.3), 0 10px 30px rgba(0,0,0,.3);
+    color-scheme: dark;
+  }
+  * { box-sizing: border-box; }
+  body { background: var(--bg); color: var(--fg); font-family: var(--font-body); line-height: 1.5; -webkit-font-smoothing: antialiased; margin: 0; }
+  h1,h2,h3 { font-family: var(--font-display); margin: 0; line-height: 1.1; font-weight: 600; }
+  .tnum { font-variant-numeric: tabular-nums; }
+
+  .layout { display: grid; grid-template-columns: 1fr 420px; gap: 0; max-width: 1280px; margin: 0 auto; align-items: start; }
+  .left { min-width: 0; padding: 26px clamp(16px,3vw,34px) 70px; }
+  .right { position: sticky; top: 0; height: 100vh; border-left: 1px solid var(--border); background: var(--surface-2); padding: 20px 22px; display: flex; flex-direction: column; }
+
+  /* header */
+  .masthead { display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap; margin-bottom: 4px; }
+  .brand { font-family: var(--font-display); font-weight: 600; font-size: clamp(24px,4vw,30px); letter-spacing: -.01em; }
+  .pill { font-size: 10.5px; font-weight: 700; letter-spacing: .09em; text-transform: uppercase; color: var(--accent); background: var(--accent-soft); padding: 4px 9px; border-radius: 999px; }
+  .od-line { font-size: 13px; color: var(--fg-muted); margin: 10px 0 2px; }
+  .od-title { font-size: 15px; font-weight: 500; color: var(--fg); max-width: 60ch; margin-bottom: 22px; }
+
+  /* projection headline */
+  .headline { display: flex; align-items: flex-end; gap: 22px; flex-wrap: wrap; margin-bottom: 8px; }
+  .big-num { font-family: var(--font-display); font-weight: 600; font-size: clamp(52px,10vw,76px); line-height: .9; letter-spacing: -.03em; color: #1B5E20; }
+  :root:not([data-theme="light"]) .big-num, :root[data-theme="dark"] .big-num { color: #66BB6A; }
+  @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .big-num { color: #66BB6A; } }
+  .big-label { font-size: 14px; color: var(--fg-muted); padding-bottom: 8px; }
+  .big-label b { color: var(--fg); font-weight: 600; display: block; font-size: 15px; }
+  .verdict { font-size: 13.5px; color: #1B5E20; background: color-mix(in srgb, #2f7d5b 12%, transparent); padding: 9px 14px; border-radius: 10px; margin-bottom: 26px; display: inline-block; font-weight: 500; }
+  :root:not([data-theme="light"]) .verdict, :root[data-theme="dark"] .verdict { color: #8fd3a8; }
+
+  /* category chips (clickable filter) */
+  .cats { display: grid; grid-template-columns: repeat(5,1fr); gap: 8px; margin-bottom: 30px; }
+  @media (max-width: 720px){ .cats { grid-template-columns: repeat(2,1fr); } }
+  .cat { cursor: pointer; text-align: left; border: 1px solid var(--border); background: var(--surface); border-radius: 12px; padding: 12px 13px; transition: transform .12s, box-shadow .12s, border-color .12s; position: relative; }
+  .cat:hover { transform: translateY(-2px); box-shadow: var(--shadow); }
+  .cat[aria-pressed="true"] { border-color: var(--dotc); box-shadow: 0 0 0 2px var(--dotc) inset; }
+  .cat .dot { width: 11px; height: 11px; border-radius: 50%; display: inline-block; background: var(--dotc); margin-bottom: 7px; }
+  .cat .n { font-family: var(--font-display); font-weight: 600; font-size: 28px; letter-spacing: -.02em; }
+  .cat .lbl { font-size: 11.5px; color: var(--fg-muted); line-height: 1.25; margin-top: 2px; }
+
+  /* filter banner */
+  .filterbar { display: none; align-items: center; gap: 10px; background: var(--accent-soft); border-radius: 10px; padding: 9px 14px; margin-bottom: 16px; font-size: 13.5px; }
+  .filterbar.on { display: flex; }
+  .filterbar button { margin-left: auto; cursor: pointer; border: 0; background: var(--accent); color: #fff; font-family: var(--font-body); font-size: 12.5px; font-weight: 600; padding: 5px 12px; border-radius: 7px; }
+
+  /* section tabs */
+  .tabs { display: inline-flex; gap: 4px; background: var(--surface-2); border: 1px solid var(--border); padding: 4px; border-radius: 11px; margin-bottom: 18px; }
+  .tabs button { cursor: pointer; border: 0; background: transparent; font-family: var(--font-body); font-size: 13.5px; font-weight: 600; color: var(--fg-muted); padding: 7px 16px; border-radius: 8px; }
+  .tabs button[aria-pressed="true"] { background: var(--surface); color: var(--fg); box-shadow: var(--shadow); }
+
+  .sort-row { display: flex; align-items: center; gap: 8px; margin-bottom: 14px; font-size: 13px; color: var(--fg-muted); flex-wrap: wrap; }
+  .sort-row select { font-family: var(--font-body); font-size: 13px; color: var(--fg); background: var(--surface); border: 1px solid var(--border-strong); border-radius: 8px; padding: 5px 9px; }
+
+  /* diputado rows — fine list */
+  .dlist { display: flex; flex-direction: column; }
+  .drow { display: grid; grid-template-columns: 7px 1fr auto; gap: 13px; align-items: center; padding: 11px 4px; border-bottom: 1px solid var(--border); }
+  .drow .stripe { width: 7px; height: 36px; border-radius: 3px; }
+  .drow .who { min-width: 0; }
+  .drow .nm { font-size: 14px; font-weight: 600; letter-spacing: -.005em; }
+  .drow .bq { font-size: 12px; color: var(--fg-muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .drow .cm { font-size: 11.5px; color: var(--fg-muted); margin-top: 2px; line-height: 1.3; }
+  .drow .pr { text-align: right; }
+  .drow .pr .pct { font-family: var(--font-display); font-weight: 600; font-size: 19px; letter-spacing: -.01em; }
+  .drow .pr .ct { font-size: 10.5px; font-weight: 600; text-transform: uppercase; letter-spacing: .03em; }
+
+  /* bloque view */
+  .bloque { border: 1px solid var(--border); border-radius: 12px; margin-bottom: 10px; overflow: hidden; background: var(--surface); }
+  .bloque > summary { cursor: pointer; list-style: none; padding: 14px 16px; display: flex; align-items: center; gap: 12px; }
+  .bloque > summary::-webkit-details-marker { display: none; }
+  .bloque .bq-dot { width: 13px; height: 13px; border-radius: 50%; flex: none; }
+  .bloque .bq-nm { font-weight: 600; font-size: 14.5px; min-width: 0; }
+  .bloque .bq-stat { margin-left: auto; font-size: 13px; color: var(--fg-muted); white-space: nowrap; }
+  .bloque .bq-stat b { color: var(--fg); font-weight: 600; }
+  .bloque .minibar { height: 6px; background: var(--surface-2); border-radius: 4px; margin: 0 16px 14px; overflow: hidden; }
+  .bloque .minibar > i { display: block; height: 100%; background: #2f7d5b; border-radius: 4px; }
+  .bloque .members { padding: 0 8px 8px; }
+  .bloque[open] > summary { border-bottom: 1px solid var(--border); }
+
+  /* hemiciclo panel */
+  .hemi-head { display: flex; align-items: baseline; justify-content: space-between; gap: 8px; margin-bottom: 4px; }
+  .hemi-head h2 { font-size: 16px; }
+  .hemi-note { font-size: 11.5px; color: var(--fg-muted); }
+  .hemi-wrap { flex: 1; display: flex; align-items: center; justify-content: center; min-height: 0; }
+  #hemi { width: 100%; height: auto; max-height: 46vh; }
+  #hemi circle { cursor: pointer; transition: transform .1s; transform-box: fill-box; transform-origin: center; }
+  #hemi circle:hover { transform: scale(1.7); }
+  .tip { position: fixed; pointer-events: none; z-index: 50; background: var(--fg); color: var(--bg); font-size: 12.5px; padding: 7px 10px; border-radius: 8px; opacity: 0; transition: opacity .1s; max-width: 240px; box-shadow: 0 6px 20px rgba(0,0,0,.25); }
+  .tip b { display: block; font-size: 13px; margin-bottom: 1px; }
+  .tip .tp-bq { opacity: .75; font-size: 11.5px; }
+  .tip .tp-pr { margin-top: 3px; font-weight: 700; }
+  .legend { display: flex; flex-wrap: wrap; gap: 5px 12px; margin-top: 14px; font-size: 11px; color: var(--fg-muted); }
+  .legend span { display: inline-flex; align-items: center; gap: 5px; }
+  .legend i { width: 9px; height: 9px; border-radius: 50%; }
+  .hemi-foot { font-size: 11px; color: var(--fg-muted); margin-top: 12px; line-height: 1.4; }
+
+  .disclaimer { font-size: 11.5px; color: var(--fg-muted); border-top: 1px solid var(--border); padding-top: 12px; margin-top: 16px; line-height: 1.45; }
+
+  @media (max-width: 900px) {
+    .layout { grid-template-columns: 1fr; }
+    .right { position: static; height: auto; border-left: 0; border-top: 1px solid var(--border); }
+    #hemi { max-height: none; }
+  }
+</style>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Inter:wght@400;500;600;700&display=swap">
+</head>
+<body>
+
+<div class="layout">
+  <div class="left">
+    <div class="masthead">
+      <span class="brand">Poroteo</span>
+      <span class="pill">Proyección</span>
+    </div>
+    <div class="od-line">Orden del Día N° <b id="odnum" class="tnum"></b></div>
+    <div class="od-title" id="odtitle"></div>
+
+    <div class="headline">
+      <span class="big-num tnum" id="afirm"></span>
+      <span class="big-label">votos afirmativos<br><b id="rango"></b></span>
+    </div>
+    <div class="verdict" id="verdict"></div>
+
+    <div class="cats" id="cats"></div>
+
+    <div class="filterbar" id="filterbar">
+      <span id="filtertext"></span>
+      <button id="clearfilter">Quitar filtro</button>
+    </div>
+
+    <div class="tabs" role="tablist">
+      <button data-view="lista" aria-pressed="true">Lista de diputados</button>
+      <button data-view="bloques" aria-pressed="false">Por bloque</button>
+    </div>
+
+    <div id="view-lista">
+      <div class="sort-row">
+        <label for="sort">Ordenar:</label>
+        <select id="sort">
+          <option value="prob-asc">Menos chances de aprobar primero</option>
+          <option value="prob-desc">Más chances de aprobar primero</option>
+          <option value="bloque">Por bloque</option>
+          <option value="nombre">Por nombre (A-Z)</option>
+        </select>
+      </div>
+      <div class="dlist" id="dlist"></div>
+    </div>
+
+    <div id="view-bloques" hidden></div>
+  </div>
+
+  <div class="right">
+    <div class="hemi-head">
+      <h2>El recinto</h2>
+    </div>
+    <div class="hemi-note" id="hemicount"></div>
+    <div class="hemi-wrap"><svg id="hemi" viewBox="0 0 1000 560" role="img" aria-label="Hemiciclo de la Cámara"></svg></div>
+    <div class="legend" id="hemilegend"></div>
+    <div class="hemi-foot">Centro del punto: color del bloque. Anillo externo: intención de voto. Pasá el mouse por una banca para ver el diputado.</div>
+    <div class="disclaimer">Herramienta en desarrollo. Datos públicos de la Cámara de Diputados (vía Data CP, UBA). Composición y votaciones de la ventana 10/12/2025 – 27/08/2026. El total proyectado es más confiable que cada voto individual.</div>
+  </div>
+</div>
+
+<div class="tip" id="tip"></div>
+
+<script>
+const DATA = __DATA_JSON__;
+const CAT_ORDER = ["Voto firme a favor","Probable a favor","En duda","Probable en contra","Voto firme en contra"];
+const CAT_COLOR = {};
+DATA.diputados.forEach(d => CAT_COLOR[d.categoria_voto] = d.color_categoria);
+
+let filtroCat = null;
+let orden = "prob-asc";
+
+const $ = s => document.querySelector(s);
+const pct = p => Math.round(p*100) + "%";
+
+// ---- header
+$("#odnum").textContent = DATA.od.numero;
+$("#odtitle").textContent = DATA.od.titulo;
+$("#afirm").textContent = Math.round(DATA.resumen.afirmativos_esperados);
+$("#rango").textContent = "rango " + Math.round(DATA.resumen.rango_afirmativos.bajo) + "–" + Math.round(DATA.resumen.rango_afirmativos.alto);
+$("#verdict").textContent = DATA.resumen.supera_mayoria
+  ? "Aprobado — supera la mayoría de " + DATA.resumen.mayoria_absoluta + " incluso en el extremo bajo del rango."
+  : "No alcanza la mayoría de " + DATA.resumen.mayoria_absoluta + ".";
+$("#hemicount").textContent = DATA.resumen.n_diputados + " bancas";
+
+// ---- category chips
+const catsEl = $("#cats");
+CAT_ORDER.forEach(c => {
+  const n = DATA.resumen.totales_por_categoria[c] || 0;
+  const el = document.createElement("button");
+  el.className = "cat"; el.style.setProperty("--dotc", CAT_COLOR[c]);
+  el.setAttribute("aria-pressed","false");
+  el.innerHTML = '<span class="dot"></span><div class="n tnum">'+n+'</div><div class="lbl">'+c+'</div>';
+  el.addEventListener("click", () => {
+    filtroCat = (filtroCat === c) ? null : c;
+    render();
+  });
+  el.dataset.cat = c;
+  catsEl.appendChild(el);
+});
+
+// ---- hemicycle (concentric arcs, seats sorted by ideological order)
+function buildHemi() {
+  const svg = $("#hemi");
+  const cx = 500, cy = 520, N = DATA.diputados.length;
+  const rows = 9;
+  // distribute seats per row proportional to radius
+  const rInner = 150, rOuter = 500;
+  let weights = [];
+  for (let i=0;i<rows;i++){ weights.push(rInner + (rOuter-rInner)*i/(rows-1)); }
+  const wsum = weights.reduce((a,b)=>a+b,0);
+  let perRow = weights.map(w => Math.max(1, Math.round(N * w/wsum)));
+  let diff = N - perRow.reduce((a,b)=>a+b,0);
+  let idx=rows-1; while(diff!==0){ perRow[idx]+= diff>0?1:-1; diff+= diff>0?-1:1; idx=(idx-1+rows)%rows; }
+
+  // sorted legislators left->right
+  const sorted = [...DATA.diputados].sort((a,b)=> (a.orden-b.orden) || a.nombre.localeCompare(b.nombre));
+
+  // build seat slots with angle, grouped so each row fills left->right
+  let slots = [];
+  for (let r=0;r<rows;r++){
+    const rad = rInner + (rOuter-rInner)*r/(rows-1);
+    const cnt = perRow[r];
+    for (let s=0;s<cnt;s++){
+      const frac = cnt===1?0.5:(s/(cnt-1));
+      const ang = Math.PI*(1-frac); // pi..0 = left..right
+      slots.push({r, rad, ang, frac});
+    }
+  }
+  // sort slots by angle-fraction (left->right), inner rows first on ties
+  slots.sort((a,b)=> (a.frac-b.frac) || (a.r-b.r));
+
+  slots.forEach((slot,i) => {
+    const dip = sorted[i]; if(!dip) return;
+    const x = cx + slot.rad*Math.cos(slot.ang);
+    const y = cy - slot.rad*Math.sin(slot.ang);
+    const rDot = 13;
+    const g = document.createElementNS("http://www.w3.org/2000/svg","g");
+    // inner half = bloque color (full circle), ring = voto color
+    const cOuter = document.createElementNS("http://www.w3.org/2000/svg","circle");
+    cOuter.setAttribute("cx",x); cOuter.setAttribute("cy",y); cOuter.setAttribute("r",rDot);
+    cOuter.setAttribute("fill", dip.color_categoria);
+    const cInner = document.createElementNS("http://www.w3.org/2000/svg","circle");
+    cInner.setAttribute("cx",x); cInner.setAttribute("cy",y); cInner.setAttribute("r",rDot*0.56);
+    cInner.setAttribute("fill", dip.color_bloque);
+    cOuter.dataset.id = dip.id_diputado;
+    cOuter.dataset.nombre = dip.nombre;
+    cOuter.dataset.bloque = dip.bloque;
+    cOuter.dataset.prob = pct(dip.probabilidad_afirmativo);
+    cOuter.dataset.cat = dip.categoria_voto;
+    g.appendChild(cOuter); g.appendChild(cInner);
+    svg.appendChild(g);
+  });
+
+  // tooltip
+  const tip = $("#tip");
+  svg.addEventListener("mouseover", e => {
+    const t = e.target; if(t.tagName!=="circle"||!t.dataset.nombre) return;
+    tip.innerHTML = '<b>'+t.dataset.nombre+'</b><span class="tp-bq">'+t.dataset.bloque+'</span><div class="tp-pr" style="color:'+CAT_COLOR[t.dataset.cat]+'">'+t.dataset.prob+' a favor · '+t.dataset.cat+'</div>';
+    tip.style.opacity="1";
+  });
+  svg.addEventListener("mousemove", e => {
+    const tip=$("#tip"); const pad=14;
+    let x=e.clientX+pad, y=e.clientY+pad;
+    if(x+250>innerWidth) x=e.clientX-250;
+    tip.style.left=x+"px"; tip.style.top=y+"px";
+  });
+  svg.addEventListener("mouseout", e => { if(e.target.tagName==="circle") $("#tip").style.opacity="0"; });
+}
+buildHemi();
+
+// hemi legend
+const hl=$("#hemilegend");
+CAT_ORDER.forEach(c=>{
+  const s=document.createElement("span");
+  s.innerHTML='<i style="background:'+CAT_COLOR[c]+'"></i>'+c;
+  hl.appendChild(s);
+});
+
+// ---- list render
+function catRank(c){ return CAT_ORDER.indexOf(c); }
+function renderLista() {
+  let arr = DATA.diputados.filter(d => !filtroCat || d.categoria_voto===filtroCat);
+  arr.sort((a,b)=>{
+    if(orden==="prob-asc") return a.probabilidad_afirmativo-b.probabilidad_afirmativo || a.nombre.localeCompare(b.nombre);
+    if(orden==="prob-desc") return b.probabilidad_afirmativo-a.probabilidad_afirmativo || a.nombre.localeCompare(b.nombre);
+    if(orden==="bloque") return a.orden-b.orden || a.nombre.localeCompare(b.nombre);
+    return a.nombre.localeCompare(b.nombre);
+  });
+  const box=$("#dlist"); box.innerHTML="";
+  arr.forEach(d=>{
+    const row=document.createElement("div"); row.className="drow";
+    row.innerHTML =
+      '<span class="stripe" style="background:'+d.color_categoria+'"></span>'+
+      '<div class="who"><div class="nm">'+d.nombre+'</div>'+
+      '<div class="bq">'+d.bloque+'</div>'+
+      '<div class="cm">'+d.comentario+'</div></div>'+
+      '<div class="pr"><div class="pct tnum" style="color:'+d.color_categoria+'">'+pct(d.probabilidad_afirmativo)+'</div>'+
+      '<div class="ct" style="color:'+d.color_categoria+'">'+d.categoria_voto.replace("Voto ","").replace(" a favor"," ✓").replace(" en contra"," ✗")+'</div></div>';
+    box.appendChild(row);
+  });
+}
+
+// ---- bloques render
+function renderBloques() {
+  const box=$("#view-bloques"); box.innerHTML="";
+  const byB={};
+  DATA.diputados.forEach(d=>{ (byB[d.bloque]=byB[d.bloque]||[]).push(d); });
+  const orderB = Object.keys(byB).sort((a,b)=> byB[b].length-byB[a].length);
+  orderB.forEach(bq=>{
+    const ms=byB[bq];
+    const afav=ms.reduce((s,d)=>s+d.probabilidad_afirmativo,0);
+    const col=ms[0].color_bloque;
+    const det=document.createElement("details"); det.className="bloque";
+    const pctFav=Math.round(100*afav/ms.length);
+    det.innerHTML=
+      '<summary><span class="bq-dot" style="background:'+col+'"></span>'+
+      '<span class="bq-nm">'+bq+'</span>'+
+      '<span class="bq-stat"><b>'+afav.toFixed(1)+'</b> / '+ms.length+' a favor</span></summary>'+
+      '<div class="minibar"><i style="width:'+pctFav+'%"></i></div>';
+    const mem=document.createElement("div"); mem.className="members";
+    ms.sort((a,b)=>b.probabilidad_afirmativo-a.probabilidad_afirmativo).forEach(d=>{
+      const row=document.createElement("div"); row.className="drow";
+      row.innerHTML=
+        '<span class="stripe" style="background:'+d.color_categoria+'"></span>'+
+        '<div class="who"><div class="nm">'+d.nombre+'</div><div class="cm">'+d.comentario+'</div></div>'+
+        '<div class="pr"><div class="pct tnum" style="color:'+d.color_categoria+'">'+pct(d.probabilidad_afirmativo)+'</div></div>';
+      mem.appendChild(row);
+    });
+    det.appendChild(mem); box.appendChild(det);
+  });
+}
+
+// ---- filter + tabs
+function render() {
+  document.querySelectorAll(".cat").forEach(el=>el.setAttribute("aria-pressed", String(el.dataset.cat===filtroCat)));
+  const fb=$("#filterbar");
+  if(filtroCat){ fb.classList.add("on"); $("#filtertext").textContent="Mostrando: "+filtroCat; }
+  else fb.classList.remove("on");
+  renderLista();
+}
+$("#clearfilter").addEventListener("click", ()=>{ filtroCat=null; render();
+  document.querySelector('.tabs button[data-view="lista"]').click(); });
+$("#sort").addEventListener("change", e=>{ orden=e.target.value; renderLista(); });
+
+document.querySelectorAll(".tabs button").forEach(btn=>{
+  btn.addEventListener("click", ()=>{
+    document.querySelectorAll(".tabs button").forEach(b=>b.setAttribute("aria-pressed",String(b===btn)));
+    const v=btn.dataset.view;
+    $("#view-lista").hidden = v!=="lista";
+    $("#view-bloques").hidden = v!=="bloques";
+  });
+});
+
+// clicking a category chip jumps to the list filtered
+catsEl.addEventListener("click", ()=>{
+  document.querySelector('.tabs button[data-view="lista"]').click();
+});
+
+renderBloques();
+render();
+</script>
+</body>
+</html>
