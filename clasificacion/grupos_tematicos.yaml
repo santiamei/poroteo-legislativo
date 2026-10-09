@@ -1,0 +1,22 @@
+# Agrupación GRUESA de los ejes finos (ver ejes_manuales.yaml) en 3 grupos,
+# para que caiga más evidencia histórica en cada uno al proyectar una OD
+# nueva. Editable sin tocar código — grupo_tematico.py solo lee esto.
+#
+# Mover un eje de grupo, o agregar un grupo nuevo, es cambiar este archivo
+# y volver a generar el artefacto (generar_artefacto.py); no hace falta
+# tocar datos_evidencia.py ni el modelo.
+
+economico:
+  ejes:
+    - "Económico/fiscal"
+
+regulacion_produccion:
+  ejes:
+    - "Laboral"
+    - "Ambiental/regulatorio"
+    - "Comercio exterior"
+
+institucional_derechos:
+  ejes:
+    - "Social/derechos"
+    - "Federal/servicios"

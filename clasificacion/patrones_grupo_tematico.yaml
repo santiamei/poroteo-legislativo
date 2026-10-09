@@ -1,0 +1,58 @@
+# Palabras/frases clave para clasificar el TÍTULO de una OD en uno de los
+# 3 grupos temáticos gruesos de grupos_tematicos.yaml. Cada patrón es un
+# regex simple (buscado sobre el título normalizado: mayúsculas, sin
+# acentos, puntos a espacio — ver clasificacion.clasificador.normalizar).
+#
+# Construidas a partir de los títulos reales de las 42 actas FONDO_GENERAL
+# de la ventana (ver data/processed/votos_consolidado.csv), no inventadas.
+# A propósito ANGOSTAS: institucional_derechos solo tiene 2 actas de
+# entrenamiento (Social/derechos + Federal/servicios), así que se prefirió
+# dejar palabras genéricas ("FEDERAL", "PROVINCIA", "EDUCACION", "SALUD")
+# AFUERA — aparecen también en títulos ceremoniales ("Capital Nacional
+# de la Educación") o de reorganización judicial ("Cámara Federal de
+# Apelaciones") que no tienen nada que ver con el eje real, y hubieran
+# generado falsos positivos. Mejor que esos casos caigan en la red de
+# seguridad (evidencia general) a que el grupo les quede mal asignado.
+
+economico:
+  - "IMPUESTO"
+  - "GANANCIAS"
+  - "FISCAL"
+  - "TRIBUTARI"
+  - "IMPOSITIV"
+  - "PRESUPUESTO"
+  - "BCRA"
+  - "BANCO CENTRAL"
+  - "INVERSION"
+  - "\\bRIGI\\b"
+  - "DEUDA"
+  - "ACREED"  # cubre ACREEDOR/ACREEDORES y la abreviatura "ACREED." de los títulos de HCDN
+  - "\\bIVA\\b"
+  - "ALICUOTA"
+  - "\\bARCA\\b"
+
+regulacion_produccion:
+  - "LABORAL"
+  - "TRABAJO"
+  - "EMPLEO"
+  - "SINDICAL"
+  - "AMBIENTAL"
+  - "GLACIAR"
+  - "MERCOSUR"
+  - "COMERCIO EXTERIOR"
+  - "LIBRE COMERCIO"
+  - "ARANCEL"
+  - "EXPORTACION"
+  - "IMPORTACION"
+  - "ADUANER"
+  - "PATENTES"
+  - "PROPIEDAD INDUSTRIAL"
+
+institucional_derechos:
+  - "PENAL JUVENIL"
+  - "REGIMEN PENAL"
+  - "ZONA FRIA"
+  - "DERECHOS HUMANOS"
+  - "NIÑEZ"
+  - "PERSPECTIVA DE GENERO"
+  - "DISCAPACIDAD"

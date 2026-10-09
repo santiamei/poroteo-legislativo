@@ -1075,8 +1075,23 @@
     "Ambiental/regulatorio": 2,
     "Federal/servicios": 1
   },
+  "grupos_disponibles": [
+    "economico",
+    "institucional_derechos",
+    "regulacion_produccion"
+  ],
+  "n_actas_por_grupo": {
+    "economico": 6,
+    "institucional_derechos": 2,
+    "regulacion_produccion": 5
+  },
+  "n_actas_generales": 42,
   "agg_individual": {
     "aguero-guillermo-cesar": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -1085,6 +1100,10 @@
         40,
         40
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -1092,6 +1111,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -1107,6 +1130,10 @@
       ]
     },
     "aguirre-hilda-clelia": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -1115,12 +1142,20 @@
         42,
         30
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        1
+      ],
+      "regulacion_produccion": [
+        5,
         1
       ],
       "Laboral": [
@@ -1137,6 +1172,10 @@
       ]
     },
     "ajmechet-sabrina": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -1145,6 +1184,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -1152,6 +1195,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -1167,6 +1214,10 @@
       ]
     },
     "ali-ernesto": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -1175,12 +1226,20 @@
         42,
         30
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        1
+      ],
+      "regulacion_produccion": [
+        5,
         1
       ],
       "Laboral": [
@@ -1197,6 +1256,10 @@
       ]
     },
     "almena-carlos-alberto": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -1205,6 +1268,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -1212,6 +1279,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -1227,6 +1298,10 @@
       ]
     },
     "almiron-lisandro": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -1235,6 +1310,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -1242,6 +1321,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -1257,6 +1340,10 @@
       ]
     },
     "alvarez-claudio": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -1265,6 +1352,10 @@
         41,
         39
       ],
+      "institucional_derechos": [
+        2,
+        1
+      ],
       "Social/derechos": [
         1,
         1
@@ -1272,6 +1363,10 @@
       "Comercio exterior": [
         1,
         1
+      ],
+      "regulacion_produccion": [
+        4,
+        3
       ],
       "Laboral": [
         1,
@@ -1287,6 +1382,10 @@
       ]
     },
     "andino-cristian": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -1295,6 +1394,10 @@
         40,
         29
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
@@ -1302,6 +1405,10 @@
       "Comercio exterior": [
         2,
         1
+      ],
+      "regulacion_produccion": [
+        5,
+        2
       ],
       "Laboral": [
         1,
@@ -1317,6 +1424,10 @@
       ]
     },
     "andrade-javier": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -1325,12 +1436,20 @@
         33,
         20
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        0
+      ],
+      "regulacion_produccion": [
+        5,
         0
       ],
       "Laboral": [
@@ -1347,6 +1466,10 @@
       ]
     },
     "andreussi-barbara": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -1355,6 +1478,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -1362,6 +1489,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -1377,6 +1508,10 @@
       ]
     },
     "ansaloni-pablo": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -1385,6 +1520,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -1392,6 +1531,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -1407,6 +1550,10 @@
       ]
     },
     "arabia-damian": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -1415,6 +1562,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -1422,6 +1573,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -1437,6 +1592,10 @@
       ]
     },
     "araujo-hernandez-jorge-neri": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -1445,12 +1604,20 @@
         42,
         30
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        1
+      ],
+      "regulacion_produccion": [
+        5,
         1
       ],
       "Laboral": [
@@ -1467,6 +1634,10 @@
       ]
     },
     "ardohain-martin": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -1475,6 +1646,10 @@
         41,
         41
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -1482,6 +1657,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -1497,6 +1676,10 @@
       ]
     },
     "arrieta-lourdes-micaela": {
+      "economico": [
+        6,
+        2
+      ],
       "Económico/fiscal": [
         6,
         2
@@ -1505,6 +1688,10 @@
         23,
         17
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -1512,6 +1699,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        3
       ],
       "Laboral": [
         1,
@@ -1527,6 +1718,10 @@
       ]
     },
     "arrua-alberto": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -1535,6 +1730,10 @@
         37,
         37
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -1542,6 +1741,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -1557,6 +1760,10 @@
       ]
     },
     "avico-belen": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -1565,6 +1772,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -1572,6 +1783,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -1587,6 +1802,10 @@
       ]
     },
     "avila-fernanda": {
+      "economico": [
+        4,
+        3
+      ],
       "Económico/fiscal": [
         4,
         3
@@ -1595,6 +1814,10 @@
         35,
         31
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
@@ -1602,6 +1825,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        4
       ],
       "Laboral": [
         1,
@@ -1617,6 +1844,10 @@
       ]
     },
     "avila-jorge-antonio": {
+      "economico": [
+        3,
+        1
+      ],
       "Económico/fiscal": [
         3,
         1
@@ -1625,6 +1856,10 @@
         25,
         22
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -1632,6 +1867,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        4
       ],
       "Laboral": [
         1,
@@ -1647,6 +1886,10 @@
       ]
     },
     "banfi-karina": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -1655,6 +1898,10 @@
         41,
         40
       ],
+      "institucional_derechos": [
+        2,
+        1
+      ],
       "Social/derechos": [
         1,
         1
@@ -1662,6 +1909,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -1677,6 +1928,10 @@
       ]
     },
     "barbur-marcelo": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -1685,12 +1940,20 @@
         42,
         30
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        1
+      ],
+      "regulacion_produccion": [
+        5,
         1
       ],
       "Laboral": [
@@ -1707,6 +1970,10 @@
       ]
     },
     "basterra-luis-eugenio": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -1715,12 +1982,20 @@
         34,
         22
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        1
+      ],
+      "regulacion_produccion": [
+        5,
         1
       ],
       "Laboral": [
@@ -1737,6 +2012,10 @@
       ]
     },
     "basualdo-atilio": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -1745,6 +2024,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -1752,6 +2035,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -1767,6 +2054,10 @@
       ]
     },
     "basualdo-carolina": {
+      "economico": [
+        6,
+        2
+      ],
       "Económico/fiscal": [
         6,
         2
@@ -1775,6 +2066,10 @@
         42,
         35
       ],
+      "institucional_derechos": [
+        2,
+        1
+      ],
       "Social/derechos": [
         1,
         1
@@ -1782,6 +2077,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        3
       ],
       "Laboral": [
         1,
@@ -1797,6 +2096,10 @@
       ]
     },
     "becerra-monica": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -1805,6 +2108,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -1812,6 +2119,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -1827,6 +2138,10 @@
       ]
     },
     "benedit-beltran": {
+      "economico": [
+        4,
+        4
+      ],
       "Económico/fiscal": [
         4,
         4
@@ -1835,6 +2150,10 @@
         36,
         36
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -1842,6 +2161,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -1857,6 +2180,10 @@
       ]
     },
     "benegas-lynch-bertie": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -1865,6 +2192,10 @@
         40,
         40
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -1872,6 +2203,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -1887,6 +2222,10 @@
       ]
     },
     "bianchetti-emmanuel": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -1895,6 +2234,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -1902,6 +2245,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -1917,6 +2264,10 @@
       ]
     },
     "biella-bernardo": {
+      "economico": [
+        5,
+        5
+      ],
       "Económico/fiscal": [
         5,
         5
@@ -1925,6 +2276,10 @@
         39,
         38
       ],
+      "institucional_derechos": [
+        2,
+        1
+      ],
       "Social/derechos": [
         1,
         1
@@ -1932,6 +2287,10 @@
       "Comercio exterior": [
         1,
         1
+      ],
+      "regulacion_produccion": [
+        4,
+        4
       ],
       "Laboral": [
         1,
@@ -1947,6 +2306,10 @@
       ]
     },
     "bonacci-rocio": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -1955,6 +2318,10 @@
         24,
         24
       ],
+      "institucional_derechos": [
+        1,
+        1
+      ],
       "Social/derechos": [
         1,
         1
@@ -1963,12 +2330,20 @@
         2,
         2
       ],
+      "regulacion_produccion": [
+        3,
+        3
+      ],
       "Laboral": [
         1,
         1
       ]
     },
     "bongiovanni-alejandro": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -1977,6 +2352,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -1984,6 +2363,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -1999,6 +2382,10 @@
       ]
     },
     "bordet-gustavo": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -2007,12 +2394,20 @@
         29,
         17
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        1
+      ],
+      "regulacion_produccion": [
+        5,
         1
       ],
       "Laboral": [
@@ -2029,6 +2424,10 @@
       ]
     },
     "borgatta-alejandrina": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -2037,12 +2436,20 @@
         42,
         29
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        0
+      ],
+      "regulacion_produccion": [
+        5,
         0
       ],
       "Laboral": [
@@ -2059,6 +2466,10 @@
       ]
     },
     "bornoroni-gabriel": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -2067,6 +2478,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -2074,6 +2489,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -2089,6 +2508,10 @@
       ]
     },
     "bregman-myriam": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -2097,12 +2520,20 @@
         30,
         7
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        0
+      ],
+      "regulacion_produccion": [
+        5,
         0
       ],
       "Laboral": [
@@ -2119,6 +2550,10 @@
       ]
     },
     "brizuela-adrian": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -2127,6 +2562,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -2134,6 +2573,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -2149,6 +2592,10 @@
       ]
     },
     "brugge-juan-fernando": {
+      "economico": [
+        6,
+        1
+      ],
       "Económico/fiscal": [
         6,
         1
@@ -2157,12 +2604,20 @@
         31,
         22
       ],
+      "institucional_derechos": [
+        2,
+        1
+      ],
       "Social/derechos": [
         1,
         1
       ],
       "Comercio exterior": [
         2,
+        2
+      ],
+      "regulacion_produccion": [
+        5,
         2
       ],
       "Laboral": [
@@ -2179,6 +2634,10 @@
       ]
     },
     "bruno-eliana": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -2187,6 +2646,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -2194,6 +2657,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -2209,6 +2676,10 @@
       ]
     },
     "cafiero-santiago": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -2217,12 +2688,20 @@
         33,
         20
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        0
+      ],
+      "regulacion_produccion": [
+        5,
         0
       ],
       "Laboral": [
@@ -2239,6 +2718,10 @@
       ]
     },
     "campero-mariano": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -2247,6 +2730,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -2254,6 +2741,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -2269,6 +2760,10 @@
       ]
     },
     "campitelli-celia": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -2277,12 +2772,20 @@
         42,
         30
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        1
+      ],
+      "regulacion_produccion": [
+        5,
         1
       ],
       "Laboral": [
@@ -2299,6 +2802,10 @@
       ]
     },
     "campo-julieta-marisol": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -2307,12 +2814,20 @@
         42,
         29
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        0
+      ],
+      "regulacion_produccion": [
+        5,
         0
       ],
       "Laboral": [
@@ -2329,6 +2844,10 @@
       ]
     },
     "campora-lucia": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -2337,12 +2856,20 @@
         41,
         28
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        0
+      ],
+      "regulacion_produccion": [
+        5,
         0
       ],
       "Laboral": [
@@ -2359,6 +2886,10 @@
       ]
     },
     "capozzi-sergio-eduardo": {
+      "economico": [
+        6,
+        4
+      ],
       "Económico/fiscal": [
         6,
         4
@@ -2367,6 +2898,10 @@
         40,
         38
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -2374,6 +2909,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        4,
+        4
       ],
       "Laboral": [
         1,
@@ -2389,6 +2928,10 @@
       ]
     },
     "carignano-florencia": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -2397,12 +2940,20 @@
         34,
         21
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        0
+      ],
+      "regulacion_produccion": [
+        5,
         0
       ],
       "Laboral": [
@@ -2419,6 +2970,10 @@
       ]
     },
     "carrancio-alejandro": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -2427,6 +2982,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -2434,6 +2993,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -2449,6 +3012,10 @@
       ]
     },
     "casas-sergio-guillermo": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -2457,12 +3024,20 @@
         41,
         30
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        1
+      ],
+      "regulacion_produccion": [
+        4,
         1
       ],
       "Ambiental/regulatorio": [
@@ -2475,6 +3050,10 @@
       ]
     },
     "castagneto-carlos-daniel": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -2483,12 +3062,20 @@
         29,
         16
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        0
+      ],
+      "regulacion_produccion": [
+        5,
         0
       ],
       "Laboral": [
@@ -2505,6 +3092,10 @@
       ]
     },
     "castelnuovo-giselle": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -2513,6 +3104,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -2520,6 +3115,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -2535,6 +3134,10 @@
       ]
     },
     "chica-jorge": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -2543,6 +3146,10 @@
         42,
         31
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
@@ -2550,6 +3157,10 @@
       "Comercio exterior": [
         2,
         1
+      ],
+      "regulacion_produccion": [
+        5,
+        2
       ],
       "Laboral": [
         1,
@@ -2565,6 +3176,10 @@
       ]
     },
     "chiconi-abel": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -2573,6 +3188,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -2580,6 +3199,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -2595,6 +3218,10 @@
       ]
     },
     "cipolini-gerardo": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -2603,6 +3230,10 @@
         40,
         40
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -2610,6 +3241,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -2625,6 +3260,10 @@
       ]
     },
     "cisneros-carlos": {
+      "economico": [
+        5,
+        0
+      ],
       "Económico/fiscal": [
         5,
         0
@@ -2632,6 +3271,10 @@
       "_general_": [
         19,
         10
+      ],
+      "regulacion_produccion": [
+        3,
+        0
       ],
       "Laboral": [
         1,
@@ -2644,9 +3287,17 @@
       "Federal/servicios": [
         1,
         0
+      ],
+      "institucional_derechos": [
+        1,
+        0
       ]
     },
     "coletta-mariela": {
+      "economico": [
+        5,
+        0
+      ],
       "Económico/fiscal": [
         5,
         0
@@ -2655,12 +3306,20 @@
         40,
         32
       ],
+      "institucional_derechos": [
+        1,
+        1
+      ],
       "Social/derechos": [
         1,
         1
       ],
       "Comercio exterior": [
         2,
+        2
+      ],
+      "regulacion_produccion": [
+        5,
         2
       ],
       "Laboral": [
@@ -2673,6 +3332,10 @@
       ]
     },
     "correa-llano-facundo": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -2681,6 +3344,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -2688,6 +3355,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -2703,6 +3374,10 @@
       ]
     },
     "de-andreis-fernando": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -2711,6 +3386,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -2718,6 +3397,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -2733,6 +3416,10 @@
       ]
     },
     "de-la-rosa-maria-graciela": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -2741,12 +3428,20 @@
         30,
         18
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        1
+      ],
+      "regulacion_produccion": [
+        5,
         1
       ],
       "Laboral": [
@@ -2763,6 +3458,10 @@
       ]
     },
     "de-la-sota-natalia": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -2771,12 +3470,20 @@
         35,
         23
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        1
+      ],
+      "regulacion_produccion": [
+        5,
         1
       ],
       "Laboral": [
@@ -2793,6 +3500,10 @@
       ]
     },
     "de-sensi-maria-florencia": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -2801,6 +3512,10 @@
         40,
         40
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -2808,6 +3523,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -2823,6 +3542,10 @@
       ]
     },
     "del-cano-nicolas": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -2831,12 +3554,20 @@
         30,
         7
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        0
+      ],
+      "regulacion_produccion": [
+        5,
         0
       ],
       "Laboral": [
@@ -2853,6 +3584,10 @@
       ]
     },
     "del-pla-romina": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -2861,12 +3596,20 @@
         30,
         7
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        0
+      ],
+      "regulacion_produccion": [
+        5,
         0
       ],
       "Laboral": [
@@ -2883,6 +3626,10 @@
       ]
     },
     "diaz-fernanda": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -2891,12 +3638,20 @@
         41,
         28
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        0
+      ],
+      "regulacion_produccion": [
+        5,
         0
       ],
       "Laboral": [
@@ -2913,6 +3668,10 @@
       ]
     },
     "diez-romina": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -2921,6 +3680,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -2928,6 +3691,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -2943,6 +3710,10 @@
       ]
     },
     "dolce-sergio": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -2951,12 +3722,20 @@
         42,
         30
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        1
+      ],
+      "regulacion_produccion": [
+        5,
         1
       ],
       "Laboral": [
@@ -2973,6 +3752,10 @@
       ]
     },
     "emma-nicolas": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -2981,6 +3764,10 @@
         35,
         35
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -2988,6 +3775,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -3003,6 +3794,10 @@
       ]
     },
     "estevez-gabriela-beatriz": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -3011,12 +3806,20 @@
         41,
         28
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        0
+      ],
+      "regulacion_produccion": [
+        5,
         0
       ],
       "Laboral": [
@@ -3033,6 +3836,10 @@
       ]
     },
     "falcone-eduardo": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -3041,6 +3848,10 @@
         41,
         40
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -3048,6 +3859,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        4
       ],
       "Laboral": [
         1,
@@ -3063,6 +3878,10 @@
       ]
     },
     "fargosi-alejandro": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -3071,6 +3890,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -3078,6 +3901,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -3093,6 +3920,10 @@
       ]
     },
     "farias-pablo": {
+      "economico": [
+        4,
+        1
+      ],
       "Económico/fiscal": [
         4,
         1
@@ -3101,12 +3932,20 @@
         25,
         18
       ],
+      "institucional_derechos": [
+        2,
+        1
+      ],
       "Social/derechos": [
         1,
         1
       ],
       "Comercio exterior": [
         1,
+        1
+      ],
+      "regulacion_produccion": [
+        4,
         1
       ],
       "Laboral": [
@@ -3123,6 +3962,10 @@
       ]
     },
     "felix-emir": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -3131,12 +3974,20 @@
         30,
         18
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        1
+      ],
+      "regulacion_produccion": [
+        5,
         1
       ],
       "Laboral": [
@@ -3153,6 +4004,10 @@
       ]
     },
     "fernandez-elia-marina": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -3161,6 +4016,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -3168,6 +4027,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -3183,6 +4046,10 @@
       ]
     },
     "fernandez-jorge": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -3191,12 +4058,20 @@
         42,
         30
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        1
+      ],
+      "regulacion_produccion": [
+        5,
         1
       ],
       "Laboral": [
@@ -3213,6 +4088,10 @@
       ]
     },
     "fernandez-molero-daiana": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -3220,6 +4099,10 @@
       "_general_": [
         39,
         39
+      ],
+      "regulacion_produccion": [
+        4,
+        4
       ],
       "Laboral": [
         1,
@@ -3233,12 +4116,20 @@
         1,
         1
       ],
+      "institucional_derechos": [
+        1,
+        1
+      ],
       "Comercio exterior": [
         1,
         1
       ]
     },
     "ferran-abelardo": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -3247,12 +4138,20 @@
         42,
         30
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        1
+      ],
+      "regulacion_produccion": [
+        5,
         1
       ],
       "Laboral": [
@@ -3269,6 +4168,10 @@
       ]
     },
     "ferraro-maximiliano": {
+      "economico": [
+        5,
+        1
+      ],
       "Económico/fiscal": [
         5,
         1
@@ -3277,12 +4180,20 @@
         41,
         33
       ],
+      "institucional_derechos": [
+        2,
+        1
+      ],
       "Social/derechos": [
         1,
         1
       ],
       "Comercio exterior": [
         2,
+        2
+      ],
+      "regulacion_produccion": [
+        5,
         2
       ],
       "Laboral": [
@@ -3299,6 +4210,10 @@
       ]
     },
     "ferreyra-alida": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -3307,6 +4222,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -3314,6 +4233,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -3329,6 +4252,10 @@
       ]
     },
     "figliuolo-sergio": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -3337,6 +4264,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -3344,6 +4275,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -3359,6 +4294,10 @@
       ]
     },
     "finocchiaro-alejandro": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -3367,6 +4306,10 @@
         25,
         25
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -3374,6 +4317,10 @@
       "Comercio exterior": [
         1,
         1
+      ],
+      "regulacion_produccion": [
+        3,
+        3
       ],
       "Laboral": [
         1,
@@ -3389,6 +4336,10 @@
       ]
     },
     "flores-maria-gabriela": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -3397,6 +4348,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -3404,6 +4359,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -3419,6 +4378,10 @@
       ]
     },
     "frade-monica": {
+      "economico": [
+        3,
+        0
+      ],
       "Económico/fiscal": [
         3,
         0
@@ -3431,6 +4394,10 @@
         1,
         1
       ],
+      "regulacion_produccion": [
+        4,
+        1
+      ],
       "Laboral": [
         1,
         0
@@ -3441,6 +4408,10 @@
       ]
     },
     "fregonese-alicia": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -3449,6 +4420,10 @@
         41,
         41
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -3456,6 +4431,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -3471,6 +4450,10 @@
       ]
     },
     "freites-andrea": {
+      "economico": [
+        5,
+        0
+      ],
       "Económico/fiscal": [
         5,
         0
@@ -3479,12 +4462,20 @@
         41,
         29
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        0
+      ],
+      "regulacion_produccion": [
+        5,
         0
       ],
       "Laboral": [
@@ -3501,6 +4492,10 @@
       ]
     },
     "frias-maira": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -3509,6 +4504,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -3516,6 +4515,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -3531,6 +4534,10 @@
       ]
     },
     "gallardo-maria-virginia": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -3539,6 +4546,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -3546,6 +4557,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -3561,6 +4576,10 @@
       ]
     },
     "galmarini-sebastian": {
+      "economico": [
+        4,
+        0
+      ],
       "Económico/fiscal": [
         4,
         0
@@ -3569,12 +4588,20 @@
         24,
         14
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        1
+      ],
+      "regulacion_produccion": [
+        5,
         1
       ],
       "Laboral": [
@@ -3591,6 +4618,10 @@
       ]
     },
     "garcia-maria-teresa": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -3599,12 +4630,20 @@
         32,
         18
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        0
+      ],
+      "regulacion_produccion": [
+        5,
         0
       ],
       "Laboral": [
@@ -3621,6 +4660,10 @@
       ]
     },
     "garcia-alvaro": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -3629,6 +4672,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -3636,6 +4683,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -3651,6 +4702,10 @@
       ]
     },
     "garcia-carlos": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -3659,6 +4714,10 @@
         41,
         41
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -3666,6 +4725,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -3681,6 +4744,10 @@
       ]
     },
     "garcia-aresca-ignacio": {
+      "economico": [
+        4,
+        1
+      ],
       "Económico/fiscal": [
         4,
         1
@@ -3689,12 +4756,20 @@
         34,
         29
       ],
+      "institucional_derechos": [
+        2,
+        1
+      ],
       "Social/derechos": [
         1,
         1
       ],
       "Comercio exterior": [
         2,
+        2
+      ],
+      "regulacion_produccion": [
+        3,
         2
       ],
       "Ambiental/regulatorio": [
@@ -3707,6 +4782,10 @@
       ]
     },
     "garrido-jose-luis": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -3715,6 +4794,10 @@
         38,
         38
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -3722,6 +4805,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -3737,6 +4824,10 @@
       ]
     },
     "giampieri-antonela": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -3745,6 +4836,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -3752,6 +4847,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -3767,6 +4866,10 @@
       ]
     },
     "giudici-silvana": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -3775,6 +4878,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -3782,6 +4889,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -3797,6 +4908,10 @@
       ]
     },
     "giuliano-diego-a": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -3805,12 +4920,20 @@
         30,
         18
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        1
+      ],
+      "regulacion_produccion": [
+        5,
         1
       ],
       "Laboral": [
@@ -3827,6 +4950,10 @@
       ]
     },
     "glinski-jose": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -3835,12 +4962,20 @@
         41,
         29
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        1
+      ],
+      "regulacion_produccion": [
+        5,
         1
       ],
       "Laboral": [
@@ -3857,6 +4992,10 @@
       ]
     },
     "goitia-rosario": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -3865,6 +5004,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -3872,6 +5015,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -3887,6 +5034,10 @@
       ]
     },
     "gonzales-alfredo": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -3895,6 +5046,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -3902,6 +5057,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -3917,6 +5076,10 @@
       ]
     },
     "gonzalez-diogenes-ignacio": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -3925,6 +5088,10 @@
         38,
         38
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -3932,6 +5099,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -3947,6 +5118,10 @@
       ]
     },
     "gonzalez-alvaro": {
+      "economico": [
+        5,
+        5
+      ],
       "Económico/fiscal": [
         5,
         5
@@ -3955,6 +5130,10 @@
         29,
         29
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -3962,6 +5141,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -3977,6 +5160,10 @@
       ]
     },
     "gonzalez-estevarena-maria-luisa": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -3985,6 +5172,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -3992,6 +5183,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -4007,6 +5202,10 @@
       ]
     },
     "grabois-juan": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -4015,12 +5214,20 @@
         41,
         27
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        0
+      ],
+      "regulacion_produccion": [
+        5,
         0
       ],
       "Laboral": [
@@ -4037,6 +5244,10 @@
       ]
     },
     "gruber-maura": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -4045,6 +5256,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -4052,6 +5267,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -4067,6 +5286,10 @@
       ]
     },
     "gutierrez-carlos": {
+      "economico": [
+        6,
+        2
+      ],
       "Económico/fiscal": [
         6,
         2
@@ -4075,6 +5298,10 @@
         41,
         34
       ],
+      "institucional_derechos": [
+        2,
+        1
+      ],
       "Social/derechos": [
         1,
         1
@@ -4082,6 +5309,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        3
       ],
       "Laboral": [
         1,
@@ -4097,6 +5328,10 @@
       ]
     },
     "gutierrez-ramiro": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -4105,12 +5340,20 @@
         29,
         19
       ],
+      "institucional_derechos": [
+        1,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        1
+      ],
+      "regulacion_produccion": [
+        4,
         1
       ],
       "Laboral": [
@@ -4123,6 +5366,10 @@
       ]
     },
     "guzman-jairo": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -4131,6 +5378,10 @@
         41,
         41
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -4138,6 +5389,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -4153,6 +5408,10 @@
       ]
     },
     "hadad-raul": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -4161,12 +5420,20 @@
         42,
         29
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        0
+      ],
+      "regulacion_produccion": [
+        5,
         0
       ],
       "Laboral": [
@@ -4183,6 +5450,10 @@
       ]
     },
     "hagman-itai": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -4191,12 +5462,20 @@
         41,
         27
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        0
+      ],
+      "regulacion_produccion": [
+        5,
         0
       ],
       "Laboral": [
@@ -4213,6 +5492,10 @@
       ]
     },
     "hartfield-diego": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -4221,6 +5504,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -4228,6 +5515,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -4243,6 +5534,10 @@
       ]
     },
     "herrera-ahuad-oscar-a": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -4251,6 +5546,10 @@
         38,
         38
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -4258,6 +5557,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -4273,6 +5576,10 @@
       ]
     },
     "holzman-patricia": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -4281,6 +5588,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -4288,6 +5599,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -4303,6 +5618,10 @@
       ]
     },
     "huesen-gerardo": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -4311,6 +5630,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -4318,6 +5641,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -4333,6 +5660,10 @@
       ]
     },
     "humenuk-gladys": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -4341,6 +5672,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -4348,6 +5683,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -4363,6 +5702,10 @@
       ]
     },
     "ianni-ana-maria": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -4371,12 +5714,20 @@
         42,
         29
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        0
+      ],
+      "regulacion_produccion": [
+        5,
         0
       ],
       "Laboral": [
@@ -4393,6 +5744,10 @@
       ]
     },
     "ibanez-maria-cecilia": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -4401,6 +5756,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -4408,6 +5767,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -4423,6 +5786,10 @@
       ]
     },
     "jaime-quiroga-carlos-gustavo": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -4431,6 +5798,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -4438,6 +5809,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -4453,6 +5828,10 @@
       ]
     },
     "juliano-pablo": {
+      "economico": [
+        5,
+        0
+      ],
       "Económico/fiscal": [
         5,
         0
@@ -4461,12 +5840,20 @@
         23,
         15
       ],
+      "institucional_derechos": [
+        2,
+        1
+      ],
       "Social/derechos": [
         1,
         1
       ],
       "Comercio exterior": [
         2,
+        2
+      ],
+      "regulacion_produccion": [
+        4,
         2
       ],
       "Laboral": [
@@ -4483,6 +5870,10 @@
       ]
     },
     "kirchner-maximo-carlos": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -4491,12 +5882,20 @@
         22,
         11
       ],
+      "institucional_derechos": [
+        1,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        0
+      ],
+      "regulacion_produccion": [
+        4,
         0
       ],
       "Laboral": [
@@ -4509,6 +5908,10 @@
       ]
     },
     "lanesan-sancho-moira": {
+      "economico": [
+        5,
+        0
+      ],
       "Económico/fiscal": [
         5,
         0
@@ -4517,12 +5920,20 @@
         26,
         16
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         1,
+        1
+      ],
+      "regulacion_produccion": [
+        4,
         1
       ],
       "Laboral": [
@@ -4539,6 +5950,10 @@
       ]
     },
     "laumann-andres-ariel": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -4547,6 +5962,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -4554,6 +5973,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -4569,6 +5992,10 @@
       ]
     },
     "leiva-aldo": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -4577,12 +6004,20 @@
         41,
         29
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        1
+      ],
+      "regulacion_produccion": [
+        5,
         1
       ],
       "Laboral": [
@@ -4599,6 +6034,10 @@
       ]
     },
     "lemoine-lilia": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -4607,6 +6046,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -4614,6 +6057,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -4629,6 +6076,10 @@
       ]
     },
     "leone-andres": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -4637,6 +6088,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -4644,6 +6099,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -4659,6 +6118,10 @@
       ]
     },
     "llano-mercedes": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -4667,6 +6130,10 @@
         38,
         38
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -4674,6 +6141,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -4689,6 +6160,10 @@
       ]
     },
     "lluch-enrique": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -4697,6 +6172,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -4704,6 +6183,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -4719,6 +6202,10 @@
       ]
     },
     "longo-johanna-sabrina": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -4727,6 +6214,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -4734,6 +6225,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -4749,6 +6244,10 @@
       ]
     },
     "lopez-jimena": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -4757,12 +6256,20 @@
         41,
         29
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        1
+      ],
+      "regulacion_produccion": [
+        5,
         1
       ],
       "Laboral": [
@@ -4779,6 +6286,10 @@
       ]
     },
     "lopez-pasquali-cecilia": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -4787,12 +6298,20 @@
         41,
         29
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        1
+      ],
+      "regulacion_produccion": [
+        5,
         1
       ],
       "Laboral": [
@@ -4809,6 +6328,10 @@
       ]
     },
     "lousteau-martin": {
+      "economico": [
+        5,
+        0
+      ],
       "Económico/fiscal": [
         5,
         0
@@ -4817,12 +6340,20 @@
         21,
         13
       ],
+      "institucional_derechos": [
+        1,
+        1
+      ],
       "Social/derechos": [
         1,
         1
       ],
       "Comercio exterior": [
         1,
+        1
+      ],
+      "regulacion_produccion": [
+        4,
         1
       ],
       "Laboral": [
@@ -4835,6 +6366,10 @@
       ]
     },
     "luque-juan-pablo": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -4843,12 +6378,20 @@
         30,
         18
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        1
+      ],
+      "regulacion_produccion": [
+        5,
         1
       ],
       "Laboral": [
@@ -4865,6 +6408,10 @@
       ]
     },
     "macyszyn-lorena": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -4873,6 +6420,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -4880,6 +6431,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -4895,6 +6450,10 @@
       ]
     },
     "mango-marcelo": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -4903,12 +6462,20 @@
         42,
         29
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        0
+      ],
+      "regulacion_produccion": [
+        5,
         0
       ],
       "Laboral": [
@@ -4925,6 +6492,10 @@
       ]
     },
     "manrique-mario": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -4933,8 +6504,16 @@
         25,
         14
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
+        0
+      ],
+      "regulacion_produccion": [
+        3,
         0
       ],
       "Laboral": [
@@ -4951,6 +6530,10 @@
       ]
     },
     "marclay-marianela": {
+      "economico": [
+        5,
+        0
+      ],
       "Económico/fiscal": [
         5,
         0
@@ -4959,12 +6542,20 @@
         18,
         7
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        1
+      ],
+      "regulacion_produccion": [
+        5,
         1
       ],
       "Laboral": [
@@ -4981,6 +6572,10 @@
       ]
     },
     "marin-varinia-lis": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -4989,12 +6584,20 @@
         42,
         30
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        1
+      ],
+      "regulacion_produccion": [
+        5,
         1
       ],
       "Laboral": [
@@ -5011,6 +6614,10 @@
       ]
     },
     "marino-juan": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -5019,12 +6626,20 @@
         42,
         28
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        0
+      ],
+      "regulacion_produccion": [
+        5,
         0
       ],
       "Laboral": [
@@ -5041,6 +6656,10 @@
       ]
     },
     "martinez-alvaro": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -5049,6 +6668,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -5056,6 +6679,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -5071,6 +6698,10 @@
       ]
     },
     "martinez-german-pedro": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -5079,12 +6710,20 @@
         42,
         30
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        1
+      ],
+      "regulacion_produccion": [
+        5,
         1
       ],
       "Laboral": [
@@ -5101,6 +6740,10 @@
       ]
     },
     "massot-nicolas": {
+      "economico": [
+        4,
+        0
+      ],
       "Económico/fiscal": [
         4,
         0
@@ -5113,6 +6756,10 @@
         2,
         2
       ],
+      "regulacion_produccion": [
+        5,
+        3
+      ],
       "Laboral": [
         1,
         0
@@ -5124,9 +6771,17 @@
       "Federal/servicios": [
         1,
         1
+      ],
+      "institucional_derechos": [
+        1,
+        1
       ]
     },
     "maureira-karina": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -5135,6 +6790,10 @@
         42,
         41
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -5142,6 +6801,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        4
       ],
       "Laboral": [
         1,
@@ -5157,6 +6820,10 @@
       ]
     },
     "mayoraz-nicolas": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -5165,6 +6832,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -5172,6 +6843,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -5187,6 +6862,10 @@
       ]
     },
     "medina-gladys": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -5195,6 +6874,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -5202,6 +6885,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -5217,6 +6904,10 @@
       ]
     },
     "metral-asensio-julieta": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -5225,6 +6916,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -5232,6 +6927,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -5247,6 +6946,10 @@
       ]
     },
     "michel-guillermo": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -5255,12 +6958,20 @@
         26,
         16
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         1,
+        1
+      ],
+      "regulacion_produccion": [
+        3,
         1
       ],
       "Laboral": [
@@ -5277,6 +6988,10 @@
       ]
     },
     "mino-fernanda": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -5285,12 +7000,20 @@
         41,
         27
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        0
+      ],
+      "regulacion_produccion": [
+        5,
         0
       ],
       "Laboral": [
@@ -5307,6 +7030,10 @@
       ]
     },
     "molina-juan-carlos": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -5315,12 +7042,20 @@
         41,
         28
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        0
+      ],
+      "regulacion_produccion": [
+        5,
         0
       ],
       "Laboral": [
@@ -5337,6 +7072,10 @@
       ]
     },
     "molinuevo-soledad": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -5345,6 +7084,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -5352,6 +7095,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -5367,6 +7114,10 @@
       ]
     },
     "molle-matias": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -5375,12 +7126,20 @@
         29,
         16
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        0
+      ],
+      "regulacion_produccion": [
+        5,
         0
       ],
       "Laboral": [
@@ -5397,6 +7156,10 @@
       ]
     },
     "mondaca-soledad": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -5405,6 +7168,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -5412,6 +7179,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -5427,6 +7198,10 @@
       ]
     },
     "monguillot-fernando": {
+      "economico": [
+        6,
+        3
+      ],
       "Económico/fiscal": [
         6,
         3
@@ -5435,6 +7210,10 @@
         41,
         35
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
@@ -5442,6 +7221,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        4
       ],
       "Laboral": [
         1,
@@ -5457,6 +7240,10 @@
       ]
     },
     "montenegro-guillermo-tristan": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -5465,6 +7252,10 @@
         40,
         40
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -5472,6 +7263,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -5487,6 +7282,10 @@
       ]
     },
     "montenegro-juan-pablo": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -5495,6 +7294,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -5502,6 +7305,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -5517,6 +7324,10 @@
       ]
     },
     "monzon-roxana": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -5524,6 +7335,10 @@
       "_general_": [
         40,
         29
+      ],
+      "regulacion_produccion": [
+        4,
+        0
       ],
       "Laboral": [
         1,
@@ -5537,12 +7352,20 @@
         1,
         0
       ],
+      "institucional_derechos": [
+        1,
+        0
+      ],
       "Comercio exterior": [
         1,
         0
       ]
     },
     "morchio-francisco": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -5551,6 +7374,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -5558,6 +7385,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -5573,6 +7404,10 @@
       ]
     },
     "moreau-cecilia": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -5581,12 +7416,20 @@
         42,
         30
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        1
+      ],
+      "regulacion_produccion": [
+        5,
         1
       ],
       "Laboral": [
@@ -5603,6 +7446,10 @@
       ]
     },
     "moreno-ovalle-julio": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -5611,6 +7458,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -5618,6 +7469,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -5633,6 +7488,10 @@
       ]
     },
     "moyano-hugo-antonio": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -5641,12 +7500,20 @@
         42,
         29
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        0
+      ],
+      "regulacion_produccion": [
+        5,
         0
       ],
       "Laboral": [
@@ -5663,6 +7530,10 @@
       ]
     },
     "mukdise-jorge": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -5671,12 +7542,20 @@
         41,
         29
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        1
+      ],
+      "regulacion_produccion": [
+        5,
         1
       ],
       "Laboral": [
@@ -5693,6 +7572,10 @@
       ]
     },
     "munoz-gabriela-luciana": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -5701,6 +7584,10 @@
         37,
         37
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -5708,6 +7595,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -5723,6 +7614,10 @@
       ]
     },
     "neder-estela-mary": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -5731,12 +7626,20 @@
         42,
         30
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        1
+      ],
+      "regulacion_produccion": [
+        5,
         1
       ],
       "Laboral": [
@@ -5753,6 +7656,10 @@
       ]
     },
     "nieri-lisandro": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -5761,6 +7668,10 @@
         29,
         29
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -5768,6 +7679,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -5783,6 +7698,10 @@
       ]
     },
     "niveyro-miriam": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -5791,6 +7710,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -5798,6 +7721,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -5813,6 +7740,10 @@
       ]
     },
     "noblega-sebastian": {
+      "economico": [
+        6,
+        3
+      ],
       "Económico/fiscal": [
         6,
         3
@@ -5821,6 +7752,10 @@
         42,
         36
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
@@ -5828,6 +7763,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        4
       ],
       "Laboral": [
         1,
@@ -5843,6 +7782,10 @@
       ]
     },
     "nunez-jose": {
+      "economico": [
+        6,
+        3
+      ],
       "Económico/fiscal": [
         6,
         3
@@ -5851,6 +7794,10 @@
         24,
         21
       ],
+      "institucional_derechos": [
+        1,
+        1
+      ],
       "Social/derechos": [
         1,
         1
@@ -5858,6 +7805,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -5869,6 +7820,10 @@
       ]
     },
     "ojeda-joaquin": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -5877,6 +7832,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -5884,6 +7843,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -5899,6 +7862,10 @@
       ]
     },
     "olmos-kelly": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -5907,12 +7874,20 @@
         42,
         30
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        1
+      ],
+      "regulacion_produccion": [
+        5,
         1
       ],
       "Laboral": [
@@ -5929,6 +7904,10 @@
       ]
     },
     "osuna-blanca-ines": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -5937,12 +7916,20 @@
         41,
         27
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        0
+      ],
+      "regulacion_produccion": [
+        5,
         0
       ],
       "Laboral": [
@@ -5959,6 +7946,10 @@
       ]
     },
     "outes-pablo": {
+      "economico": [
+        5,
+        5
+      ],
       "Económico/fiscal": [
         5,
         5
@@ -5967,6 +7958,10 @@
         40,
         40
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -5974,6 +7969,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -5989,12 +7988,20 @@
       ]
     },
     "pagano-marcela-marina": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
       ],
       "_general_": [
         8,
+        0
+      ],
+      "regulacion_produccion": [
+        2,
         0
       ],
       "Laboral": [
@@ -6007,6 +8014,10 @@
       ]
     },
     "palazzo-sergio-omar": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -6015,12 +8026,20 @@
         42,
         29
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        0
+      ],
+      "regulacion_produccion": [
+        5,
         0
       ],
       "Laboral": [
@@ -6037,6 +8056,10 @@
       ]
     },
     "palladino-claudia-maria": {
+      "economico": [
+        4,
+        0
+      ],
       "Económico/fiscal": [
         4,
         0
@@ -6045,12 +8068,20 @@
         36,
         26
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        1
+      ],
+      "regulacion_produccion": [
+        5,
         1
       ],
       "Laboral": [
@@ -6067,6 +8098,10 @@
       ]
     },
     "pareja-sebastian": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -6075,6 +8110,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -6082,6 +8121,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -6097,6 +8140,10 @@
       ]
     },
     "parola-maria-graciela": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -6105,12 +8152,20 @@
         29,
         17
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        1
+      ],
+      "regulacion_produccion": [
+        5,
         1
       ],
       "Laboral": [
@@ -6127,6 +8182,10 @@
       ]
     },
     "patino-brizuela-marcos": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -6135,6 +8194,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -6142,6 +8205,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -6157,6 +8224,10 @@
       ]
     },
     "pauli-santiago": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -6165,6 +8236,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -6172,6 +8247,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -6187,6 +8266,10 @@
       ]
     },
     "paulon-esteban": {
+      "economico": [
+        4,
+        0
+      ],
       "Económico/fiscal": [
         4,
         0
@@ -6195,12 +8278,20 @@
         35,
         27
       ],
+      "institucional_derechos": [
+        2,
+        1
+      ],
       "Social/derechos": [
         1,
         1
       ],
       "Comercio exterior": [
         1,
+        1
+      ],
+      "regulacion_produccion": [
+        4,
         1
       ],
       "Laboral": [
@@ -6217,6 +8308,10 @@
       ]
     },
     "pedrali-gabriela": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -6225,12 +8320,20 @@
         30,
         18
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        1
+      ],
+      "regulacion_produccion": [
+        5,
         1
       ],
       "Laboral": [
@@ -6247,6 +8350,10 @@
       ]
     },
     "pellegrini-agustin": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -6255,6 +8362,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -6262,6 +8373,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -6277,6 +8392,10 @@
       ]
     },
     "pelli-federico-agustin": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -6285,6 +8404,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -6292,6 +8415,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -6307,6 +8434,10 @@
       ]
     },
     "peluc-jose": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -6315,6 +8446,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -6322,6 +8457,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -6337,6 +8476,10 @@
       ]
     },
     "penacca-paula-andrea": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -6345,12 +8488,20 @@
         41,
         28
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        0
+      ],
+      "regulacion_produccion": [
+        5,
         0
       ],
       "Laboral": [
@@ -6367,6 +8518,10 @@
       ]
     },
     "petri-luis": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -6375,6 +8530,10 @@
         39,
         39
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -6382,6 +8541,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -6397,6 +8560,10 @@
       ]
     },
     "petrovich-maria-lorena": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -6405,6 +8572,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -6412,6 +8583,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -6427,6 +8602,10 @@
       ]
     },
     "picat-luis-albino": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -6435,6 +8614,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -6442,6 +8625,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -6457,6 +8644,10 @@
       ]
     },
     "pichetto-miguel-angel": {
+      "economico": [
+        4,
+        0
+      ],
       "Económico/fiscal": [
         4,
         0
@@ -6465,12 +8656,20 @@
         12,
         6
       ],
+      "institucional_derechos": [
+        1,
+        1
+      ],
       "Social/derechos": [
         1,
         1
       ],
       "Comercio exterior": [
         1,
+        1
+      ],
+      "regulacion_produccion": [
+        3,
         1
       ],
       "Laboral": [
@@ -6483,6 +8682,10 @@
       ]
     },
     "picon-martinez-nancy-viviana": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -6491,6 +8694,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -6498,6 +8705,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -6513,6 +8724,10 @@
       ]
     },
     "pietragalla-corti-horacio": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -6521,12 +8736,20 @@
         41,
         27
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        0
+      ],
+      "regulacion_produccion": [
+        5,
         0
       ],
       "Laboral": [
@@ -6543,6 +8766,10 @@
       ]
     },
     "pitrola-nestor": {
+      "economico": [
+        4,
+        0
+      ],
       "Económico/fiscal": [
         4,
         0
@@ -6551,12 +8778,20 @@
         24,
         5
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         1,
+        0
+      ],
+      "regulacion_produccion": [
+        4,
         0
       ],
       "Laboral": [
@@ -6573,6 +8808,10 @@
       ]
     },
     "pokoik-lorena": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -6581,12 +8820,20 @@
         37,
         24
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        0
+      ],
+      "regulacion_produccion": [
+        5,
         0
       ],
       "Laboral": [
@@ -6603,6 +8850,10 @@
       ]
     },
     "ponce-maria-celeste": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -6611,6 +8862,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -6618,6 +8873,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -6633,6 +8892,10 @@
       ]
     },
     "potenza-luciana": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -6641,12 +8904,20 @@
         42,
         29
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        0
+      ],
+      "regulacion_produccion": [
+        5,
         0
       ],
       "Laboral": [
@@ -6663,6 +8934,10 @@
       ]
     },
     "propato-agustina-lucrecia": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -6671,12 +8946,20 @@
         27,
         15
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         1,
+        0
+      ],
+      "regulacion_produccion": [
+        4,
         0
       ],
       "Laboral": [
@@ -6693,6 +8976,10 @@
       ]
     },
     "quintar-manuel": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -6701,6 +8988,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -6708,6 +8999,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -6723,6 +9018,10 @@
       ]
     },
     "rauschenberger-ariel": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -6731,12 +9030,20 @@
         42,
         30
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        1
+      ],
+      "regulacion_produccion": [
+        5,
         1
       ],
       "Laboral": [
@@ -6753,6 +9060,10 @@
       ]
     },
     "ravera-valentina": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -6761,6 +9072,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -6768,6 +9083,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -6783,6 +9102,10 @@
       ]
     },
     "ravier-adrian": {
+      "economico": [
+        2,
+        2
+      ],
       "Económico/fiscal": [
         2,
         2
@@ -6791,6 +9114,10 @@
         19,
         19
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -6798,6 +9125,10 @@
       "Comercio exterior": [
         1,
         1
+      ],
+      "regulacion_produccion": [
+        4,
+        4
       ],
       "Laboral": [
         1,
@@ -6813,6 +9144,10 @@
       ]
     },
     "razzini-veronica": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -6821,6 +9156,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -6828,6 +9167,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -6843,6 +9186,10 @@
       ]
     },
     "reichardt-karen": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -6851,6 +9198,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -6858,6 +9209,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -6873,6 +9228,10 @@
       ]
     },
     "riesco-gaston": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -6881,6 +9240,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -6888,6 +9251,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -6903,6 +9270,10 @@
       ]
     },
     "ritondo-cristian": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -6911,6 +9282,10 @@
         38,
         38
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -6918,6 +9293,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -6933,6 +9312,10 @@
       ]
     },
     "rizzotti-jorge": {
+      "economico": [
+        5,
+        2
+      ],
       "Económico/fiscal": [
         5,
         2
@@ -6941,9 +9324,17 @@
         12,
         9
       ],
+      "institucional_derechos": [
+        1,
+        1
+      ],
       "Social/derechos": [
         1,
         1
+      ],
+      "regulacion_produccion": [
+        2,
+        2
       ],
       "Laboral": [
         1,
@@ -6955,6 +9346,10 @@
       ]
     },
     "roberto-santiago-luis": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -6963,12 +9358,20 @@
         42,
         29
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        0
+      ],
+      "regulacion_produccion": [
+        5,
         0
       ],
       "Laboral": [
@@ -6985,6 +9388,10 @@
       ]
     },
     "roca-gonzalo": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -6993,6 +9400,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -7000,6 +9411,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -7015,6 +9430,10 @@
       ]
     },
     "rodriguez-miguel": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -7023,6 +9442,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -7030,6 +9453,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -7045,6 +9472,10 @@
       ]
     },
     "rodriguez-machado-laura-elena": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -7053,6 +9484,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -7060,6 +9495,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -7075,6 +9514,10 @@
       ]
     },
     "rossi-agustin-oscar": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -7083,12 +9526,20 @@
         42,
         30
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        1
+      ],
+      "regulacion_produccion": [
+        5,
         1
       ],
       "Laboral": [
@@ -7105,6 +9556,10 @@
       ]
     },
     "ruiz-yamila": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -7113,6 +9568,10 @@
         38,
         38
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -7120,6 +9579,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -7135,6 +9598,10 @@
       ]
     },
     "salzmann-marina-dorotea": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -7143,12 +9610,20 @@
         30,
         18
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        1
+      ],
+      "regulacion_produccion": [
+        5,
         1
       ],
       "Laboral": [
@@ -7165,6 +9640,10 @@
       ]
     },
     "sanchez-wrba-javier": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -7173,6 +9652,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -7180,6 +9663,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -7195,6 +9682,10 @@
       ]
     },
     "sand-nancy": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -7203,12 +9694,20 @@
         42,
         29
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        0
+      ],
+      "regulacion_produccion": [
+        5,
         0
       ],
       "Laboral": [
@@ -7225,6 +9724,10 @@
       ]
     },
     "santillan-juarez-brahim-juliana": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -7233,6 +9736,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -7240,6 +9747,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -7255,6 +9766,10 @@
       ]
     },
     "santurio-santiago": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -7263,6 +9778,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -7270,6 +9789,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -7285,6 +9808,10 @@
       ]
     },
     "scaglia-gisela": {
+      "economico": [
+        4,
+        2
+      ],
       "Económico/fiscal": [
         4,
         2
@@ -7293,6 +9820,10 @@
         34,
         31
       ],
+      "institucional_derechos": [
+        2,
+        1
+      ],
       "Social/derechos": [
         1,
         1
@@ -7300,6 +9831,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -7315,6 +9850,10 @@
       ]
     },
     "schneider-dario": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -7323,6 +9862,10 @@
         40,
         40
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -7330,6 +9873,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -7345,6 +9892,10 @@
       ]
     },
     "selva-sabrina": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -7353,12 +9904,20 @@
         42,
         30
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        1
+      ],
+      "regulacion_produccion": [
+        5,
         1
       ],
       "Laboral": [
@@ -7375,6 +9934,10 @@
       ]
     },
     "serquis-adriana-cristina": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -7383,12 +9946,20 @@
         41,
         27
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        0
+      ],
+      "regulacion_produccion": [
+        5,
         0
       ],
       "Laboral": [
@@ -7405,6 +9976,10 @@
       ]
     },
     "siley-vanesa-raquel": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -7413,12 +9988,20 @@
         40,
         27
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        0
+      ],
+      "regulacion_produccion": [
+        5,
         0
       ],
       "Laboral": [
@@ -7435,6 +10018,10 @@
       ]
     },
     "snopek-guillermo-eugenio-mario": {
+      "economico": [
+        5,
+        0
+      ],
       "Económico/fiscal": [
         5,
         0
@@ -7443,12 +10030,20 @@
         16,
         7
       ],
+      "institucional_derechos": [
+        1,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        1
+      ],
+      "regulacion_produccion": [
+        4,
         1
       ],
       "Laboral": [
@@ -7461,6 +10056,10 @@
       ]
     },
     "soldano-laura": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -7469,6 +10068,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -7476,6 +10079,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -7491,6 +10098,10 @@
       ]
     },
     "strada-julia": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -7499,12 +10110,20 @@
         42,
         29
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        0
+      ],
+      "regulacion_produccion": [
+        5,
         0
       ],
       "Laboral": [
@@ -7521,6 +10140,10 @@
       ]
     },
     "taiana-jorge-enrique": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -7529,12 +10152,20 @@
         42,
         28
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        0
+      ],
+      "regulacion_produccion": [
+        5,
         0
       ],
       "Laboral": [
@@ -7551,6 +10182,10 @@
       ]
     },
     "tepp-caren": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -7559,12 +10194,20 @@
         42,
         30
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        1
+      ],
+      "regulacion_produccion": [
+        5,
         1
       ],
       "Laboral": [
@@ -7581,6 +10224,10 @@
       ]
     },
     "todero-pablo": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -7589,12 +10236,20 @@
         34,
         22
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        1
+      ],
+      "regulacion_produccion": [
+        5,
         1
       ],
       "Laboral": [
@@ -7611,6 +10266,10 @@
       ]
     },
     "tolosa-paz-victoria": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -7619,12 +10278,20 @@
         29,
         19
       ],
+      "institucional_derechos": [
+        1,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        1
+      ],
+      "regulacion_produccion": [
+        4,
         1
       ],
       "Laboral": [
@@ -7637,6 +10304,10 @@
       ]
     },
     "tomassoni-yamile": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -7645,6 +10316,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -7652,6 +10327,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -7667,6 +10346,10 @@
       ]
     },
     "torres-ruben-dario": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -7675,6 +10358,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -7682,6 +10369,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -7697,6 +10388,10 @@
       ]
     },
     "torres-alejandra": {
+      "economico": [
+        4,
+        1
+      ],
       "Económico/fiscal": [
         4,
         1
@@ -7705,6 +10400,10 @@
         35,
         31
       ],
+      "institucional_derechos": [
+        2,
+        1
+      ],
       "Social/derechos": [
         1,
         1
@@ -7712,6 +10411,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        4,
+        4
       ],
       "Ambiental/regulatorio": [
         2,
@@ -7723,6 +10426,10 @@
       ]
     },
     "tortoriello-anibal": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -7731,6 +10438,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -7738,6 +10449,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -7753,6 +10468,10 @@
       ]
     },
     "tournier-jose-federico": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -7761,6 +10480,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -7768,6 +10491,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -7783,6 +10510,10 @@
       ]
     },
     "treffinger-cesar": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -7791,6 +10522,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -7798,6 +10533,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -7813,6 +10552,10 @@
       ]
     },
     "trotta-nicolas-alfredo": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -7821,12 +10564,20 @@
         42,
         29
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        0
+      ],
+      "regulacion_produccion": [
+        5,
         0
       ],
       "Laboral": [
@@ -7843,6 +10594,10 @@
       ]
     },
     "urien-hernan": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -7851,6 +10606,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -7858,6 +10617,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -7873,6 +10636,10 @@
       ]
     },
     "valdes-eduardo-felix": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -7881,12 +10648,20 @@
         31,
         18
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        0
+      ],
+      "regulacion_produccion": [
+        5,
         0
       ],
       "Laboral": [
@@ -7903,6 +10678,10 @@
       ]
     },
     "vancsik-daniel": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -7911,6 +10690,10 @@
         38,
         38
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -7918,6 +10701,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -7933,6 +10720,10 @@
       ]
     },
     "vasquez-patricia": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -7941,6 +10732,10 @@
         40,
         40
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -7948,6 +10743,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -7963,6 +10762,10 @@
       ]
     },
     "vega-yolanda": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -7971,6 +10774,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -7978,6 +10785,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -7993,6 +10804,10 @@
       ]
     },
     "velazquez-m-elena": {
+      "economico": [
+        3,
+        0
+      ],
       "Económico/fiscal": [
         3,
         0
@@ -8001,8 +10816,16 @@
         20,
         11
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
+        0
+      ],
+      "regulacion_produccion": [
+        4,
         0
       ],
       "Laboral": [
@@ -8023,6 +10846,10 @@
       ]
     },
     "vera-andrea-fernanda": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -8031,6 +10858,10 @@
         41,
         41
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -8038,6 +10869,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -8053,6 +10888,10 @@
       ]
     },
     "verasay-pamela-fernanda": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -8061,6 +10900,10 @@
         39,
         39
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -8068,6 +10911,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -8083,6 +10930,10 @@
       ]
     },
     "villaverde-lorena": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -8091,6 +10942,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -8098,6 +10953,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -8113,6 +10972,10 @@
       ]
     },
     "visconti-gino": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -8121,6 +10984,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -8128,6 +10995,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -8143,6 +11014,10 @@
       ]
     },
     "volnovich-luana": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -8151,12 +11026,20 @@
         33,
         20
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        0
+      ],
+      "regulacion_produccion": [
+        5,
         0
       ],
       "Laboral": [
@@ -8173,6 +11056,10 @@
       ]
     },
     "yasky-hugo": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -8181,12 +11068,20 @@
         29,
         18
       ],
+      "institucional_derechos": [
+        1,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        0
+      ],
+      "regulacion_produccion": [
+        4,
         0
       ],
       "Laboral": [
@@ -8199,6 +11094,10 @@
       ]
     },
     "yedlin-pablo-raul": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -8207,12 +11106,20 @@
         41,
         30
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        1
+      ],
+      "regulacion_produccion": [
+        4,
         1
       ],
       "Laboral": [
@@ -8229,6 +11136,10 @@
       ]
     },
     "yeza-martin": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -8237,6 +11148,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -8244,6 +11159,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -8259,6 +11178,10 @@
       ]
     },
     "zago-oscar": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -8267,6 +11190,10 @@
         37,
         36
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -8274,6 +11201,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        4
       ],
       "Laboral": [
         1,
@@ -8289,6 +11220,10 @@
       ]
     },
     "zapata-carlos-raul": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -8297,6 +11232,10 @@
         42,
         42
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -8304,6 +11243,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -8319,6 +11262,10 @@
       ]
     },
     "zaracho-natalia": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -8327,12 +11274,20 @@
         29,
         15
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        0
+      ],
+      "regulacion_produccion": [
+        5,
         0
       ],
       "Laboral": [
@@ -8349,6 +11304,10 @@
       ]
     },
     "zigaran-maria-ines": {
+      "economico": [
+        5,
+        2
+      ],
       "Económico/fiscal": [
         5,
         2
@@ -8359,6 +11318,10 @@
       ],
       "Comercio exterior": [
         2,
+        2
+      ],
+      "regulacion_produccion": [
+        5,
         2
       ],
       "Laboral": [
@@ -8372,9 +11335,17 @@
       "Federal/servicios": [
         1,
         1
+      ],
+      "institucional_derechos": [
+        1,
+        1
       ]
     },
     "zulli-christian-alejandro": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -8383,12 +11354,20 @@
         41,
         28
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        0
+      ],
+      "regulacion_produccion": [
+        5,
         0
       ],
       "Laboral": [
@@ -8405,6 +11384,10 @@
       ]
     },
     "tailhade-rodolfo": {
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
@@ -8417,6 +11400,10 @@
         2,
         0
       ],
+      "regulacion_produccion": [
+        5,
+        0
+      ],
       "Laboral": [
         1,
         0
@@ -8429,12 +11416,20 @@
         1,
         0
       ],
+      "economico": [
+        4,
+        1
+      ],
       "Económico/fiscal": [
         4,
         1
       ]
     },
     "daives-ricardo": {
+      "institucional_derechos": [
+        1,
+        0
+      ],
       "Social/derechos": [
         1,
         0
@@ -8447,6 +11442,10 @@
         2,
         1
       ],
+      "regulacion_produccion": [
+        5,
+        1
+      ],
       "Laboral": [
         1,
         0
@@ -8455,12 +11454,20 @@
         2,
         0
       ],
+      "economico": [
+        4,
+        0
+      ],
       "Económico/fiscal": [
         4,
         0
       ]
     },
     "noguera-javier": {
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -8473,6 +11480,10 @@
         2,
         2
       ],
+      "regulacion_produccion": [
+        4,
+        4
+      ],
       "Ambiental/regulatorio": [
         2,
         2
@@ -8481,12 +11492,20 @@
         1,
         1
       ],
+      "economico": [
+        4,
+        4
+      ],
       "Económico/fiscal": [
         4,
         4
       ]
     },
     "schiaretti-juan": {
+      "institucional_derechos": [
+        1,
+        1
+      ],
       "Social/derechos": [
         1,
         1
@@ -8499,9 +11518,17 @@
         2,
         2
       ],
+      "regulacion_produccion": [
+        3,
+        2
+      ],
       "Ambiental/regulatorio": [
         1,
         0
+      ],
+      "economico": [
+        4,
+        2
       ],
       "Económico/fiscal": [
         4,
@@ -8509,6 +11536,10 @@
       ]
     },
     "tita-paulo-agustin": {
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
@@ -8521,6 +11552,10 @@
         2,
         1
       ],
+      "regulacion_produccion": [
+        4,
+        1
+      ],
       "Ambiental/regulatorio": [
         2,
         0
@@ -8529,12 +11564,20 @@
         1,
         0
       ],
+      "economico": [
+        4,
+        0
+      ],
       "Económico/fiscal": [
         4,
         0
       ]
     },
     "aveiro-martin": {
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
@@ -8547,6 +11590,10 @@
         2,
         1
       ],
+      "regulacion_produccion": [
+        5,
+        1
+      ],
       "Laboral": [
         1,
         0
@@ -8559,12 +11606,20 @@
         1,
         0
       ],
+      "economico": [
+        4,
+        0
+      ],
       "Económico/fiscal": [
         4,
         0
       ]
     },
     "gomez-jose": {
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
@@ -8577,6 +11632,10 @@
         1,
         1
       ],
+      "regulacion_produccion": [
+        4,
+        1
+      ],
       "Laboral": [
         1,
         0
@@ -8589,12 +11648,20 @@
         1,
         0
       ],
+      "economico": [
+        1,
+        0
+      ],
       "Económico/fiscal": [
         1,
         0
       ]
     },
     "gonzalez-gerardo-gustavo": {
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -8607,6 +11674,10 @@
         2,
         2
       ],
+      "regulacion_produccion": [
+        4,
+        4
+      ],
       "Laboral": [
         1,
         1
@@ -8619,6 +11690,10 @@
         1,
         1
       ],
+      "economico": [
+        4,
+        4
+      ],
       "Económico/fiscal": [
         4,
         4
@@ -8629,6 +11704,10 @@
         23,
         23
       ],
+      "economico": [
+        4,
+        4
+      ],
       "Económico/fiscal": [
         4,
         4
@@ -8636,9 +11715,17 @@
       "Comercio exterior": [
         1,
         1
+      ],
+      "regulacion_produccion": [
+        1,
+        1
       ]
     },
     "giordano-juan-carlos": {
+      "economico": [
+        2,
+        0
+      ],
       "Económico/fiscal": [
         2,
         0
@@ -8650,11 +11737,19 @@
       "Comercio exterior": [
         1,
         0
+      ],
+      "regulacion_produccion": [
+        1,
+        0
       ]
     }
   },
   "agg_subgrupo": {
     "3": {
+      "economico": [
+        773,
+        773
+      ],
       "Económico/fiscal": [
         773,
         773
@@ -8663,6 +11758,10 @@
         5307,
         5300
       ],
+      "institucional_derechos": [
+        260,
+        257
+      ],
       "Social/derechos": [
         130,
         130
@@ -8670,6 +11769,10 @@
       "Comercio exterior": [
         257,
         257
+      ],
+      "regulacion_produccion": [
+        645,
+        641
       ],
       "Laboral": [
         130,
@@ -8685,6 +11788,10 @@
       ]
     },
     "4": {
+      "economico": [
+        577,
+        1
+      ],
       "Económico/fiscal": [
         577,
         1
@@ -8693,6 +11800,10 @@
         3574,
         2331
       ],
+      "institucional_derechos": [
+        191,
+        1
+      ],
       "Social/derechos": [
         98,
         1
@@ -8700,6 +11811,10 @@
       "Comercio exterior": [
         188,
         50
+      ],
+      "regulacion_produccion": [
+        480,
+        52
       ],
       "Laboral": [
         99,
@@ -8715,6 +11830,10 @@
       ]
     },
     "6": {
+      "economico": [
+        11,
+        4
+      ],
       "Económico/fiscal": [
         11,
         4
@@ -8723,6 +11842,10 @@
         51,
         39
       ],
+      "institucional_derechos": [
+        3,
+        3
+      ],
       "Social/derechos": [
         1,
         1
@@ -8730,6 +11853,10 @@
       "Comercio exterior": [
         4,
         4
+      ],
+      "regulacion_produccion": [
+        10,
+        5
       ],
       "Laboral": [
         2,
@@ -8745,6 +11872,10 @@
       ]
     },
     "1": {
+      "economico": [
+        16,
+        9
+      ],
       "Económico/fiscal": [
         16,
         9
@@ -8753,6 +11884,10 @@
         118,
         102
       ],
+      "institucional_derechos": [
+        6,
+        0
+      ],
       "Social/derechos": [
         3,
         0
@@ -8760,6 +11895,10 @@
       "Comercio exterior": [
         6,
         6
+      ],
+      "regulacion_produccion": [
+        15,
+        12
       ],
       "Laboral": [
         3,
@@ -8775,6 +11914,10 @@
       ]
     },
     "7": {
+      "economico": [
+        7,
+        2
+      ],
       "Económico/fiscal": [
         7,
         2
@@ -8783,6 +11926,10 @@
         60,
         53
       ],
+      "institucional_derechos": [
+        4,
+        3
+      ],
       "Social/derechos": [
         2,
         2
@@ -8790,6 +11937,10 @@
       "Comercio exterior": [
         4,
         4
+      ],
+      "regulacion_produccion": [
+        9,
+        8
       ],
       "Laboral": [
         1,
@@ -8805,6 +11956,10 @@
       ]
     },
     "5": {
+      "economico": [
+        57,
+        10
+      ],
       "Económico/fiscal": [
         57,
         10
@@ -8813,6 +11968,10 @@
         366,
         282
       ],
+      "institucional_derechos": [
+        19,
+        11
+      ],
       "Social/derechos": [
         11,
         11
@@ -8820,6 +11979,10 @@
       "Comercio exterior": [
         20,
         20
+      ],
+      "regulacion_produccion": [
+        51,
+        22
       ],
       "Laboral": [
         10,
@@ -8835,6 +11998,10 @@
       ]
     },
     "2": {
+      "economico": [
+        21,
+        11
+      ],
       "Económico/fiscal": [
         21,
         11
@@ -8843,6 +12010,10 @@
         110,
         99
       ],
+      "institucional_derechos": [
+        6,
+        5
+      ],
       "Social/derechos": [
         4,
         4
@@ -8850,6 +12021,10 @@
       "Comercio exterior": [
         6,
         6
+      ],
+      "regulacion_produccion": [
+        16,
+        16
       ],
       "Laboral": [
         4,
@@ -8865,6 +12040,10 @@
       ]
     },
     "8": {
+      "economico": [
+        4,
+        0
+      ],
       "Económico/fiscal": [
         4,
         0
@@ -8877,6 +12056,10 @@
         2,
         2
       ],
+      "regulacion_produccion": [
+        5,
+        3
+      ],
       "Laboral": [
         1,
         0
@@ -8888,11 +12071,19 @@
       "Federal/servicios": [
         1,
         1
+      ],
+      "institucional_derechos": [
+        1,
+        1
       ]
     }
   },
   "agg_bloque": {
     "Unión Cívica Radical (UCR)": {
+      "economico": [
+        36,
+        36
+      ],
       "Económico/fiscal": [
         36,
         36
@@ -8901,6 +12092,10 @@
         226,
         226
       ],
+      "institucional_derechos": [
+        12,
+        12
+      ],
       "Social/derechos": [
         6,
         6
@@ -8908,6 +12103,10 @@
       "Comercio exterior": [
         12,
         12
+      ],
+      "regulacion_produccion": [
+        30,
+        30
       ],
       "Laboral": [
         6,
@@ -8923,6 +12122,10 @@
       ]
     },
     "Unión por la Patria": {
+      "economico": [
+        533,
+        1
+      ],
       "Económico/fiscal": [
         533,
         1
@@ -8931,6 +12134,10 @@
         3363,
         2246
       ],
+      "institucional_derechos": [
+        178,
+        0
+      ],
       "Social/derechos": [
         91,
         0
@@ -8938,6 +12145,10 @@
       "Comercio exterior": [
         176,
         47
+      ],
+      "regulacion_produccion": [
+        446,
+        49
       ],
       "Laboral": [
         91,
@@ -8953,6 +12164,10 @@
       ]
     },
     "La Libertad Avanza": {
+      "economico": [
+        562,
+        562
+      ],
       "Económico/fiscal": [
         562,
         562
@@ -8961,6 +12176,10 @@
         3896,
         3896
       ],
+      "institucional_derechos": [
+        187,
+        187
+      ],
       "Social/derechos": [
         94,
         94
@@ -8968,6 +12187,10 @@
       "Comercio exterior": [
         188,
         188
+      ],
+      "regulacion_produccion": [
+        468,
+        468
       ],
       "Laboral": [
         94,
@@ -8983,6 +12206,10 @@
       ]
     },
     "Pais Federal": {
+      "economico": [
+        4,
+        2
+      ],
       "Económico/fiscal": [
         4,
         2
@@ -8991,6 +12218,10 @@
         10,
         7
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         2,
         2
@@ -8999,12 +12230,20 @@
         2,
         2
       ],
+      "regulacion_produccion": [
+        4,
+        3
+      ],
       "Laboral": [
         2,
         1
       ]
     },
     "Propuesta Republicana (PRO)": {
+      "economico": [
+        71,
+        71
+      ],
       "Económico/fiscal": [
         71,
         71
@@ -9013,6 +12252,10 @@
         463,
         463
       ],
+      "institucional_derechos": [
+        23,
+        23
+      ],
       "Social/derechos": [
         11,
         11
@@ -9020,6 +12263,10 @@
       "Comercio exterior": [
         22,
         22
+      ],
+      "regulacion_produccion": [
+        57,
+        57
       ],
       "Laboral": [
         12,
@@ -9035,6 +12282,10 @@
       ]
     },
     "Provincias Unidas": {
+      "economico": [
+        88,
+        26
+      ],
       "Económico/fiscal": [
         88,
         26
@@ -9043,6 +12294,10 @@
         539,
         439
       ],
+      "institucional_derechos": [
+        30,
+        21
+      ],
       "Social/derechos": [
         17,
         17
@@ -9050,6 +12305,10 @@
       "Comercio exterior": [
         31,
         31
+      ],
+      "regulacion_produccion": [
+        77,
+        48
       ],
       "Laboral": [
         15,
@@ -9065,6 +12324,10 @@
       ]
     },
     "Innovación Federal": {
+      "economico": [
+        30,
+        30
+      ],
       "Económico/fiscal": [
         30,
         30
@@ -9073,6 +12336,10 @@
         195,
         193
       ],
+      "institucional_derechos": [
+        16,
+        14
+      ],
       "Social/derechos": [
         7,
         7
@@ -9080,6 +12347,10 @@
       "Comercio exterior": [
         7,
         7
+      ],
+      "regulacion_produccion": [
+        31,
+        31
       ],
       "Laboral": [
         7,
@@ -9095,6 +12366,10 @@
       ]
     },
     "Elijo Catamarca": {
+      "economico": [
+        16,
+        9
+      ],
       "Económico/fiscal": [
         16,
         9
@@ -9103,6 +12378,10 @@
         118,
         102
       ],
+      "institucional_derechos": [
+        6,
+        0
+      ],
       "Social/derechos": [
         3,
         0
@@ -9110,6 +12389,10 @@
       "Comercio exterior": [
         6,
         6
+      ],
+      "regulacion_produccion": [
+        15,
+        12
       ],
       "Laboral": [
         3,
@@ -9125,6 +12408,10 @@
       ]
     },
     "Adelante Buenos Aires": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -9133,6 +12420,10 @@
         41,
         40
       ],
+      "institucional_derechos": [
+        2,
+        1
+      ],
       "Social/derechos": [
         1,
         1
@@ -9140,6 +12431,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -9155,6 +12450,10 @@
       ]
     },
     "Frente de Izquierda y de los Trabajadores - Unidad (PTS)": {
+      "economico": [
+        12,
+        0
+      ],
       "Económico/fiscal": [
         12,
         0
@@ -9163,12 +12462,20 @@
         60,
         14
       ],
+      "institucional_derechos": [
+        4,
+        0
+      ],
       "Social/derechos": [
         2,
         0
       ],
       "Comercio exterior": [
         4,
+        0
+      ],
+      "regulacion_produccion": [
+        10,
         0
       ],
       "Laboral": [
@@ -9185,6 +12492,10 @@
       ]
     },
     "Defendamos Córdoba": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -9193,12 +12504,20 @@
         35,
         23
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        1
+      ],
+      "regulacion_produccion": [
+        5,
         1
       ],
       "Laboral": [
@@ -9215,6 +12534,10 @@
       ]
     },
     "Frente de Izquierda y de los Trabajadores - Unidad (Partido Obrero)": {
+      "economico": [
+        10,
+        0
+      ],
       "Económico/fiscal": [
         10,
         0
@@ -9223,12 +12546,20 @@
         54,
         12
       ],
+      "institucional_derechos": [
+        4,
+        0
+      ],
       "Social/derechos": [
         2,
         0
       ],
       "Comercio exterior": [
         3,
+        0
+      ],
+      "regulacion_produccion": [
+        9,
         0
       ],
       "Laboral": [
@@ -9245,6 +12576,10 @@
       ]
     },
     "Movimiento de Integración y Desarrollo (MID)": {
+      "economico": [
+        12,
+        12
+      ],
       "Económico/fiscal": [
         12,
         12
@@ -9253,6 +12588,10 @@
         78,
         76
       ],
+      "institucional_derechos": [
+        4,
+        4
+      ],
       "Social/derechos": [
         2,
         2
@@ -9260,6 +12599,10 @@
       "Comercio exterior": [
         4,
         4
+      ],
+      "regulacion_produccion": [
+        10,
+        8
       ],
       "Laboral": [
         2,
@@ -9275,6 +12618,10 @@
       ]
     },
     "Independencia": {
+      "economico": [
+        16,
+        16
+      ],
       "Económico/fiscal": [
         16,
         16
@@ -9283,6 +12630,10 @@
         122,
         122
       ],
+      "institucional_derechos": [
+        6,
+        6
+      ],
       "Social/derechos": [
         3,
         3
@@ -9290,6 +12641,10 @@
       "Comercio exterior": [
         6,
         6
+      ],
+      "regulacion_produccion": [
+        14,
+        14
       ],
       "Laboral": [
         2,
@@ -9305,6 +12660,10 @@
       ]
     },
     "Primero San Luis": {
+      "economico": [
+        6,
+        0
+      ],
       "Económico/fiscal": [
         6,
         0
@@ -9313,12 +12672,20 @@
         42,
         30
       ],
+      "institucional_derechos": [
+        2,
+        0
+      ],
       "Social/derechos": [
         1,
         0
       ],
       "Comercio exterior": [
         2,
+        1
+      ],
+      "regulacion_produccion": [
+        5,
         1
       ],
       "Laboral": [
@@ -9335,6 +12702,10 @@
       ]
     },
     "Coalición Cívica": {
+      "economico": [
+        8,
+        1
+      ],
       "Económico/fiscal": [
         8,
         1
@@ -9343,12 +12714,20 @@
         48,
         34
       ],
+      "institucional_derechos": [
+        2,
+        1
+      ],
       "Social/derechos": [
         1,
         1
       ],
       "Comercio exterior": [
         3,
+        3
+      ],
+      "regulacion_produccion": [
+        9,
         3
       ],
       "Laboral": [
@@ -9365,6 +12744,10 @@
       ]
     },
     "Por Santa Cruz": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -9373,6 +12756,10 @@
         38,
         38
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -9380,6 +12767,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        5
       ],
       "Laboral": [
         1,
@@ -9395,6 +12786,10 @@
       ]
     },
     "Producción y Trabajo": {
+      "economico": [
+        12,
+        12
+      ],
       "Económico/fiscal": [
         12,
         12
@@ -9403,6 +12798,10 @@
         84,
         84
       ],
+      "institucional_derechos": [
+        4,
+        4
+      ],
       "Social/derechos": [
         2,
         2
@@ -9410,6 +12809,10 @@
       "Comercio exterior": [
         4,
         4
+      ],
+      "regulacion_produccion": [
+        10,
+        10
       ],
       "Laboral": [
         2,
@@ -9425,6 +12828,10 @@
       ]
     },
     "Encuentro Federal": {
+      "economico": [
+        8,
+        0
+      ],
       "Económico/fiscal": [
         8,
         0
@@ -9433,6 +12840,10 @@
         46,
         34
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -9440,6 +12851,10 @@
       "Comercio exterior": [
         3,
         3
+      ],
+      "regulacion_produccion": [
+        8,
+        4
       ],
       "Laboral": [
         2,
@@ -9455,6 +12870,10 @@
       ]
     },
     "La Neuquinidad": {
+      "economico": [
+        6,
+        6
+      ],
       "Económico/fiscal": [
         6,
         6
@@ -9463,6 +12882,10 @@
         42,
         41
       ],
+      "institucional_derechos": [
+        2,
+        2
+      ],
       "Social/derechos": [
         1,
         1
@@ -9470,6 +12893,10 @@
       "Comercio exterior": [
         2,
         2
+      ],
+      "regulacion_produccion": [
+        5,
+        4
       ],
       "Laboral": [
         1,
@@ -9485,6 +12912,10 @@
       ]
     },
     "Coherencia": {
+      "regulacion_produccion": [
+        2,
+        0
+      ],
       "Laboral": [
         1,
         0
@@ -9497,12 +12928,20 @@
         1,
         0
       ],
+      "economico": [
+        4,
+        0
+      ],
       "Económico/fiscal": [
         4,
         0
       ]
     },
     "Frente de Izquierda y de los Trabajadores - Unidad (Izquierda Socialista)": {
+      "economico": [
+        2,
+        0
+      ],
       "Económico/fiscal": [
         2,
         0
@@ -9514,9 +12953,17 @@
       "Comercio exterior": [
         1,
         0
+      ],
+      "regulacion_produccion": [
+        1,
+        0
       ]
     },
     "Argentina Federal": {
+      "economico": [
+        18,
+        18
+      ],
       "Económico/fiscal": [
         18,
         18
@@ -9526,6 +12973,10 @@
         137
       ],
       "Comercio exterior": [
+        7,
+        7
+      ],
+      "regulacion_produccion": [
         7,
         7
       ]

@@ -57,6 +57,7 @@ MAPEO_BLOQUES_PATH = INGESTA_DIR / "mapeo_bloques_diputados.json"
 COHESION_PATH = DATA_DIR / "cohesion_bloques_fondo_general.csv"
 CLUSTERS_PATH = DATA_DIR / "clusters_conflicto_13actas.csv"
 EJES_PATH = CLASIFICACION_DIR / "ejes_manuales.yaml"
+GRUPOS_TEMATICOS_PATH = CLASIFICACION_DIR / "grupos_tematicos.yaml"
 ARTEFACTO_PATH_DEFAULT = MODELO_DIR / "artefacto_evidencia.json"
 
 CORTE_SUBGRUPO_K = 8  # confirmado con el usuario
@@ -98,16 +99,28 @@ class RepositorioEvidencia:
         self._subgrupo = self._cargar_subgrupo()
         self._cohesion = self._cargar_cohesion()
         self._ejes_por_acta = self._cargar_ejes()
+        self._eje_a_grupo = self._cargar_eje_a_grupo()
 
-        # agregados[nivel][clave][eje_o_None] = [n, afirmativos]
+        # agregados[nivel][clave][eje_o_grupo_o_None] = [n, afirmativos]
+        # el grupo temático grueso (ver grupos_tematicos.yaml) vive en el
+        # MISMO espacio de claves que el eje fino -- sus ids ("economico",
+        # "regulacion_produccion", "institucional_derechos") no chocan con
+        # ningún nombre de eje real ("Económico/fiscal", etc.), así que
+        # tasa_individual(id, eje="economico") funciona sin tocar nada más
+        # en el modelo (promedios.py) ni en la serialización del artefacto.
         self._agg_individual = defaultdict(lambda: defaultdict(lambda: [0, 0]))
         self._agg_subgrupo = defaultdict(lambda: defaultdict(lambda: [0, 0]))
         self._agg_bloque = defaultdict(lambda: defaultdict(lambda: [0, 0]))
         self._actas_por_eje = defaultdict(set)
+        self._actas_por_grupo = defaultdict(set)
+        self._actas_generales = set()
         self._cargar_y_agregar_votos()
 
         self._ejes_disponibles = sorted(self._actas_por_eje.keys())
         self._n_actas_por_eje = {eje: len(actas) for eje, actas in self._actas_por_eje.items()}
+        self._grupos_disponibles = sorted(self._actas_por_grupo.keys())
+        self._n_actas_por_grupo = {g: len(actas) for g, actas in self._actas_por_grupo.items()}
+        self._n_actas_generales = len(self._actas_generales)
 
     # ------------------------------------------------------------------
     # carga (pipeline completo, offline)
@@ -152,6 +165,16 @@ class RepositorioEvidencia:
         data = yaml.safe_load(EJES_PATH.read_text(encoding="utf-8")) or {}
         return {str(k): v for k, v in data.items()}
 
+    def _cargar_eje_a_grupo(self):
+        import yaml  # import local: la app (desde_artefacto) no necesita PyYAML
+
+        data = yaml.safe_load(GRUPOS_TEMATICOS_PATH.read_text(encoding="utf-8")) or {}
+        eje_a_grupo = {}
+        for grupo, info in data.items():
+            for eje in (info or {}).get("ejes", []):
+                eje_a_grupo[eje] = grupo
+        return eje_a_grupo
+
     def _cargar_y_agregar_votos(self):
         with open(VOTOS_PATH, encoding="utf-8") as f:
             for fila in csv.DictReader(f):
@@ -166,15 +189,21 @@ class RepositorioEvidencia:
                 id_ = fila["id_diputado"]
                 bloque = fila["bloque_canonico_en_esa_fecha"]
                 eje = self._ejes_por_acta.get(fila["acta_id"])  # None si no está en las 13 etiquetadas
+                grupo = self._eje_a_grupo.get(eje) if eje is not None else None
                 subgrupo = self._subgrupo.get(id_)
                 es_afirmativo = 1 if voto == "AFIRMATIVO" else 0
 
+                self._actas_generales.add(fila["acta_id"])
                 if eje is not None:
                     self._actas_por_eje[eje].add(fila["acta_id"])
+                if grupo is not None:
+                    self._actas_por_grupo[grupo].add(fila["acta_id"])
 
-                # siempre suma al bucket general (eje=None); además, si esta
-                # acta tiene eje asignado, suma también al bucket de ese eje
-                for clave_eje in {None, eje}:
+                # siempre suma al bucket general (clave=None); además, si
+                # esta acta tiene eje y/o grupo asignado, suma también a
+                # esos buckets (ver comentario en __init__ sobre por qué el
+                # grupo comparte espacio de claves con el eje fino)
+                for clave_eje in {None, eje, grupo}:
                     self._agg_individual[id_][clave_eje][0] += 1
                     self._agg_individual[id_][clave_eje][1] += es_afirmativo
                     self._agg_bloque[bloque][clave_eje][0] += 1
@@ -219,6 +248,9 @@ class RepositorioEvidencia:
             "cohesion": dict(self._cohesion),
             "ejes_disponibles": list(self._ejes_disponibles),
             "n_actas_por_eje": dict(self._n_actas_por_eje),
+            "grupos_disponibles": list(self._grupos_disponibles),
+            "n_actas_por_grupo": dict(self._n_actas_por_grupo),
+            "n_actas_generales": self._n_actas_generales,
             "agg_individual": self._serializar_agg(self._agg_individual),
             "agg_subgrupo": self._serializar_agg(self._agg_subgrupo),
             "agg_bloque": self._serializar_agg(self._agg_bloque),
@@ -242,6 +274,9 @@ class RepositorioEvidencia:
         obj._cohesion = dict(datos["cohesion"])
         obj._ejes_disponibles = list(datos["ejes_disponibles"])
         obj._n_actas_por_eje = dict(datos["n_actas_por_eje"])
+        obj._grupos_disponibles = list(datos.get("grupos_disponibles", []))
+        obj._n_actas_por_grupo = dict(datos.get("n_actas_por_grupo", {}))
+        obj._n_actas_generales = datos.get("n_actas_generales", 0)
         obj._agg_individual = cls._deserializar_agg(datos["agg_individual"], str)
         obj._agg_subgrupo = cls._deserializar_agg(datos["agg_subgrupo"], int)
         obj._agg_bloque = cls._deserializar_agg(datos["agg_bloque"], str)
@@ -274,6 +309,19 @@ class RepositorioEvidencia:
 
     def n_actas_por_eje(self) -> dict:
         return dict(self._n_actas_por_eje)
+
+    def grupos_disponibles(self) -> list:
+        return list(self._grupos_disponibles)
+
+    def n_actas_por_grupo(self) -> dict:
+        return dict(self._n_actas_por_grupo)
+
+    def n_actas_generales(self) -> int:
+        """Total de actas FONDO_GENERAL de la ventana, tengan o no eje/
+        grupo asignado -- el tamaño de la evidencia que usa la red de
+        seguridad (clasificacion.grupo_tematico.GRUPO_GENERAL) cuando una
+        OD no cae con confianza en ningún grupo."""
+        return self._n_actas_generales
 
     def _tasa(self, agg: dict, clave, eje: Optional[str]) -> TasaEvidencia:
         n, afirmativos = agg.get(clave, {}).get(eje, [0, 0])
